@@ -28,6 +28,11 @@ export default [
     icon: 'smile',
     component: './Welcome',
   },
+  {
+    path: 'new',
+    name: 'new',
+    component: 'NewPage',
+  },
 
   {
     path: '/',
