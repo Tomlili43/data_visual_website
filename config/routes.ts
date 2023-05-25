@@ -29,9 +29,9 @@ export default [
     component: './Welcome',
   },
   {
-    path: 'new',
-    name: 'new',
-    component: 'NewPage',
+    path: 'uniqueproducts',
+    name: 'uniqueproducts',
+    component: 'UniqueProducts',
   },
 
   {
