@@ -25,15 +25,23 @@ const UniqueProducts = () => {
         formatter: (v) => `${v}`.replace(/\d{1,3}(?=(\d{3})+$)/g, (s) => `${s},`),
       },
     },
-    height: 700,
+    height: 780,
     color: COLOR_PLATE_10,
-    
+    slider: {
+      start: 0,
+      end: 1,
+    },
+    legend: {
+      position: 'right-top',
+      flipPage: false,
+    },
   };
 
   return (
     <div>
       <h1>Unique Product ASIN by Month per Category</h1>
       <Line {...config} />
+      <p>by Derek Zheng</p>
     </div>
   );
 };
