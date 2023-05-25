@@ -1,5 +1,5 @@
 import { Line } from '@ant-design/plots';
-import data from './unique_products_by_month.json'
+import data from './data/unique_products_by_month.json'
 
 const UniqueProducts = () => {
   const COLOR_PLATE_10 = [
@@ -39,9 +39,9 @@ const UniqueProducts = () => {
 
   return (
     <div>
-      <h1>Unique Product ASIN by Month per Category</h1>
+      <h1>Unique Product ASIN by Month per Category</h1> 
+      <h4 style={{textAlign: 'right', fontWeight: 'normal' }}>by Derek Zheng</h4>
       <Line {...config} />
-      <p>by Derek Zheng</p>
     </div>
   );
 };
