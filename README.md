@@ -1,57 +1,21 @@
-# Ant Design Pro
+# asw_base_hktl
+# 代码规范：
+	1. 采用函数式组件
+	2. 使用ant design pro 的request  或者column 引入数据
+    3. 变量名采用下划线并且有意义
 
-This project is initialized with [Ant Design Pro](https://pro.ant.design). Follow is the quick guide for how to use.
 
-## Environment Prepare
+# 项目子组件位置 
+    页面文件夹下建立components folder 
 
-Install `node_modules`:
 
-```bash
-npm install
-```
+# git使用规范
+    建立本地分支（命名规范：姓名_作用名）
+    不复制和粘贴没有修改文件夹
+    每次提交需要pull request
+    代码合并后删除本地分支
+    代码合并后删除远程分支
 
-or
-
-```bash
-yarn
-```
-
-## Provided Scripts
-
-Ant Design Pro provides some useful script to help you quick start and build with web project, code style check and test.
-
-Scripts provided in `package.json`. It's safe to modify or add additional script:
-
-### Start project
-
-```bash
-npm start
-```
-
-### Build project
-
-```bash
-npm run build
-```
-
-### Check code style
-
-```bash
-npm run lint
-```
-
-You can also use script to auto fix some lint error:
-
-```bash
-npm run lint:fix
-```
-
-### Test code
-
-```bash
-npm test
-```
-
-## More
-
-You can view full document on our [official website](https://pro.ant.design). And welcome any feedback in our [github](https://github.com/ant-design/ant-design-pro).
+# 项目启动
+    yarn
+    npm run start
