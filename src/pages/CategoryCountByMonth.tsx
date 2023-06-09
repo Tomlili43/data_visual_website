@@ -2,6 +2,16 @@ import { Line } from '@ant-design/plots';
 import data from './data/unique_products_by_month.json'
 
 const CategoryCountByMonth = () => {
+/**
+ * Data of format:
+ * [{"date": "2015-02", "Count": 2315, "category": "Appliances "}, 
+ * {"date": "2015-02", "Count": 10333, "category": "Arts, Crafts & Sewing "}, 
+ * {"date": "2015-02", "Count": 161673, "category": "Automotive "},
+ * ...]
+ * Ordered by month and then by category, order should not matter
+ */
+
+
   const COLOR_PLATE_10 = [
     '#5B8FF9',
     '#5AD8A6',
@@ -25,9 +35,9 @@ const CategoryCountByMonth = () => {
         formatter: (v) => `${v}`.replace(/\d{1,3}(?=(\d{3})+$)/g, (s) => `${s},`),
       },
       title: {
-        text: 'test',
+        text: 'Product ASIN Count',
         style: {
-          fontSize: 14,
+          fontSize: 16,
           fontWeight: 'bold'
         }
       }
@@ -47,7 +57,6 @@ const CategoryCountByMonth = () => {
   return (
     <div>
       <h1>Unique Product ASIN by Month per Category</h1> 
-      <h4>Template for local import</h4>
       <h4 style={{textAlign: 'right', fontWeight: 'normal' }}>by Derek Zheng</h4>
       <Line {...config} />
     </div>

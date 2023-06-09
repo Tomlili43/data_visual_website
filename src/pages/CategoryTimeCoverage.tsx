@@ -4,18 +4,6 @@ import React, { useState, useEffect } from 'react';
 
 const CategoryTimeCoverage = () => {
   // To create a new page update routes.ts and relevant locales
-  const COLOR_PLATE_10 = [
-    '#5B8FF9',
-    '#5AD8A6',
-    '#5D7092',
-    '#F6BD16',
-    '#E8684A',
-    '#6DC8EC',
-    '#9270CA',
-    '#FF9D4D',
-    '#269A99',
-    '#FF99C3',
-  ];
 /** 
  * DESIRED FORMAT: 
  * type --> category in a string
@@ -90,7 +78,7 @@ const CategoryTimeCoverage = () => {
       content: (value) => (Math.abs(value['values'][1] - value['values'][0]) / (1000 * 60 * 60 * 24)) + " days",
     },
     height: 780,
-    color: COLOR_PLATE_10,
+    //color: COLOR_PLATE_10,
     tooltip: {
       fields: ['values'],
       formatter: (datum) => {

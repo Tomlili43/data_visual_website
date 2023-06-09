@@ -10,6 +10,7 @@ export default {
   'navBar.lang': 'Languages',
   'menu.categoryTimeCoverage': 'Category Time Coverage',
   'menu.totalProductByMonth': 'Total Product By Month',
+  'menu.totalDBProductByWeek': 'Total DB Product By Week',
   'menu.categoryDistribution': 'Category Distribution',
   'menu.categoryCountByMonth': 'Category Counts By Month',
   'layout.user.link.help': 'Help',

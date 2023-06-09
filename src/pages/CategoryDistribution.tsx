@@ -1,8 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Pie } from '@ant-design/plots';
-import axios, { AxiosResponse } from 'axios';
-import fs from 'fs';
-//import data from './data/unique_products_by_month.json'
+// import axios, { AxiosResponse } from 'axios';
 
 interface DataItem {
   type: string;
@@ -14,28 +12,51 @@ interface ApiResponse {
 }
 
 const CategoryDistribution = () => {
-  const [data, setData] = useState<DataItem[]>([]);
-  useEffect(() => { 
+  // const [data, setData] = useState<DataItem[]>([]);
+  // useEffect(() => { 
 
-    console.log('Sending HTTP GET request');
-    axios.get<ApiResponse>('https://192.168.5.154:48499/asinBasicInfo/grouped')
-      .then((response: AxiosResponse<ApiResponse>) => {
-        console.log('Received HTTP response');
-        const newData = response.data.data.map((item: string, index: number) => {
-          const lastCommaIndex = item.lastIndexOf(',');
-          const type = item.substring(0, lastCommaIndex).trim();
-          const value = parseInt(item.substring(lastCommaIndex + 1).trim(), 10);
-          return { type, value };
-        });
-        setData(newData);
-        const dataJson = JSON.stringify(newData);
-        const fs = require('fs');
-        fs.writeFileSync('./data/category_distribution.json', dataJson);
-      })
-      .catch(error => {
-        console.error('Error in HTTP request', error); 
-      });
-  }, []);
+  //   console.log('Sending HTTP GET request');
+  //   axios.get<ApiResponse>('https://192.168.5.154:48499/asinBasicInfo/grouped')
+  //     .then((response: AxiosResponse<ApiResponse>) => {
+  //       console.log('Received HTTP response');
+  //       const newData = response.data.data.map((item: string, index: number) => {
+  //         const lastCommaIndex = item.lastIndexOf(',');
+  //         const type = item.substring(0, lastCommaIndex).trim();
+  //         const value = parseInt(item.substring(lastCommaIndex + 1).trim(), 10);
+  //         return { type, value };
+  //       });
+  //       setData(newData);
+  //       const dataJson = JSON.stringify(newData);
+  //       const fs = require('fs');
+  //       fs.writeFileSync('./data/category_distribution.json', dataJson);
+  //     })
+  //     .catch(error => {
+  //       console.error('Error in HTTP request', error); 
+  //     });
+  // }, []);
+  const data = [
+    { type: 'Arts, Crafts & Sewing', value: 269421 },
+    { type: 'Automotive', value: 1499869 },
+    { type: 'Baby Products', value: 127057 },
+    { type: 'Beauty & Personal Care', value: 354498 },
+    { type: 'CDs & Vinyl', value: 55375 },
+    { type: 'Cell Phones & Accessories', value: 64738 },
+    { type: 'Clothing, Shoes & Jewelry', value: 1193970 },
+    { type: 'Electronics', value: 274621 },
+    { type: 'Grocery & Gourmet Food', value: 93750 },
+    { type: 'Health & Household', value: 251823 },
+    { type: 'Home & Kitchen', value: 3074730 },
+    { type: 'Industrial & Scientific', value: 368117 },
+    { type: 'Office Products', value: 189233 },
+    { type: 'Patio, Lawn & Garden', value: 212527 },
+    { type: 'Pet Supplies', value: 205071 },
+    { type: 'Sports & Outdoors', value: 653457 },
+    { type: 'Tools & Home Improvement', value: 1179638 },
+    { type: 'Toys & Games', value: 490157 },
+    { type: 'Video Games', value: 60709 },
+    { type: 'No Category', value: 444058 }
+    //... maybe only want the largest 20?
+  ];
 
   const COLOR_PLATE_10 = [
     '#5B8FF9',
@@ -59,8 +80,6 @@ const CategoryDistribution = () => {
       type: 'spider',
       labelHeight: 28,
       content: '{name}\n{percentage}',
-      // 数值格式化为千分位
-      formatter: (v) => `${v}`.replace(/\d{1,3}(?=(\d{3})+$)/g, (s) => `${s},`),
     },
     height: 710,
     color: COLOR_PLATE_10,
@@ -82,7 +101,6 @@ const CategoryDistribution = () => {
   return (
     <div>
       <h1>Category Distribution</h1>
-      <h4>GET request template</h4>
       <h4 style={{textAlign: 'right', fontWeight: 'normal' }}>by Derek Zheng</h4>
       <Pie {...config} />
     </div>

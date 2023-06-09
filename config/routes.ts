@@ -47,6 +47,12 @@ export default [
   },
 
   {
+    path: 'totalDBProductByWeek',
+    name: 'totalDBProductByWeek',
+    component: 'TotalDBProductByWeek',
+  },
+
+  {
     path: 'categoryCountByMonth',
     name: 'categoryCountByMonth',
     component: 'CategoryCountByMonth',
