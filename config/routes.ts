@@ -29,9 +29,27 @@ export default [
     component: './Welcome',
   },
   {
-    path: 'uniqueproducts',
-    name: 'uniqueproducts',
-    component: 'UniqueProducts',
+    path: 'categoryDistribution',
+    name: 'categoryDistribution',
+    component: 'CategoryDistribution',
+  },
+
+  {
+    path: 'categoryTimeCoverage',
+    name: 'categoryTimeCoverage',
+    component: 'CategoryTimeCoverage',
+  },
+
+  {
+    path: 'totalProductByMonth',
+    name: 'totalProductByMonth',
+    component: 'TotalProductByMonth',
+  },
+
+  {
+    path: 'categoryCountByMonth',
+    name: 'categoryCountByMonth',
+    component: 'CategoryCountByMonth',
   },
 
   {

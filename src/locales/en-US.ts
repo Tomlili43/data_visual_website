@@ -8,7 +8,10 @@ import settings from './en-US/settings';
 
 export default {
   'navBar.lang': 'Languages',
-  'menu.uniqueproducts': 'Unique Products',
+  'menu.categoryTimeCoverage': 'Category Time Coverage',
+  'menu.totalProductByMonth': 'Total Product By Month',
+  'menu.categoryDistribution': 'Category Distribution',
+  'menu.categoryCountByMonth': 'Category Counts By Month',
   'layout.user.link.help': 'Help',
   'layout.user.link.privacy': 'Privacy',
   'layout.user.link.terms': 'Terms',

@@ -1,7 +1,7 @@
 import { Line } from '@ant-design/plots';
 import data from './data/unique_products_by_month.json'
 
-const UniqueProducts = () => {
+const CategoryCountByMonth = () => {
   const COLOR_PLATE_10 = [
     '#5B8FF9',
     '#5AD8A6',
@@ -24,6 +24,13 @@ const UniqueProducts = () => {
         // 数值格式化为千分位
         formatter: (v) => `${v}`.replace(/\d{1,3}(?=(\d{3})+$)/g, (s) => `${s},`),
       },
+      title: {
+        text: 'test',
+        style: {
+          fontSize: 14,
+          fontWeight: 'bold'
+        }
+      }
     },
     height: 780,
     color: COLOR_PLATE_10,
@@ -40,10 +47,11 @@ const UniqueProducts = () => {
   return (
     <div>
       <h1>Unique Product ASIN by Month per Category</h1> 
+      <h4>Template for local import</h4>
       <h4 style={{textAlign: 'right', fontWeight: 'normal' }}>by Derek Zheng</h4>
       <Line {...config} />
     </div>
   );
 };
 
-export default UniqueProducts;
+export default CategoryCountByMonth;
