@@ -16,7 +16,15 @@
     每次提交需要pull request
     代码合并后删除本地分支
     代码合并后删除远程分支
-
+# git basic rules
+    1. pull before push
+    2. commit message format: name_action_content
+    3. commit message language: English
+    4. branch name format: name_action
+    5. avoid copy or paste file without modification
+    6. delete branch after merge
+    7. delete remote branch after merge
+    8. pull request before merge
 # 项目启动
     yarn
     npm run start
