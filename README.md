@@ -3,6 +3,7 @@
 	1. 采用函数式组件
 	2. 使用ant design pro 的request  或者column 引入数据
     3. 变量名采用下划线并且有意义
+    4. 如果前后端开发速度不一致，使用ant_design_mock  
 
 
 # 项目子组件位置 
