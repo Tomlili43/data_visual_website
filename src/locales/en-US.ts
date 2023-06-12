@@ -8,6 +8,7 @@ import settings from './en-US/settings';
 
 export default {
   'navBar.lang': 'Languages',
+  'menu.Visualizations': 'Real-Time Data',
   'menu.Visualizations.categoryTimeCoverage': 'Category Time Coverage',
   'menu.Visualizations.totalProductByMonth': 'Total Product By Month',
   'menu.Visualizations.totalDBProductByWeek': 'Total DB Product By Week',
