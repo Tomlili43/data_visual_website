@@ -12,28 +12,6 @@ interface ApiResponse {
 }
 
 const CategoryDistribution = () => {
-  // const [data, setData] = useState<DataItem[]>([]);
-  // useEffect(() => { 
-
-  //   console.log('Sending HTTP GET request');
-  //   axios.get<ApiResponse>('https://192.168.5.154:48499/asinBasicInfo/grouped')
-  //     .then((response: AxiosResponse<ApiResponse>) => {
-  //       console.log('Received HTTP response');
-  //       const newData = response.data.data.map((item: string, index: number) => {
-  //         const lastCommaIndex = item.lastIndexOf(',');
-  //         const type = item.substring(0, lastCommaIndex).trim();
-  //         const value = parseInt(item.substring(lastCommaIndex + 1).trim(), 10);
-  //         return { type, value };
-  //       });
-  //       setData(newData);
-  //       const dataJson = JSON.stringify(newData);
-  //       const fs = require('fs');
-  //       fs.writeFileSync('./data/category_distribution.json', dataJson);
-  //     })
-  //     .catch(error => {
-  //       console.error('Error in HTTP request', error); 
-  //     });
-  // }, []);
   const data = [
     { type: 'Arts, Crafts & Sewing', value: 269421 },
     { type: 'Automotive', value: 1499869 },

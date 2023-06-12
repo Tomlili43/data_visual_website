@@ -30,8 +30,46 @@ export default [
   },
 
   {
-    path: '/visualizations',
-    name: 'Visualizations',
+    path: '/visualizations1',
+    name: 'Visualizations1',
+    icon: 'BarChartOutlined',
+    divider: true,
+    routes: [
+      {
+        path: 'categoryDistribution',
+        name: 'categoryDistribution',
+        component: 'CategoryDistribution',
+      },
+    
+      {
+        path: 'categoryTimeCoverage',
+        name: 'categoryTimeCoverage',
+        component: 'CategoryTimeCoverage',
+      },
+    
+      {
+        path: 'totalProductByMonth',
+        name: 'totalProductByMonth',
+        component: 'TotalProductByMonth',
+      },
+    
+      {
+        path: 'totalDBProductByWeek',
+        name: 'totalDBProductByWeek',
+        component: 'TotalDBProductByWeek',
+      },
+    
+      {
+        path: 'categoryCountByMonth',
+        name: 'categoryCountByMonth',
+        component: 'CategoryCountByMonth',
+      },
+    ]
+  },
+
+  {
+    path: '/visualizations2',
+    name: 'Visualizations2',
     icon: 'BarChartOutlined',
     divider: true,
     routes: [
