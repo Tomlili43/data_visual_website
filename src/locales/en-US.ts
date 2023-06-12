@@ -8,11 +8,11 @@ import settings from './en-US/settings';
 
 export default {
   'navBar.lang': 'Languages',
-  'menu.categoryTimeCoverage': 'Category Time Coverage',
-  'menu.totalProductByMonth': 'Total Product By Month',
-  'menu.totalDBProductByWeek': 'Total DB Product By Week',
-  'menu.categoryDistribution': 'Category Distribution',
-  'menu.categoryCountByMonth': 'Category Counts By Month',
+  'menu.Visualizations.categoryTimeCoverage': 'Category Time Coverage',
+  'menu.Visualizations.totalProductByMonth': 'Total Product By Month',
+  'menu.Visualizations.totalDBProductByWeek': 'Total DB Product By Week',
+  'menu.Visualizations.categoryDistribution': 'Category Distribution',
+  'menu.Visualizations.categoryCountByMonth': 'Category Counts By Month',
   'layout.user.link.help': 'Help',
   'layout.user.link.privacy': 'Privacy',
   'layout.user.link.terms': 'Terms',

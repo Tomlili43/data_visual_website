@@ -2,9 +2,6 @@ import { Line } from '@ant-design/plots';
 import React, { useState, useEffect } from 'react';
 
 const TotalProductByMonth = () => {
-
-
-
   const [data, setData] = useState([]);
 
   useEffect(() => {

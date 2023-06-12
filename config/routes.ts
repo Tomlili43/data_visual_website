@@ -28,34 +28,43 @@ export default [
     icon: 'smile',
     component: './Welcome',
   },
-  {
-    path: 'categoryDistribution',
-    name: 'categoryDistribution',
-    component: 'CategoryDistribution',
-  },
 
   {
-    path: 'categoryTimeCoverage',
-    name: 'categoryTimeCoverage',
-    component: 'CategoryTimeCoverage',
-  },
-
-  {
-    path: 'totalProductByMonth',
-    name: 'totalProductByMonth',
-    component: 'TotalProductByMonth',
-  },
-
-  {
-    path: 'totalDBProductByWeek',
-    name: 'totalDBProductByWeek',
-    component: 'TotalDBProductByWeek',
-  },
-
-  {
-    path: 'categoryCountByMonth',
-    name: 'categoryCountByMonth',
-    component: 'CategoryCountByMonth',
+    path: '/visualizations',
+    name: 'Visualizations',
+    icon: 'BarChartOutlined',
+    divider: true,
+    routes: [
+      {
+        path: 'categoryDistribution',
+        name: 'categoryDistribution',
+        component: 'CategoryDistribution',
+      },
+    
+      {
+        path: 'categoryTimeCoverage',
+        name: 'categoryTimeCoverage',
+        component: 'CategoryTimeCoverage',
+      },
+    
+      {
+        path: 'totalProductByMonth',
+        name: 'totalProductByMonth',
+        component: 'TotalProductByMonth',
+      },
+    
+      {
+        path: 'totalDBProductByWeek',
+        name: 'totalDBProductByWeek',
+        component: 'TotalDBProductByWeek',
+      },
+    
+      {
+        path: 'categoryCountByMonth',
+        name: 'categoryCountByMonth',
+        component: 'CategoryCountByMonth',
+      },
+    ]
   },
 
   {
