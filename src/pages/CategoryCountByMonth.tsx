@@ -1,7 +1,17 @@
 import { Line } from '@ant-design/plots';
 import data from './data/unique_products_by_month.json'
 
-const UniqueProducts = () => {
+const CategoryCountByMonth = () => {
+/**
+ * Data of format:
+ * [{"date": "2015-02", "Count": 2315, "category": "Appliances "}, 
+ * {"date": "2015-02", "Count": 10333, "category": "Arts, Crafts & Sewing "}, 
+ * {"date": "2015-02", "Count": 161673, "category": "Automotive "},
+ * ...]
+ * Ordered by month and then by category, order should not matter
+ */
+
+
   const COLOR_PLATE_10 = [
     '#5B8FF9',
     '#5AD8A6',
@@ -24,6 +34,13 @@ const UniqueProducts = () => {
         // 数值格式化为千分位
         formatter: (v) => `${v}`.replace(/\d{1,3}(?=(\d{3})+$)/g, (s) => `${s},`),
       },
+      title: {
+        text: 'Product ASIN Count',
+        style: {
+          fontSize: 16,
+          fontWeight: 'bold'
+        }
+      }
     },
     height: 780,
     color: COLOR_PLATE_10,
@@ -46,4 +63,4 @@ const UniqueProducts = () => {
   );
 };
 
-export default UniqueProducts;
+export default CategoryCountByMonth;

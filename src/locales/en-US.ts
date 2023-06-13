@@ -8,7 +8,17 @@ import settings from './en-US/settings';
 
 export default {
   'navBar.lang': 'Languages',
-  'menu.uniqueproducts': 'Unique Products',
+  'menu.Visualizations': 'Real-Time Data',
+  'menu.Visualizations1.categoryTimeCoverage': 'Category Time Coverage',
+  'menu.Visualizations1.totalProductByMonth': 'Total Product By Month',
+  'menu.Visualizations1.totalDBProductByWeek': 'Total DB Product By Week',
+  'menu.Visualizations1.categoryDistribution': 'Category Distribution',
+  'menu.Visualizations1.categoryCountByMonth': 'Category Counts By Month',
+  'menu.Visualizations2.categoryTimeCoverage': 'Category Time Coverage',
+  'menu.Visualizations2.totalProductByMonth': 'Total Product By Month',
+  'menu.Visualizations2.totalDBProductByWeek': 'Total DB Product By Week',
+  'menu.Visualizations2.categoryDistribution': 'Category Distribution',
+  'menu.Visualizations2.categoryCountByMonth': 'Category Counts By Month',
   'layout.user.link.help': 'Help',
   'layout.user.link.privacy': 'Privacy',
   'layout.user.link.terms': 'Terms',
