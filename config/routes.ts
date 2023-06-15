@@ -114,12 +114,7 @@ export default [
     layout: false,
     component: './404',
   },
-  {
-    path: '/Data_Clean_Workflow',
-    name: 'Data_Clean_Workflow',
-    icon: 'smile',
-    component: './Data_Clean_Workflow',
-  },
+
   {
     path: '/Data_Clean_Workflow2',
     name: 'Data_Clean_Workflow2',
