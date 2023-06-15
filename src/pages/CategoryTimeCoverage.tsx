@@ -102,7 +102,7 @@ const CategoryTimeCoverage = () => {
 
   return (
     <div>
-      <h1>Category Time Coverage (temp data)</h1> 
+      <h1>Category Time Coverage</h1> 
       <h4 style={{textAlign: 'right', fontWeight: 'normal' }}>by Derek Zheng</h4>
       <Column {...config} />
     </div>
