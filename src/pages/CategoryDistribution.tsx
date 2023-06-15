@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Pie } from '@ant-design/plots';
+import data from './data/Category_Counts.json';
 // import axios, { AxiosResponse } from 'axios';
 
 interface DataItem {
@@ -12,29 +13,29 @@ interface ApiResponse {
 }
 
 const CategoryDistribution = () => {
-  const data = [
-    { type: 'Arts, Crafts & Sewing', value: 269421 },
-    { type: 'Automotive', value: 1499869 },
-    { type: 'Baby Products', value: 127057 },
-    { type: 'Beauty & Personal Care', value: 354498 },
-    { type: 'CDs & Vinyl', value: 55375 },
-    { type: 'Cell Phones & Accessories', value: 64738 },
-    { type: 'Clothing, Shoes & Jewelry', value: 1193970 },
-    { type: 'Electronics', value: 274621 },
-    { type: 'Grocery & Gourmet Food', value: 93750 },
-    { type: 'Health & Household', value: 251823 },
-    { type: 'Home & Kitchen', value: 3074730 },
-    { type: 'Industrial & Scientific', value: 368117 },
-    { type: 'Office Products', value: 189233 },
-    { type: 'Patio, Lawn & Garden', value: 212527 },
-    { type: 'Pet Supplies', value: 205071 },
-    { type: 'Sports & Outdoors', value: 653457 },
-    { type: 'Tools & Home Improvement', value: 1179638 },
-    { type: 'Toys & Games', value: 490157 },
-    { type: 'Video Games', value: 60709 },
-    { type: 'No Category', value: 444058 }
-    //... maybe only want the largest 20?
-  ];
+  // const data = [
+  //   { type: 'Arts, Crafts & Sewing', value: 269421 },
+  //   { type: 'Automotive', value: 1499869 },
+  //   { type: 'Baby Products', value: 127057 },
+  //   { type: 'Beauty & Personal Care', value: 354498 },
+  //   { type: 'CDs & Vinyl', value: 55375 },
+  //   { type: 'Cell Phones & Accessories', value: 64738 },
+  //   { type: 'Clothing, Shoes & Jewelry', value: 1193970 },
+  //   { type: 'Electronics', value: 274621 },
+  //   { type: 'Grocery & Gourmet Food', value: 93750 },
+  //   { type: 'Health & Household', value: 251823 },
+  //   { type: 'Home & Kitchen', value: 3074730 },
+  //   { type: 'Industrial & Scientific', value: 368117 },
+  //   { type: 'Office Products', value: 189233 },
+  //   { type: 'Patio, Lawn & Garden', value: 212527 },
+  //   { type: 'Pet Supplies', value: 205071 },
+  //   { type: 'Sports & Outdoors', value: 653457 },
+  //   { type: 'Tools & Home Improvement', value: 1179638 },
+  //   { type: 'Toys & Games', value: 490157 },
+  //   { type: 'Video Games', value: 60709 },
+  //   { type: 'No Category', value: 444058 }
+  //   //... maybe only want the largest 20?
+  // ];
 
   const COLOR_PLATE_10 = [
     '#5B8FF9',

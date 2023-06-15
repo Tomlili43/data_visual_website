@@ -1,7 +1,7 @@
 import { Line } from '@ant-design/plots';
-import data from './data/unique_products_by_month.json'
+import data from '../data/us_transaction_value_cn.json'
 
-const CategoryCountByMonth = () => {
+const USImpTransactionValueCN = () => {
 /**
  * Data of format:
  * [{"date": "2015-02", "Count": 2315, "category": "Appliances "}, 
@@ -24,18 +24,28 @@ const CategoryCountByMonth = () => {
     '#269A99',
     '#FF99C3',
   ];
+
   const config = {
     data,
-    xField: 'date',
-    yField: 'Count',
-    seriesField: 'category',
+    xField: 'week',
+    yField: 'valueofgoodsusd',
+    seriesField: 'year',
+    xAxis: {
+      title: {
+        text: 'Week of the Year',
+        style: {
+          fontSize: 16,
+          fontWeight: 'bold'
+        },
+      },
+    },
     yAxis: {
       label: {
         // 数值格式化为千分位
         formatter: (v) => `${v}`.replace(/\d{1,3}(?=(\d{3})+$)/g, (s) => `${s},`),
       },
       title: {
-        text: 'Product ASIN Count',
+        text: 'US Import Transaction Count',
         style: {
           fontSize: 16,
           fontWeight: 'bold'
@@ -51,16 +61,40 @@ const CategoryCountByMonth = () => {
     legend: {
       position: 'right-top',
       flipPage: false,
+      selected: {
+        '2007': false,
+        '2008': false,
+        '2009': false,
+        '2010': false,
+        '2011': false,
+        '2012': false,
+        '2013': false,
+        '2014': false,
+        '2015': false,
+        '2016': false,
+        '2017': false,
+        '2018': false,
+        '2019': false,
+      }
     },
+    smooth: true,
+    point: {
+      shape: 'circle',
+    },
+    tooltip: {
+      title: (week) => {
+        return 'Week ' + week;
+      },
+    }
   };
 
   return (
     <div>
-      <h1>Unique Product ASIN by Month per Category with Non-Null Sales (from month_all)</h1> 
+      <h1>US Import Transaction Value by Week and Year From China</h1> 
       <h4 style={{textAlign: 'right', fontWeight: 'normal' }}>by Derek Zheng</h4>
       <Line {...config} />
     </div>
   );
 };
 
-export default CategoryCountByMonth;
+export default USImpTransactionValueCN;

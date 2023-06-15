@@ -1,6 +1,7 @@
 import { Column } from '@ant-design/plots';
 import request from 'umi-request';
 import React, { useState, useEffect } from 'react';
+import raw from './data/category_time_coverage.json';
 
 const CategoryTimeCoverage = () => {
   // To create a new page update routes.ts and relevant locales
@@ -25,35 +26,45 @@ const CategoryTimeCoverage = () => {
 */
 
 
-  const [data, setData] = useState([]);
+  // const [data, setData] = useState([]);
 
-  async function fetchData() {
-    try {
-      const response = await request('/api/companies');
-      const dataList = Object.values(response.list) || [];
-      const data = dataList[0].map(item => ({
-        type: item.type,
-        values: item.values.split(',').map(date => new Date(date)),
-      }));
-      return data;
-    } catch (error) {
-      console.error(error);
-      return [];
-    }
-  }
+  // async function fetchData() {
+  //   try {
+  //     const response = await request('/api/companies');
+  //     const dataList = Object.values(response.list) || [];
+  //     const data = dataList[0].map(item => ({
+  //       type: item.type,
+  //       values: item.values.split(',').map(date => new Date(date)),
+  //     }));
+  //     return data;
+  //   } catch (error) {
+  //     console.error(error);
+  //     return [];
+  //   }
+  // }
 
-  useEffect(() => {
-    async function getData() {
-      const result = await fetchData();
-      setData(result);
-    }
-    getData();
-  }, []);
+  // useEffect(() => {
+  //   async function getData() {
+  //     const result = await fetchData();
+  //     setData(result);
+  //   }
+  //   getData();
+  // }, []);
+
+  const data = raw.map(item => ({
+    type: item.type,
+    values: item.timespan.split(',').map(date => new Date(date)),
+  }));
 
   const config = {
     data,
     xField: 'type',
     yField: 'values',
+    xAxis: {
+      label: {
+        autoRotate: true,
+      }
+    },
     yAxis: {
       min: 10000000000000,
       label: {

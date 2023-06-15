@@ -1,7 +1,7 @@
 import { Line } from '@ant-design/plots';
-import data from './data/unique_products_by_month.json'
+import data from './data/unique_products_by_month_dm.json'
 
-const CategoryCountByMonth = () => {
+const CategoryCountByMonthDM = () => {
 /**
  * Data of format:
  * [{"date": "2015-02", "Count": 2315, "category": "Appliances "}, 
@@ -32,7 +32,7 @@ const CategoryCountByMonth = () => {
     yAxis: {
       label: {
         // 数值格式化为千分位
-        formatter: (v) => `${v}`.replace(/\d{1,3}(?=(\d{3})+$)/g, (s) => `${s},`),
+        formatter: (v: number) => `${v}`.replace(/\d{1,3}(?=(\d{3})+$)/g, (s) => `${s},`),
       },
       title: {
         text: 'Product ASIN Count',
@@ -56,11 +56,11 @@ const CategoryCountByMonth = () => {
 
   return (
     <div>
-      <h1>Unique Product ASIN by Month per Category with Non-Null Sales (from month_all)</h1> 
+      <h1>Unique Product ASIN by Month per Category with Non-Null Sales (from data_month)</h1> 
       <h4 style={{textAlign: 'right', fontWeight: 'normal' }}>by Derek Zheng</h4>
       <Line {...config} />
     </div>
   );
 };
 
-export default CategoryCountByMonth;
+export default CategoryCountByMonthDM;
