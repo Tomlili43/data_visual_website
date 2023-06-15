@@ -502,7 +502,5 @@ const DemoFlowAnalysisGraph = () => {
   return <FlowAnalysisGraph {...config} />;
 };
 
-// ReactDOM.render(<DemoFlowAnalysisGraph />, document.getElementById('container'));
-
 export default DemoFlowAnalysisGraph
 

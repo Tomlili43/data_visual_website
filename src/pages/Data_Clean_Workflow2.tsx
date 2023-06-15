@@ -347,5 +347,4 @@ const DemoFundFlowGraph = () => {
   return <FundFlowGraph {...config} />;
 };
 
-// ReactDOM.render(<DemoFundFlowGraph />, document.getElementById('container'));
 export default DemoFundFlowGraph
