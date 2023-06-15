@@ -70,13 +70,6 @@ const CategoryTimeCoverage = () => {
       label: {
         formatter: (value) => new Date(parseInt(value)).toLocaleDateString(),
       },
-      // title: {
-      //   text: "the quick brown fox jumps over the lazy dog",
-      //   style: {
-      //     fontWeight: 'bold',
-      //     //fontSize: '10',
-      //   }
-      // }
     },
     isRange: true,
     label: {

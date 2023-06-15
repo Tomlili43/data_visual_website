@@ -18,7 +18,6 @@ const ModifiedCount = () => {
     },
     ...
   ]
-  Requirements: Date should be in increasing order and have equal increments (e.g. 2010-01-01, 2010-01-08, 2010-01-15) for chart to make sense
  */
 
   // const [data, setData] = useState([]);
@@ -51,25 +50,19 @@ const ModifiedCount = () => {
     },
     xField: 'Date',
     yField: 'count',
-    // xAxis: {
-    //   type: "time",
-    //   tickCount: 12,
-    //   interval: "day", // Specify the interval as 'day'
-    // },
-
     yAxis: {
       label: {
         // 数值格式化为千分位
         formatter: (v) => `${v}`.replace(/\d{1,3}(?=(\d{3})+$)/g, (s) => `${s},`),
       },
       padding: 1000,
-      // title: {
-      //   text: 'Product ID Count',
-      //   style: {
-      //     fontSize: 16,
-      //     fontWeight: 'bold',
-      //   }
-      // }
+      title: {
+        text: 'Modified Entries',
+        style: {
+          fontSize: 16,
+          fontWeight: 'bold',
+        }
+      }
     },
     height: 780,
     slider: {

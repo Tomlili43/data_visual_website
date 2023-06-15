@@ -1,16 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Pie } from '@ant-design/plots';
 import data from './data/Category_Counts.json';
-// import axios, { AxiosResponse } from 'axios';
-
-interface DataItem {
-  type: string;
-  value: number;
-}
-
-interface ApiResponse {
-  data: string[];
-}
 
 const CategoryDistribution = () => {
   // const data = [
