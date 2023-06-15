@@ -6,6 +6,13 @@
 /src/utils/request-temp.js
 _roadhog-api-doc
 
+# OSX
+.DS_Store
+# logs
+logs
+*.log
+npm-debug.log*
+yarn-error.log*
 # production
 /dist
 
