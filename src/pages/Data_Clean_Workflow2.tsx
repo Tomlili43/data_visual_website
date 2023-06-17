@@ -148,7 +148,7 @@ const DemoFundFlowGraph = () => {
         id: '6',
         value: {
 
-              text: 'MongoDB\Njunglescout\nbase',
+              text: 'MongoDB\njunglescout\nbase',
 
         },
       },      {
@@ -346,38 +346,35 @@ const DemoFundFlowGraph = () => {
       margin: 'auto', // 设置画板边距为0
       overflow: 'auto', // 设置画板溢出方式为自动滚动
     },
-    behaviors: ['drag-canvas', 'zoom-canvas', 'drag-node'],
-    zoom:99,
-    nodeStyle: {
-      lineWidth: 4, // 设置边框粗细
-    },
-    autoFit: true,
-
-  };
-
-  return (<div>
-      <h1>Data_Clean_Workflow</h1>
-<FundFlowGraph
-    data={data}
-    nodeCfg={{
-
+    behaviors: ['drag-node'],
+    nodeCfg:{
+      label:{
+        style:{
+          fontSize:20,
+        },
+      },
+      size:[194.16,120],
       style:(node) =>{
         if (node.id === '21'||node.id ==='24'||node.id ==='23'||node.id === '31'||node.id ==='32') {
-          return {
+          return{
               fill: '#F99450',
               stroke: '#F99450',
+	      size:[194.16,120],
            };
         } 
         else if (node.id === '22' || node.id === '11' || node.id === '12'|| node.id === '13'|| node.id === '14'|| node.id === '15'|| node.id === '16'|| node.id === '17') {
-          return {
-              size:[290,60],
+	  return {
               fill: '#94F58D',
               stroke: '#94F58D',
           };
         }
       }
-    }}
-   {...config} />   </div>
+    }
+  };
+
+  return (<div>
+      <h1>Data_Clean_Workflow</h1>
+<FundFlowGraph{...config} />   </div>
    );
 };
 
