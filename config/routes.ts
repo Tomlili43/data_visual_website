@@ -48,21 +48,15 @@ export default [
       },
     
       {
-        path: 'totalProductByMonth',
-        name: 'totalProductByMonth',
-        component: 'TotalProductByMonth',
-      },
-    
-      {
-        path: 'totalDBProductByWeek',
-        name: 'totalDBProductByWeek',
-        component: 'TotalDBProductByWeek',
-      },
-    
-      {
         path: 'categoryCountByMonth',
         name: 'categoryCountByMonth',
         component: 'CategoryCountByMonth',
+      },
+
+      {
+        path: 'categoryCountByMonthJS',
+        name: 'categoryCountByMonthJS',
+        component: 'CategoryCountByMonthJS',
       },
     ]
   },
@@ -70,37 +64,68 @@ export default [
   {
     path: '/visualizations2',
     name: 'Visualizations2',
-    icon: 'BarChartOutlined',
+    icon: 'PieChartOutlined',
     divider: true,
     routes: [
       {
-        path: 'categoryDistribution',
-        name: 'categoryDistribution',
-        component: 'CategoryDistribution',
+        path: 'categoryCountByMonthDP',
+        name: 'categoryCountByMonthDP',
+        component: 'CategoryCountByMonthDM',
       },
-    
+          
       {
-        path: 'categoryTimeCoverage',
-        name: 'categoryTimeCoverage',
-        component: 'CategoryTimeCoverage',
+        path: 'modifiedCount',
+        name: 'modifiedCount',
+        component: 'ModifiedCount',
       },
-    
+    ]
+  },
+
+  {
+    path: '/panjiva',
+    name: 'PanjivaData',
+    icon: 'LineChartOutlined',
+    divider: true,
+    routes: [
       {
-        path: 'totalProductByMonth',
-        name: 'totalProductByMonth',
-        component: 'TotalProductByMonth',
+        path: 'usImpTransactionCount',
+        name: 'usImpTransactionCount',
+        component: './panjiva/UsImpTransactionCount',
       },
-    
       {
-        path: 'totalDBProductByWeek',
-        name: 'totalDBProductByWeek',
-        component: 'TotalDBProductByWeek',
+        path: 'usImpTransactionValue',
+        name: 'usImpTransactionValue',
+        component: './panjiva/UsImpTransactionValue',
       },
-    
       {
-        path: 'categoryCountByMonth',
-        name: 'categoryCountByMonth',
-        component: 'CategoryCountByMonth',
+        path: 'usImpTransactionWeight',
+        name: 'usImpTransactionWeight',
+        component: './panjiva/UsImpTransactionWeight',
+      },
+      {
+        path: 'usImpTransactionVolume',
+        name: 'usImpTransactionVolume',
+        component: './panjiva/UsImpTransactionVolume',
+      },
+      {
+        path: 'usImpTransactionCountCN',
+        name: 'usImpTransactionCountCN',
+        component: './panjiva/UsImpTransactionCountCN',
+      },
+      {
+        path: 'usImpTransactionValueCN',
+        name: 'usImpTransactionValueCN',
+        component: './panjiva/UsImpTransactionValueCN',
+      },
+      {
+        path: 'usImpTransactionWeightCN',
+        name: 'usImpTransactionWeightCN',
+        component: './panjiva/UsImpTransactionWeightCN',
+      },
+      {
+        path: 'usImpTransactionVolumeCN',
+        name: 'usImpTransactionVolumeCN',
+        component: './panjiva/UsImpTransactionVolumeCN',
       },
     ]
   },
