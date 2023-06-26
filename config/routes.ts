@@ -38,39 +38,39 @@ export default [
       {
         path: 'categoryDistribution',
         name: 'categoryDistribution',
-        component: './amazon 108/CategoryDistribution',
+        component: './amazon_108/CategoryDistribution',
       },
     
       {
         path: 'categoryTimeCoverage',
         name: 'categoryTimeCoverage',
-        component: './amazon 108/CategoryTimeCoverage',
+        component: './amazon_108/CategoryTimeCoverage',
       },
     
       {
         path: 'categoryCountByMonth',
         name: 'categoryCountByMonth',
-        component: './amazon 108/CategoryCountByMonth',
+        component: './amazon_108/CategoryCountByMonth',
       },
 
       {
         path: 'categoryCountByMonthJS',
         name: 'categoryCountByMonthJS',
-        component: './amazon 108/CategoryCountByMonthJS',
+        component: './amazon_108/CategoryCountByMonthJS',
       },
 
       {
         path: 'productSearch108',
         name: 'productSearch108',
         icon: 'FileSearchOutlined',
-        component: './amazon 108/ProductSearch108',
+        component: './amazon_108/ProductSearch108',
       },
 
       {
         path: 'sellerSearch108',
         name: 'sellerSearch108',
         icon: 'FileSearchOutlined',
-        component: './amazon 108/SellerSearch108',
+        component: './amazon_108/SellerSearch108',
       },
     ]
   },
@@ -84,27 +84,27 @@ export default [
       {
         path: 'categoryCountByMonthDP',
         name: 'categoryCountByMonthDP',
-        component: './amazon 93/CategoryCountByMonthDM',
+        component: './amazon_93/CategoryCountByMonthDM',
       },
           
       {
         path: 'modifiedCount',
         name: 'modifiedCount',
-        component: './amazon 93/ModifiedCount',
+        component: './amazon_93/ModifiedCount',
       },
 
       {
         path: 'productSearch93',
         name: 'productSearch93',
         icon: 'FileSearchOutlined',
-        component: './amazon 93/ProductSearch93',
+        component: './amazon_93/ProductSearch93',
       },
 
       {
         path: 'sellerSearch93',
         name: 'sellerSearch93',
         icon: 'FileSearchOutlined',
-        component: './amazon 93/SellerSearch93',
+        component: './amazon_93/SellerSearch93',
       },
     ]
   },
