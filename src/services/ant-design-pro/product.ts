@@ -1,7 +1,7 @@
 import request from 'umi-request';
 
 export async function getProductInfo93(productId: string) {
-    return request('/api/product93/', {
+    return request('/data/93database/findByProductId/', {
       method: 'POST',
       data: {
         product_id: productId,
@@ -10,7 +10,7 @@ export async function getProductInfo93(productId: string) {
 }
 
 export async function getSellerInfo93(sellerId: string) {
-    return request('/api/seller93/', {
+    return request('/data/93database/findBySellerId/', {
       method: 'POST',
       data: {
         seller_id: sellerId,
@@ -19,7 +19,7 @@ export async function getSellerInfo93(sellerId: string) {
 }
 
 export async function getProductInfo108(productId: string) {
-    return request('/api/product108/', {
+    return request('/data/108database/findByProductId/', {
       method: 'POST',
       data: {
         product_id: productId,
@@ -28,7 +28,7 @@ export async function getProductInfo108(productId: string) {
 }
 
 export async function getSellerInfo108(sellerId: string) {
-    return request('/api/seller108/', {
+    return request('/data/108database/findBySellerId/', {
       method: 'POST',
       data: {
         seller_id: sellerId,
