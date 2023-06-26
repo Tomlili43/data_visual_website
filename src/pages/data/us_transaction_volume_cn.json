@@ -1,1 +1,4287 @@
-[{"year":"2007","week":"1","volumeteu":124.19},{"year":"2007","week":"2","volumeteu":464.52},{"year":"2007","week":"3","volumeteu":127.91},{"year":"2007","week":"4","volumeteu":106.5},{"year":"2007","week":"5","volumeteu":901.8},{"year":"2007","week":"6","volumeteu":238.97},{"year":"2007","week":"7","volumeteu":693.26},{"year":"2007","week":"8","volumeteu":516.3},{"year":"2007","week":"9","volumeteu":727.1},{"year":"2007","week":"10","volumeteu":224.39},{"year":"2007","week":"11","volumeteu":186.78},{"year":"2007","week":"12","volumeteu":180.65},{"year":"2007","week":"13","volumeteu":63.63},{"year":"2007","week":"14","volumeteu":417.71},{"year":"2007","week":"15","volumeteu":296.4},{"year":"2007","week":"16","volumeteu":302.38},{"year":"2007","week":"17","volumeteu":347.61},{"year":"2007","week":"18","volumeteu":728.0},{"year":"2007","week":"19","volumeteu":189.3},{"year":"2007","week":"20","volumeteu":326.88},{"year":"2007","week":"21","volumeteu":935.46},{"year":"2007","week":"22","volumeteu":491.54},{"year":"2007","week":"23","volumeteu":487.49},{"year":"2007","week":"24","volumeteu":2840.4},{"year":"2007","week":"25","volumeteu":6962.12},{"year":"2007","week":"26","volumeteu":38065.09},{"year":"2007","week":"27","volumeteu":131836.9},{"year":"2007","week":"28","volumeteu":128162.71},{"year":"2007","week":"29","volumeteu":141409.02},{"year":"2007","week":"30","volumeteu":144564.43},{"year":"2007","week":"31","volumeteu":109428.77},{"year":"2007","week":"32","volumeteu":142961.1},{"year":"2007","week":"33","volumeteu":135570.71},{"year":"2007","week":"34","volumeteu":139902.6},{"year":"2007","week":"35","volumeteu":140444.9},{"year":"2007","week":"36","volumeteu":144613.43},{"year":"2007","week":"37","volumeteu":140214.78},{"year":"2007","week":"38","volumeteu":143539.31},{"year":"2007","week":"39","volumeteu":148857.35},{"year":"2007","week":"40","volumeteu":130628.07},{"year":"2007","week":"41","volumeteu":152321.68},{"year":"2007","week":"42","volumeteu":125821.37},{"year":"2007","week":"43","volumeteu":129559.3},{"year":"2007","week":"44","volumeteu":140401.98},{"year":"2007","week":"45","volumeteu":147420.49},{"year":"2007","week":"46","volumeteu":141920.74},{"year":"2007","week":"47","volumeteu":122879.91},{"year":"2007","week":"48","volumeteu":124819.34},{"year":"2007","week":"49","volumeteu":128570.49},{"year":"2007","week":"50","volumeteu":118248.83},{"year":"2007","week":"51","volumeteu":117070.03},{"year":"2007","week":"52","volumeteu":124191.84},{"year":"2008","week":"1","volumeteu":116004.72},{"year":"2008","week":"2","volumeteu":116131.83},{"year":"2008","week":"3","volumeteu":126017.36},{"year":"2008","week":"4","volumeteu":97563.24},{"year":"2008","week":"5","volumeteu":141030.44},{"year":"2008","week":"6","volumeteu":127379.65},{"year":"2008","week":"7","volumeteu":131913.57},{"year":"2008","week":"8","volumeteu":133656.0},{"year":"2008","week":"9","volumeteu":72527.38},{"year":"2008","week":"10","volumeteu":89112.65},{"year":"2008","week":"11","volumeteu":87602.55},{"year":"2008","week":"12","volumeteu":84778.09},{"year":"2008","week":"13","volumeteu":113305.58},{"year":"2008","week":"14","volumeteu":127960.42},{"year":"2008","week":"15","volumeteu":139794.83},{"year":"2008","week":"16","volumeteu":111318.07},{"year":"2008","week":"17","volumeteu":139603.58},{"year":"2008","week":"18","volumeteu":128840.85},{"year":"2008","week":"19","volumeteu":139773.49},{"year":"2008","week":"20","volumeteu":138934.62},{"year":"2008","week":"21","volumeteu":127136.58},{"year":"2008","week":"22","volumeteu":133637.54},{"year":"2008","week":"23","volumeteu":128612.2},{"year":"2008","week":"24","volumeteu":128229.35},{"year":"2008","week":"25","volumeteu":126463.62},{"year":"2008","week":"26","volumeteu":130722.8},{"year":"2008","week":"27","volumeteu":130138.45},{"year":"2008","week":"28","volumeteu":144485.28},{"year":"2008","week":"29","volumeteu":137051.63},{"year":"2008","week":"30","volumeteu":131772.38},{"year":"2008","week":"31","volumeteu":96580.51},{"year":"2008","week":"32","volumeteu":150225.47},{"year":"2008","week":"33","volumeteu":146350.95},{"year":"2008","week":"34","volumeteu":125213.49},{"year":"2008","week":"35","volumeteu":152717.27},{"year":"2008","week":"36","volumeteu":115231.97},{"year":"2008","week":"37","volumeteu":168732.77},{"year":"2008","week":"38","volumeteu":149013.44},{"year":"2008","week":"39","volumeteu":142607.05},{"year":"2008","week":"40","volumeteu":144173.9},{"year":"2008","week":"41","volumeteu":132460.16},{"year":"2008","week":"42","volumeteu":139469.68},{"year":"2008","week":"43","volumeteu":132645.65},{"year":"2008","week":"44","volumeteu":144323.98},{"year":"2008","week":"45","volumeteu":128117.41},{"year":"2008","week":"46","volumeteu":129063.45},{"year":"2008","week":"47","volumeteu":129140.47},{"year":"2008","week":"48","volumeteu":120258.84},{"year":"2008","week":"49","volumeteu":109490.73},{"year":"2008","week":"50","volumeteu":110066.42},{"year":"2008","week":"51","volumeteu":102421.94},{"year":"2008","week":"52","volumeteu":100203.79},{"year":"2009","week":"1","volumeteu":115827.45},{"year":"2009","week":"2","volumeteu":107418.9},{"year":"2009","week":"3","volumeteu":115951.48},{"year":"2009","week":"4","volumeteu":107737.41},{"year":"2009","week":"5","volumeteu":130527.24},{"year":"2009","week":"6","volumeteu":123725.47},{"year":"2009","week":"7","volumeteu":85274.48},{"year":"2009","week":"8","volumeteu":63758.63},{"year":"2009","week":"9","volumeteu":79892.87},{"year":"2009","week":"10","volumeteu":56605.49},{"year":"2009","week":"11","volumeteu":90050.58},{"year":"2009","week":"12","volumeteu":107452.5},{"year":"2009","week":"13","volumeteu":98683.9},{"year":"2009","week":"14","volumeteu":112245.6},{"year":"2009","week":"15","volumeteu":109392.1},{"year":"2009","week":"16","volumeteu":113018.69},{"year":"2009","week":"17","volumeteu":101889.95},{"year":"2009","week":"18","volumeteu":112648.0},{"year":"2009","week":"19","volumeteu":112928.72},{"year":"2009","week":"20","volumeteu":110255.72},{"year":"2009","week":"21","volumeteu":111057.94},{"year":"2009","week":"22","volumeteu":101299.53},{"year":"2009","week":"23","volumeteu":116824.8},{"year":"2009","week":"24","volumeteu":111133.55},{"year":"2009","week":"25","volumeteu":103346.0},{"year":"2009","week":"26","volumeteu":109064.62},{"year":"2009","week":"27","volumeteu":102633.19},{"year":"2009","week":"28","volumeteu":120989.52},{"year":"2009","week":"29","volumeteu":113938.42},{"year":"2009","week":"30","volumeteu":119965.1},{"year":"2009","week":"31","volumeteu":115780.87},{"year":"2009","week":"32","volumeteu":122177.02},{"year":"2009","week":"33","volumeteu":122782.57},{"year":"2009","week":"34","volumeteu":116561.61},{"year":"2009","week":"35","volumeteu":136156.26},{"year":"2009","week":"36","volumeteu":126106.5},{"year":"2009","week":"37","volumeteu":128032.61},{"year":"2009","week":"38","volumeteu":125439.69},{"year":"2009","week":"39","volumeteu":134087.96},{"year":"2009","week":"40","volumeteu":143004.93},{"year":"2009","week":"41","volumeteu":127202.12},{"year":"2009","week":"42","volumeteu":138156.71},{"year":"2009","week":"43","volumeteu":108751.15},{"year":"2009","week":"44","volumeteu":118811.97},{"year":"2009","week":"45","volumeteu":127612.06},{"year":"2009","week":"46","volumeteu":128903.66},{"year":"2009","week":"47","volumeteu":115309.74},{"year":"2009","week":"48","volumeteu":116066.13},{"year":"2009","week":"49","volumeteu":115796.67},{"year":"2009","week":"50","volumeteu":119619.91},{"year":"2009","week":"51","volumeteu":123459.15},{"year":"2009","week":"52","volumeteu":104508.53},{"year":"2009","week":"53","volumeteu":113246.96},{"year":"2010","week":"1","volumeteu":109247.43},{"year":"2010","week":"2","volumeteu":132458.47},{"year":"2010","week":"3","volumeteu":108203.15},{"year":"2010","week":"4","volumeteu":122713.82},{"year":"2010","week":"5","volumeteu":124057.57},{"year":"2010","week":"6","volumeteu":102737.04},{"year":"2010","week":"7","volumeteu":133058.69},{"year":"2010","week":"8","volumeteu":121866.57},{"year":"2010","week":"9","volumeteu":115308.45},{"year":"2010","week":"10","volumeteu":87839.04},{"year":"2010","week":"11","volumeteu":100606.42},{"year":"2010","week":"12","volumeteu":97142.24},{"year":"2010","week":"13","volumeteu":129457.28},{"year":"2010","week":"14","volumeteu":129032.14},{"year":"2010","week":"15","volumeteu":106511.9},{"year":"2010","week":"16","volumeteu":129656.57},{"year":"2010","week":"17","volumeteu":127411.64},{"year":"2010","week":"18","volumeteu":132658.48},{"year":"2010","week":"19","volumeteu":155180.78},{"year":"2010","week":"20","volumeteu":135503.75},{"year":"2010","week":"21","volumeteu":145526.46},{"year":"2010","week":"22","volumeteu":137981.03},{"year":"2010","week":"23","volumeteu":156116.51},{"year":"2010","week":"24","volumeteu":158598.63},{"year":"2010","week":"25","volumeteu":158165.04},{"year":"2010","week":"26","volumeteu":134600.22},{"year":"2010","week":"27","volumeteu":161409.56},{"year":"2010","week":"28","volumeteu":148984.32},{"year":"2010","week":"29","volumeteu":167341.56},{"year":"2010","week":"30","volumeteu":160910.74},{"year":"2010","week":"31","volumeteu":146485.13},{"year":"2010","week":"32","volumeteu":162546.95},{"year":"2010","week":"33","volumeteu":157736.37},{"year":"2010","week":"34","volumeteu":158435.68},{"year":"2010","week":"35","volumeteu":158901.07},{"year":"2010","week":"36","volumeteu":152185.74},{"year":"2010","week":"37","volumeteu":160534.04},{"year":"2010","week":"38","volumeteu":155023.54},{"year":"2010","week":"39","volumeteu":141475.7},{"year":"2010","week":"40","volumeteu":180422.47},{"year":"2010","week":"41","volumeteu":151319.73},{"year":"2010","week":"42","volumeteu":142505.68},{"year":"2010","week":"43","volumeteu":145689.24},{"year":"2010","week":"44","volumeteu":125021.29},{"year":"2010","week":"45","volumeteu":139407.88},{"year":"2010","week":"46","volumeteu":147332.31},{"year":"2010","week":"47","volumeteu":140756.8},{"year":"2010","week":"48","volumeteu":131618.25},{"year":"2010","week":"49","volumeteu":123269.16},{"year":"2010","week":"50","volumeteu":117587.82},{"year":"2010","week":"51","volumeteu":125370.56},{"year":"2010","week":"52","volumeteu":121195.45},{"year":"2011","week":"1","volumeteu":143734.75},{"year":"2011","week":"2","volumeteu":120299.4},{"year":"2011","week":"3","volumeteu":130236.42},{"year":"2011","week":"4","volumeteu":151213.24},{"year":"2011","week":"5","volumeteu":143149.26},{"year":"2011","week":"6","volumeteu":164354.9},{"year":"2011","week":"7","volumeteu":135140.68},{"year":"2011","week":"8","volumeteu":88378.46},{"year":"2011","week":"9","volumeteu":75742.09},{"year":"2011","week":"10","volumeteu":85076.99},{"year":"2011","week":"11","volumeteu":117127.51},{"year":"2011","week":"12","volumeteu":125500.97},{"year":"2011","week":"13","volumeteu":135111.2},{"year":"2011","week":"14","volumeteu":128372.82},{"year":"2011","week":"15","volumeteu":147503.47},{"year":"2011","week":"16","volumeteu":137361.8},{"year":"2011","week":"17","volumeteu":138137.95},{"year":"2011","week":"18","volumeteu":142069.3},{"year":"2011","week":"19","volumeteu":148758.05},{"year":"2011","week":"20","volumeteu":141893.26},{"year":"2011","week":"21","volumeteu":136892.68},{"year":"2011","week":"22","volumeteu":151040.06},{"year":"2011","week":"23","volumeteu":149987.91},{"year":"2011","week":"24","volumeteu":148033.82},{"year":"2011","week":"25","volumeteu":130689.75},{"year":"2011","week":"26","volumeteu":149922.03},{"year":"2011","week":"27","volumeteu":132986.02},{"year":"2011","week":"28","volumeteu":149943.18},{"year":"2011","week":"29","volumeteu":147342.74},{"year":"2011","week":"30","volumeteu":158021.09},{"year":"2011","week":"31","volumeteu":147748.31},{"year":"2011","week":"32","volumeteu":157239.34},{"year":"2011","week":"33","volumeteu":139177.92},{"year":"2011","week":"34","volumeteu":153680.9},{"year":"2011","week":"35","volumeteu":161241.63},{"year":"2011","week":"36","volumeteu":143494.41},{"year":"2011","week":"37","volumeteu":169854.29},{"year":"2011","week":"38","volumeteu":155481.26},{"year":"2011","week":"39","volumeteu":157637.4},{"year":"2011","week":"40","volumeteu":158877.16},{"year":"2011","week":"41","volumeteu":136660.89},{"year":"2011","week":"42","volumeteu":140356.1},{"year":"2011","week":"43","volumeteu":121606.16},{"year":"2011","week":"44","volumeteu":146122.51},{"year":"2011","week":"45","volumeteu":149610.8},{"year":"2011","week":"46","volumeteu":140773.56},{"year":"2011","week":"47","volumeteu":140362.03},{"year":"2011","week":"48","volumeteu":132522.76},{"year":"2011","week":"49","volumeteu":119513.22},{"year":"2011","week":"50","volumeteu":139346.94},{"year":"2011","week":"51","volumeteu":109699.69},{"year":"2011","week":"52","volumeteu":129079.74},{"year":"2012","week":"1","volumeteu":164995.62},{"year":"2012","week":"2","volumeteu":133814.04},{"year":"2012","week":"3","volumeteu":140827.36},{"year":"2012","week":"4","volumeteu":155105.88},{"year":"2012","week":"5","volumeteu":147128.54},{"year":"2012","week":"6","volumeteu":148210.81},{"year":"2012","week":"7","volumeteu":71285.4},{"year":"2012","week":"8","volumeteu":102633.44},{"year":"2012","week":"9","volumeteu":89644.92},{"year":"2012","week":"10","volumeteu":109047.97},{"year":"2012","week":"11","volumeteu":126327.1},{"year":"2012","week":"12","volumeteu":129461.03},{"year":"2012","week":"13","volumeteu":149613.44},{"year":"2012","week":"14","volumeteu":131633.83},{"year":"2012","week":"15","volumeteu":149247.27},{"year":"2012","week":"16","volumeteu":141202.35},{"year":"2012","week":"17","volumeteu":139205.03},{"year":"2012","week":"18","volumeteu":154584.75},{"year":"2012","week":"19","volumeteu":148174.75},{"year":"2012","week":"20","volumeteu":156048.36},{"year":"2012","week":"21","volumeteu":147100.27},{"year":"2012","week":"22","volumeteu":150617.97},{"year":"2012","week":"23","volumeteu":159635.47},{"year":"2012","week":"24","volumeteu":153600.83},{"year":"2012","week":"25","volumeteu":148556.52},{"year":"2012","week":"26","volumeteu":169547.92},{"year":"2012","week":"27","volumeteu":146580.96},{"year":"2012","week":"28","volumeteu":143673.79},{"year":"2012","week":"29","volumeteu":159756.15},{"year":"2012","week":"30","volumeteu":151530.36},{"year":"2012","week":"31","volumeteu":152076.49},{"year":"2012","week":"32","volumeteu":160959.95},{"year":"2012","week":"33","volumeteu":150383.15},{"year":"2012","week":"34","volumeteu":150883.71},{"year":"2012","week":"35","volumeteu":163152.62},{"year":"2012","week":"36","volumeteu":158775.21},{"year":"2012","week":"37","volumeteu":181189.38},{"year":"2012","week":"38","volumeteu":162698.37},{"year":"2012","week":"39","volumeteu":162617.99},{"year":"2012","week":"40","volumeteu":167953.75},{"year":"2012","week":"41","volumeteu":149729.46},{"year":"2012","week":"42","volumeteu":148098.47},{"year":"2012","week":"43","volumeteu":110819.59},{"year":"2012","week":"44","volumeteu":122607.51},{"year":"2012","week":"45","volumeteu":129261.44},{"year":"2012","week":"46","volumeteu":133430.44},{"year":"2012","week":"47","volumeteu":124659.74},{"year":"2012","week":"48","volumeteu":104458.66},{"year":"2012","week":"49","volumeteu":147620.83},{"year":"2012","week":"50","volumeteu":130510.05},{"year":"2012","week":"51","volumeteu":135400.27},{"year":"2012","week":"52","volumeteu":127512.21},{"year":"2013","week":"1","volumeteu":134309.96},{"year":"2013","week":"2","volumeteu":131060.89},{"year":"2013","week":"3","volumeteu":149226.66},{"year":"2013","week":"4","volumeteu":131958.08},{"year":"2013","week":"5","volumeteu":159100.05},{"year":"2013","week":"6","volumeteu":156429.15},{"year":"2013","week":"7","volumeteu":156797.74},{"year":"2013","week":"8","volumeteu":149770.42},{"year":"2013","week":"9","volumeteu":140834.42},{"year":"2013","week":"10","volumeteu":66996.19},{"year":"2013","week":"11","volumeteu":92920.9},{"year":"2013","week":"12","volumeteu":97452.6},{"year":"2013","week":"13","volumeteu":111361.53},{"year":"2013","week":"14","volumeteu":132211.75},{"year":"2013","week":"15","volumeteu":116662.88},{"year":"2013","week":"16","volumeteu":150615.11},{"year":"2013","week":"17","volumeteu":141382.29},{"year":"2013","week":"18","volumeteu":155626.49},{"year":"2013","week":"19","volumeteu":155883.01},{"year":"2013","week":"20","volumeteu":147851.59},{"year":"2013","week":"21","volumeteu":137867.65},{"year":"2013","week":"22","volumeteu":145441.28},{"year":"2013","week":"23","volumeteu":158919.35},{"year":"2013","week":"24","volumeteu":150115.3},{"year":"2013","week":"25","volumeteu":151915.02},{"year":"2013","week":"26","volumeteu":147202.44},{"year":"2013","week":"27","volumeteu":135603.86},{"year":"2013","week":"28","volumeteu":161864.5},{"year":"2013","week":"29","volumeteu":152891.38},{"year":"2013","week":"30","volumeteu":151359.24},{"year":"2013","week":"31","volumeteu":169057.27},{"year":"2013","week":"32","volumeteu":159003.54},{"year":"2013","week":"33","volumeteu":168394.37},{"year":"2013","week":"34","volumeteu":159732.15},{"year":"2013","week":"35","volumeteu":162528.09},{"year":"2013","week":"36","volumeteu":154644.75},{"year":"2013","week":"37","volumeteu":175977.12},{"year":"2013","week":"38","volumeteu":161850.3},{"year":"2013","week":"39","volumeteu":168756.15},{"year":"2013","week":"40","volumeteu":153083.44},{"year":"2013","week":"41","volumeteu":172140.68},{"year":"2013","week":"42","volumeteu":162221.92},{"year":"2013","week":"43","volumeteu":129172.87},{"year":"2013","week":"44","volumeteu":143863.82},{"year":"2013","week":"45","volumeteu":167640.73},{"year":"2013","week":"46","volumeteu":146340.04},{"year":"2013","week":"47","volumeteu":161506.95},{"year":"2013","week":"48","volumeteu":135683.61},{"year":"2013","week":"49","volumeteu":155004.91},{"year":"2013","week":"50","volumeteu":143446.49},{"year":"2013","week":"51","volumeteu":112503.31},{"year":"2013","week":"52","volumeteu":150958.66},{"year":"2014","week":"1","volumeteu":141229.87},{"year":"2014","week":"2","volumeteu":155700.44},{"year":"2014","week":"3","volumeteu":172402.92},{"year":"2014","week":"4","volumeteu":135078.9},{"year":"2014","week":"5","volumeteu":167463.4},{"year":"2014","week":"6","volumeteu":155664.07},{"year":"2014","week":"7","volumeteu":153477.81},{"year":"2014","week":"8","volumeteu":138724.27},{"year":"2014","week":"9","volumeteu":88082.52},{"year":"2014","week":"10","volumeteu":116699.28},{"year":"2014","week":"11","volumeteu":101801.46},{"year":"2014","week":"12","volumeteu":131736.8},{"year":"2014","week":"13","volumeteu":134990.52},{"year":"2014","week":"14","volumeteu":148848.98},{"year":"2014","week":"15","volumeteu":134826.18},{"year":"2014","week":"16","volumeteu":153540.4},{"year":"2014","week":"17","volumeteu":153252.6},{"year":"2014","week":"18","volumeteu":173935.95},{"year":"2014","week":"19","volumeteu":145051.29},{"year":"2014","week":"20","volumeteu":158314.95},{"year":"2014","week":"21","volumeteu":172016.93},{"year":"2014","week":"22","volumeteu":151178.62},{"year":"2014","week":"23","volumeteu":162573.76},{"year":"2014","week":"24","volumeteu":179603.99},{"year":"2014","week":"25","volumeteu":160997.14},{"year":"2014","week":"26","volumeteu":148283.77},{"year":"2014","week":"27","volumeteu":152195.09},{"year":"2014","week":"28","volumeteu":148013.46},{"year":"2014","week":"29","volumeteu":166498.28},{"year":"2014","week":"30","volumeteu":174060.43},{"year":"2014","week":"31","volumeteu":158228.65},{"year":"2014","week":"32","volumeteu":168723.73},{"year":"2014","week":"33","volumeteu":170556.29},{"year":"2014","week":"34","volumeteu":172850.47},{"year":"2014","week":"35","volumeteu":167416.61},{"year":"2014","week":"36","volumeteu":176980.36},{"year":"2014","week":"37","volumeteu":180478.11},{"year":"2014","week":"38","volumeteu":186091.52},{"year":"2014","week":"39","volumeteu":161902.96},{"year":"2014","week":"40","volumeteu":170754.55},{"year":"2014","week":"41","volumeteu":197805.16},{"year":"2014","week":"42","volumeteu":171047.09},{"year":"2014","week":"43","volumeteu":139318.4},{"year":"2014","week":"44","volumeteu":150864.43},{"year":"2014","week":"45","volumeteu":151619.03},{"year":"2014","week":"46","volumeteu":148448.25},{"year":"2014","week":"47","volumeteu":157867.69},{"year":"2014","week":"48","volumeteu":150022.73},{"year":"2014","week":"49","volumeteu":153484.13},{"year":"2014","week":"50","volumeteu":141519.75},{"year":"2014","week":"51","volumeteu":141090.93},{"year":"2014","week":"52","volumeteu":137339.04},{"year":"2015","week":"1","volumeteu":138171.89},{"year":"2015","week":"2","volumeteu":139387.48},{"year":"2015","week":"3","volumeteu":137607.61},{"year":"2015","week":"4","volumeteu":120561.83},{"year":"2015","week":"5","volumeteu":146918.91},{"year":"2015","week":"6","volumeteu":137602.24},{"year":"2015","week":"7","volumeteu":120072.42},{"year":"2015","week":"8","volumeteu":147477.19},{"year":"2015","week":"9","volumeteu":182699.39},{"year":"2015","week":"10","volumeteu":194065.47},{"year":"2015","week":"11","volumeteu":178632.32},{"year":"2015","week":"12","volumeteu":148491.9},{"year":"2015","week":"13","volumeteu":117951.05},{"year":"2015","week":"14","volumeteu":114050.93},{"year":"2015","week":"15","volumeteu":135799.54},{"year":"2015","week":"16","volumeteu":141724.53},{"year":"2015","week":"17","volumeteu":172975.23},{"year":"2015","week":"18","volumeteu":142510.97},{"year":"2015","week":"19","volumeteu":158173.19},{"year":"2015","week":"20","volumeteu":175896.34},{"year":"2015","week":"21","volumeteu":161592.02},{"year":"2015","week":"22","volumeteu":167979.8},{"year":"2015","week":"23","volumeteu":174571.97},{"year":"2015","week":"24","volumeteu":156780.45},{"year":"2015","week":"25","volumeteu":162287.81},{"year":"2015","week":"26","volumeteu":167758.17},{"year":"2015","week":"27","volumeteu":149795.71},{"year":"2015","week":"28","volumeteu":181936.5},{"year":"2015","week":"29","volumeteu":170838.77},{"year":"2015","week":"30","volumeteu":148115.46},{"year":"2015","week":"31","volumeteu":166320.0},{"year":"2015","week":"32","volumeteu":170315.74},{"year":"2015","week":"33","volumeteu":177781.33},{"year":"2015","week":"34","volumeteu":185980.23},{"year":"2015","week":"35","volumeteu":189220.86},{"year":"2015","week":"36","volumeteu":164241.41},{"year":"2015","week":"37","volumeteu":188149.18},{"year":"2015","week":"38","volumeteu":169361.61},{"year":"2015","week":"39","volumeteu":166940.43},{"year":"2015","week":"40","volumeteu":174062.91},{"year":"2015","week":"41","volumeteu":155778.81},{"year":"2015","week":"42","volumeteu":183059.05},{"year":"2015","week":"43","volumeteu":137855.3},{"year":"2015","week":"44","volumeteu":160326.74},{"year":"2015","week":"45","volumeteu":157395.57},{"year":"2015","week":"46","volumeteu":146656.61},{"year":"2015","week":"47","volumeteu":154749.0},{"year":"2015","week":"48","volumeteu":150892.3},{"year":"2015","week":"49","volumeteu":151173.37},{"year":"2015","week":"50","volumeteu":129643.63},{"year":"2015","week":"51","volumeteu":154036.15},{"year":"2015","week":"52","volumeteu":141537.6},{"year":"2015","week":"53","volumeteu":143861.6},{"year":"2016","week":"1","volumeteu":161539.36},{"year":"2016","week":"2","volumeteu":163646.09},{"year":"2016","week":"3","volumeteu":176604.43},{"year":"2016","week":"4","volumeteu":150412.47},{"year":"2016","week":"5","volumeteu":181561.05},{"year":"2016","week":"6","volumeteu":170485.06},{"year":"2016","week":"7","volumeteu":190719.19},{"year":"2016","week":"8","volumeteu":169776.99},{"year":"2016","week":"9","volumeteu":102213.9},{"year":"2016","week":"10","volumeteu":110361.66},{"year":"2016","week":"11","volumeteu":83125.6},{"year":"2016","week":"12","volumeteu":122017.07},{"year":"2016","week":"13","volumeteu":121426.34},{"year":"2016","week":"14","volumeteu":154463.75},{"year":"2016","week":"15","volumeteu":154951.89},{"year":"2016","week":"16","volumeteu":146757.32},{"year":"2016","week":"17","volumeteu":156142.89},{"year":"2016","week":"18","volumeteu":168686.6},{"year":"2016","week":"19","volumeteu":147890.47},{"year":"2016","week":"20","volumeteu":169410.9},{"year":"2016","week":"21","volumeteu":171229.83},{"year":"2016","week":"22","volumeteu":167325.73},{"year":"2016","week":"23","volumeteu":145057.86},{"year":"2016","week":"24","volumeteu":185364.75},{"year":"2016","week":"25","volumeteu":166079.98},{"year":"2016","week":"26","volumeteu":169576.58},{"year":"2016","week":"27","volumeteu":160327.59},{"year":"2016","week":"28","volumeteu":182611.18},{"year":"2016","week":"29","volumeteu":168711.67},{"year":"2016","week":"30","volumeteu":180112.94},{"year":"2016","week":"31","volumeteu":182188.29},{"year":"2016","week":"32","volumeteu":168948.47},{"year":"2016","week":"33","volumeteu":186296.19},{"year":"2016","week":"34","volumeteu":187948.08},{"year":"2016","week":"35","volumeteu":183270.8},{"year":"2016","week":"36","volumeteu":160937.85},{"year":"2016","week":"37","volumeteu":189135.99},{"year":"2016","week":"38","volumeteu":190106.43},{"year":"2016","week":"39","volumeteu":177433.39},{"year":"2016","week":"40","volumeteu":167302.83},{"year":"2016","week":"41","volumeteu":184398.1},{"year":"2016","week":"42","volumeteu":188726.54},{"year":"2016","week":"43","volumeteu":180161.82},{"year":"2016","week":"44","volumeteu":162495.26},{"year":"2016","week":"45","volumeteu":173420.02},{"year":"2016","week":"46","volumeteu":178971.87},{"year":"2016","week":"47","volumeteu":150682.79},{"year":"2016","week":"48","volumeteu":171712.3},{"year":"2016","week":"49","volumeteu":169527.29},{"year":"2016","week":"50","volumeteu":171186.32},{"year":"2016","week":"51","volumeteu":139269.17},{"year":"2016","week":"52","volumeteu":167925.53},{"year":"2017","week":"1","volumeteu":178111.63},{"year":"2017","week":"2","volumeteu":157103.85},{"year":"2017","week":"3","volumeteu":166390.77},{"year":"2017","week":"4","volumeteu":187352.65},{"year":"2017","week":"5","volumeteu":177013.48},{"year":"2017","week":"6","volumeteu":184261.26},{"year":"2017","week":"7","volumeteu":188974.84},{"year":"2017","week":"8","volumeteu":107438.79},{"year":"2017","week":"9","volumeteu":116145.99},{"year":"2017","week":"10","volumeteu":126313.45},{"year":"2017","week":"11","volumeteu":132592.71},{"year":"2017","week":"12","volumeteu":146342.0},{"year":"2017","week":"13","volumeteu":151431.8},{"year":"2017","week":"14","volumeteu":176987.38},{"year":"2017","week":"15","volumeteu":176898.67},{"year":"2017","week":"16","volumeteu":168784.02},{"year":"2017","week":"17","volumeteu":177105.83},{"year":"2017","week":"18","volumeteu":164172.88},{"year":"2017","week":"19","volumeteu":186804.75},{"year":"2017","week":"20","volumeteu":183563.34},{"year":"2017","week":"21","volumeteu":179025.97},{"year":"2017","week":"22","volumeteu":190633.25},{"year":"2017","week":"23","volumeteu":169196.32},{"year":"2017","week":"24","volumeteu":178745.83},{"year":"2017","week":"25","volumeteu":190335.79},{"year":"2017","week":"26","volumeteu":207007.39},{"year":"2017","week":"27","volumeteu":171802.74},{"year":"2017","week":"28","volumeteu":198113.16},{"year":"2017","week":"29","volumeteu":206026.19},{"year":"2017","week":"30","volumeteu":180882.31},{"year":"2017","week":"31","volumeteu":190350.85},{"year":"2017","week":"32","volumeteu":189312.59},{"year":"2017","week":"33","volumeteu":197839.93},{"year":"2017","week":"34","volumeteu":209395.85},{"year":"2017","week":"35","volumeteu":201503.57},{"year":"2017","week":"36","volumeteu":184110.67},{"year":"2017","week":"37","volumeteu":205979.34},{"year":"2017","week":"38","volumeteu":217492.61},{"year":"2017","week":"39","volumeteu":193056.46},{"year":"2017","week":"40","volumeteu":207052.93},{"year":"2017","week":"41","volumeteu":201219.8},{"year":"2017","week":"42","volumeteu":210103.42},{"year":"2017","week":"43","volumeteu":150220.48},{"year":"2017","week":"44","volumeteu":171534.5},{"year":"2017","week":"45","volumeteu":198147.38},{"year":"2017","week":"46","volumeteu":203475.55},{"year":"2017","week":"47","volumeteu":181102.11},{"year":"2017","week":"48","volumeteu":185323.18},{"year":"2017","week":"49","volumeteu":196972.46},{"year":"2017","week":"50","volumeteu":176877.06},{"year":"2017","week":"51","volumeteu":171333.11},{"year":"2017","week":"52","volumeteu":169824.09},{"year":"2018","week":"1","volumeteu":179912.63},{"year":"2018","week":"2","volumeteu":212314.24},{"year":"2018","week":"3","volumeteu":189164.14},{"year":"2018","week":"4","volumeteu":182624.43},{"year":"2018","week":"5","volumeteu":198619.96},{"year":"2018","week":"6","volumeteu":206825.71},{"year":"2018","week":"7","volumeteu":197904.31},{"year":"2018","week":"8","volumeteu":209588.9},{"year":"2018","week":"9","volumeteu":167708.35},{"year":"2018","week":"10","volumeteu":162246.58},{"year":"2018","week":"11","volumeteu":104979.85},{"year":"2018","week":"12","volumeteu":131426.29},{"year":"2018","week":"13","volumeteu":125125.6},{"year":"2018","week":"14","volumeteu":152717.02},{"year":"2018","week":"15","volumeteu":137882.26},{"year":"2018","week":"16","volumeteu":174404.56},{"year":"2018","week":"17","volumeteu":199091.64},{"year":"2018","week":"18","volumeteu":178667.8},{"year":"2018","week":"19","volumeteu":192985.6},{"year":"2018","week":"20","volumeteu":194923.18},{"year":"2018","week":"21","volumeteu":209692.19},{"year":"2018","week":"22","volumeteu":207610.94},{"year":"2018","week":"23","volumeteu":193217.81},{"year":"2018","week":"24","volumeteu":205836.75},{"year":"2018","week":"25","volumeteu":216499.77},{"year":"2018","week":"26","volumeteu":222922.24},{"year":"2018","week":"27","volumeteu":180702.71},{"year":"2018","week":"28","volumeteu":198155.59},{"year":"2018","week":"29","volumeteu":189877.75},{"year":"2018","week":"30","volumeteu":220463.7},{"year":"2018","week":"31","volumeteu":194391.45},{"year":"2018","week":"32","volumeteu":195883.74},{"year":"2018","week":"33","volumeteu":205040.34},{"year":"2018","week":"34","volumeteu":196277.26},{"year":"2018","week":"35","volumeteu":180364.12},{"year":"2018","week":"36","volumeteu":217167.13},{"year":"2018","week":"37","volumeteu":180237.12},{"year":"2018","week":"38","volumeteu":233764.06},{"year":"2018","week":"39","volumeteu":220782.78},{"year":"2018","week":"40","volumeteu":227721.67},{"year":"2018","week":"41","volumeteu":233463.2},{"year":"2018","week":"42","volumeteu":222568.88},{"year":"2018","week":"43","volumeteu":208187.38},{"year":"2018","week":"44","volumeteu":201433.67},{"year":"2018","week":"45","volumeteu":182269.53},{"year":"2018","week":"46","volumeteu":206809.83},{"year":"2018","week":"47","volumeteu":198356.2},{"year":"2018","week":"48","volumeteu":224616.07},{"year":"2018","week":"49","volumeteu":230483.7},{"year":"2018","week":"50","volumeteu":209262.73},{"year":"2018","week":"51","volumeteu":238464.61},{"year":"2018","week":"52","volumeteu":208829.37},{"year":"2019","week":"1","volumeteu":148536.82},{"year":"2019","week":"2","volumeteu":192526.81},{"year":"2019","week":"3","volumeteu":188020.8},{"year":"2019","week":"4","volumeteu":189094.44},{"year":"2019","week":"5","volumeteu":201113.12},{"year":"2019","week":"6","volumeteu":212375.67},{"year":"2019","week":"7","volumeteu":182284.44},{"year":"2019","week":"8","volumeteu":167962.06},{"year":"2019","week":"9","volumeteu":143153.74},{"year":"2019","week":"10","volumeteu":116085.09},{"year":"2019","week":"11","volumeteu":114041.49},{"year":"2019","week":"12","volumeteu":116421.22},{"year":"2019","week":"13","volumeteu":147254.78},{"year":"2019","week":"14","volumeteu":145649.42},{"year":"2019","week":"15","volumeteu":175586.23},{"year":"2019","week":"16","volumeteu":167031.47},{"year":"2019","week":"17","volumeteu":182329.66},{"year":"2019","week":"18","volumeteu":165072.54},{"year":"2019","week":"19","volumeteu":177323.99},{"year":"2019","week":"20","volumeteu":192333.13},{"year":"2019","week":"21","volumeteu":166879.02},{"year":"2019","week":"22","volumeteu":197927.66},{"year":"2019","week":"23","volumeteu":185818.64},{"year":"2019","week":"24","volumeteu":165903.71},{"year":"2019","week":"25","volumeteu":201015.25},{"year":"2019","week":"26","volumeteu":189895.77},{"year":"2019","week":"27","volumeteu":196408.04},{"year":"2019","week":"28","volumeteu":203963.91},{"year":"2019","week":"29","volumeteu":192315.38},{"year":"2019","week":"30","volumeteu":201091.88},{"year":"2019","week":"31","volumeteu":188919.97},{"year":"2019","week":"32","volumeteu":202633.36},{"year":"2019","week":"33","volumeteu":169856.06},{"year":"2019","week":"34","volumeteu":188903.09},{"year":"2019","week":"35","volumeteu":220033.29},{"year":"2019","week":"36","volumeteu":178597.68},{"year":"2019","week":"37","volumeteu":202805.09},{"year":"2019","week":"38","volumeteu":210953.21},{"year":"2019","week":"39","volumeteu":208523.75},{"year":"2019","week":"40","volumeteu":183755.93},{"year":"2019","week":"41","volumeteu":181139.78},{"year":"2019","week":"42","volumeteu":214375.66},{"year":"2019","week":"43","volumeteu":163061.31},{"year":"2019","week":"44","volumeteu":157699.32},{"year":"2019","week":"45","volumeteu":179516.61},{"year":"2019","week":"46","volumeteu":170286.76},{"year":"2019","week":"47","volumeteu":159033.3},{"year":"2019","week":"48","volumeteu":177414.18},{"year":"2019","week":"49","volumeteu":172456.35},{"year":"2019","week":"50","volumeteu":154064.5},{"year":"2019","week":"51","volumeteu":179636.96},{"year":"2019","week":"52","volumeteu":141553.12},{"year":"2020","week":"1","volumeteu":161824.88},{"year":"2020","week":"2","volumeteu":194238.27},{"year":"2020","week":"3","volumeteu":174815.15},{"year":"2020","week":"4","volumeteu":179831.12},{"year":"2020","week":"5","volumeteu":185837.92},{"year":"2020","week":"6","volumeteu":190836.93},{"year":"2020","week":"7","volumeteu":144242.08},{"year":"2020","week":"8","volumeteu":111093.62},{"year":"2020","week":"9","volumeteu":80036.55},{"year":"2020","week":"10","volumeteu":69680.46},{"year":"2020","week":"11","volumeteu":66673.83},{"year":"2020","week":"12","volumeteu":93913.66},{"year":"2020","week":"13","volumeteu":98910.5},{"year":"2020","week":"14","volumeteu":127928.21},{"year":"2020","week":"15","volumeteu":146344.86},{"year":"2020","week":"16","volumeteu":143709.63},{"year":"2020","week":"17","volumeteu":169072.57},{"year":"2020","week":"18","volumeteu":161495.35},{"year":"2020","week":"19","volumeteu":156504.76},{"year":"2020","week":"20","volumeteu":144987.53},{"year":"2020","week":"21","volumeteu":162982.16},{"year":"2020","week":"22","volumeteu":155415.23},{"year":"2020","week":"23","volumeteu":164279.05},{"year":"2020","week":"24","volumeteu":183540.16},{"year":"2020","week":"25","volumeteu":190200.69},{"year":"2020","week":"26","volumeteu":180544.76},{"year":"2020","week":"27","volumeteu":167732.73},{"year":"2020","week":"28","volumeteu":217061.05},{"year":"2020","week":"29","volumeteu":204603.69},{"year":"2020","week":"30","volumeteu":229971.2},{"year":"2020","week":"31","volumeteu":238872.92},{"year":"2020","week":"32","volumeteu":231988.48},{"year":"2020","week":"33","volumeteu":220917.28},{"year":"2020","week":"34","volumeteu":218266.5},{"year":"2020","week":"35","volumeteu":230424.15},{"year":"2020","week":"36","volumeteu":239011.68},{"year":"2020","week":"37","volumeteu":248628.9},{"year":"2020","week":"38","volumeteu":216112.97},{"year":"2020","week":"39","volumeteu":230299.17},{"year":"2020","week":"40","volumeteu":249503.86},{"year":"2020","week":"41","volumeteu":241007.87},{"year":"2020","week":"42","volumeteu":250081.91},{"year":"2020","week":"43","volumeteu":255336.98},{"year":"2020","week":"44","volumeteu":221295.6},{"year":"2020","week":"45","volumeteu":214402.56},{"year":"2020","week":"46","volumeteu":222398.18},{"year":"2020","week":"47","volumeteu":227383.92},{"year":"2020","week":"48","volumeteu":212523.83},{"year":"2020","week":"49","volumeteu":236294.21},{"year":"2020","week":"50","volumeteu":230257.99},{"year":"2020","week":"51","volumeteu":233550.17},{"year":"2020","week":"52","volumeteu":200303.53},{"year":"2020","week":"53","volumeteu":177630.96},{"year":"2021","week":"1","volumeteu":225630.26},{"year":"2021","week":"2","volumeteu":218682.82},{"year":"2021","week":"3","volumeteu":227809.65},{"year":"2021","week":"4","volumeteu":227512.78},{"year":"2021","week":"5","volumeteu":229530.66},{"year":"2021","week":"6","volumeteu":200705.29},{"year":"2021","week":"7","volumeteu":236906.11},{"year":"2021","week":"8","volumeteu":202665.62},{"year":"2021","week":"9","volumeteu":249471.41},{"year":"2021","week":"10","volumeteu":223965.98},{"year":"2021","week":"11","volumeteu":237944.53},{"year":"2021","week":"12","volumeteu":190383.14},{"year":"2021","week":"13","volumeteu":211533.23},{"year":"2021","week":"14","volumeteu":211817.89},{"year":"2021","week":"15","volumeteu":228393.79},{"year":"2021","week":"16","volumeteu":226821.21},{"year":"2021","week":"17","volumeteu":197509.15},{"year":"2021","week":"18","volumeteu":202302.8},{"year":"2021","week":"19","volumeteu":237842.15},{"year":"2021","week":"20","volumeteu":228703.62},{"year":"2021","week":"21","volumeteu":260529.9},{"year":"2021","week":"22","volumeteu":218884.47},{"year":"2021","week":"23","volumeteu":224609.25},{"year":"2021","week":"24","volumeteu":209761.26},{"year":"2021","week":"25","volumeteu":225213.16},{"year":"2021","week":"26","volumeteu":189741.52},{"year":"2021","week":"27","volumeteu":192001.3},{"year":"2021","week":"28","volumeteu":230118.37},{"year":"2021","week":"29","volumeteu":207352.96},{"year":"2021","week":"30","volumeteu":239760.81},{"year":"2021","week":"31","volumeteu":224270.83},{"year":"2021","week":"32","volumeteu":226329.3},{"year":"2021","week":"33","volumeteu":225636.46},{"year":"2021","week":"34","volumeteu":228376.65},{"year":"2021","week":"35","volumeteu":201865.51},{"year":"2021","week":"36","volumeteu":258936.02},{"year":"2021","week":"37","volumeteu":247419.6},{"year":"2021","week":"38","volumeteu":256312.7},{"year":"2021","week":"39","volumeteu":248822.76},{"year":"2021","week":"40","volumeteu":256070.06},{"year":"2021","week":"41","volumeteu":214004.77},{"year":"2021","week":"42","volumeteu":250086.65},{"year":"2021","week":"43","volumeteu":275178.79},{"year":"2021","week":"44","volumeteu":224763.27},{"year":"2021","week":"45","volumeteu":223892.54},{"year":"2021","week":"46","volumeteu":248400.28},{"year":"2021","week":"47","volumeteu":224549.12},{"year":"2021","week":"48","volumeteu":250984.33},{"year":"2021","week":"49","volumeteu":242223.08},{"year":"2021","week":"50","volumeteu":242856.81},{"year":"2021","week":"51","volumeteu":198219.63},{"year":"2021","week":"52","volumeteu":176585.91},{"year":"2022","week":"1","volumeteu":233112.2},{"year":"2022","week":"2","volumeteu":246771.83},{"year":"2022","week":"3","volumeteu":234118.4},{"year":"2022","week":"4","volumeteu":224322.11},{"year":"2022","week":"5","volumeteu":253922.94},{"year":"2022","week":"6","volumeteu":246415.04},{"year":"2022","week":"7","volumeteu":243008.62},{"year":"2022","week":"8","volumeteu":243519.42},{"year":"2022","week":"9","volumeteu":214309.9},{"year":"2022","week":"10","volumeteu":197163.26},{"year":"2022","week":"11","volumeteu":241366.79},{"year":"2022","week":"12","volumeteu":224296.13},{"year":"2022","week":"13","volumeteu":217442.48},{"year":"2022","week":"14","volumeteu":223204.88},{"year":"2022","week":"15","volumeteu":209176.77},{"year":"2022","week":"16","volumeteu":239775.78},{"year":"2022","week":"17","volumeteu":215509.35},{"year":"2022","week":"18","volumeteu":221441.33},{"year":"2022","week":"19","volumeteu":226669.04},{"year":"2022","week":"20","volumeteu":206236.89},{"year":"2022","week":"21","volumeteu":226284.06},{"year":"2022","week":"22","volumeteu":230821.8},{"year":"2022","week":"23","volumeteu":236346.7},{"year":"2022","week":"24","volumeteu":213128.94},{"year":"2022","week":"25","volumeteu":237963.88},{"year":"2022","week":"26","volumeteu":211175.16},{"year":"2022","week":"27","volumeteu":225532.99},{"year":"2022","week":"28","volumeteu":243015.34},{"year":"2022","week":"29","volumeteu":219473.27},{"year":"2022","week":"30","volumeteu":251438.91},{"year":"2022","week":"31","volumeteu":236222.78},{"year":"2022","week":"32","volumeteu":237061.88},{"year":"2022","week":"33","volumeteu":252042.89},{"year":"2022","week":"34","volumeteu":221319.46},{"year":"2022","week":"35","volumeteu":212534.89},{"year":"2022","week":"36","volumeteu":195050.23},{"year":"2022","week":"37","volumeteu":224752.85},{"year":"2022","week":"38","volumeteu":190555.66},{"year":"2022","week":"39","volumeteu":185833.34},{"year":"2022","week":"40","volumeteu":189220.75},{"year":"2022","week":"41","volumeteu":201357.69},{"year":"2022","week":"42","volumeteu":185155.7},{"year":"2022","week":"43","volumeteu":163283.95},{"year":"2022","week":"44","volumeteu":166618.61},{"year":"2022","week":"45","volumeteu":169748.18},{"year":"2022","week":"46","volumeteu":170335.7},{"year":"2022","week":"47","volumeteu":144740.25},{"year":"2022","week":"48","volumeteu":160046.53},{"year":"2022","week":"49","volumeteu":202304.43},{"year":"2022","week":"50","volumeteu":175203.97},{"year":"2022","week":"51","volumeteu":104599.45},{"year":"2022","week":"52","volumeteu":156253.47},{"year":"2023","week":"1","volumeteu":185288.2},{"year":"2023","week":"2","volumeteu":180062.86},{"year":"2023","week":"3","volumeteu":170909.05},{"year":"2023","week":"4","volumeteu":186027.93},{"year":"2023","week":"5","volumeteu":177577.41},{"year":"2023","week":"6","volumeteu":201979.95},{"year":"2023","week":"7","volumeteu":167870.94},{"year":"2023","week":"8","volumeteu":119791.8},{"year":"2023","week":"9","volumeteu":135515.21},{"year":"2023","week":"10","volumeteu":132747.97},{"year":"2023","week":"11","volumeteu":149807.44},{"year":"2023","week":"12","volumeteu":139807.52},{"year":"2023","week":"13","volumeteu":174074.82},{"year":"2023","week":"14","volumeteu":170252.2},{"year":"2023","week":"15","volumeteu":189897.3},{"year":"2023","week":"16","volumeteu":198119.86},{"year":"2023","week":"17","volumeteu":172834.5},{"year":"2023","week":"18","volumeteu":205466.19},{"year":"2023","week":"19","volumeteu":197848.95},{"year":"2023","week":"20","volumeteu":175552.9},{"year":"2023","week":"21","volumeteu":172574.22},{"year":"2023","week":"22","volumeteu":172479.0}]
+[
+    {
+        "year": "2007",
+        "week": "1",
+        "volumeteu": 124.19
+    },
+    {
+        "year": "2007",
+        "week": "2",
+        "volumeteu": 464.52
+    },
+    {
+        "year": "2007",
+        "week": "3",
+        "volumeteu": 127.91
+    },
+    {
+        "year": "2007",
+        "week": "4",
+        "volumeteu": 106.5
+    },
+    {
+        "year": "2007",
+        "week": "5",
+        "volumeteu": 901.8
+    },
+    {
+        "year": "2007",
+        "week": "6",
+        "volumeteu": 238.97
+    },
+    {
+        "year": "2007",
+        "week": "7",
+        "volumeteu": 693.26
+    },
+    {
+        "year": "2007",
+        "week": "8",
+        "volumeteu": 516.3
+    },
+    {
+        "year": "2007",
+        "week": "9",
+        "volumeteu": 727.1
+    },
+    {
+        "year": "2007",
+        "week": "10",
+        "volumeteu": 224.39
+    },
+    {
+        "year": "2007",
+        "week": "11",
+        "volumeteu": 186.78
+    },
+    {
+        "year": "2007",
+        "week": "12",
+        "volumeteu": 180.65
+    },
+    {
+        "year": "2007",
+        "week": "13",
+        "volumeteu": 63.63
+    },
+    {
+        "year": "2007",
+        "week": "14",
+        "volumeteu": 417.71
+    },
+    {
+        "year": "2007",
+        "week": "15",
+        "volumeteu": 296.4
+    },
+    {
+        "year": "2007",
+        "week": "16",
+        "volumeteu": 302.38
+    },
+    {
+        "year": "2007",
+        "week": "17",
+        "volumeteu": 347.61
+    },
+    {
+        "year": "2007",
+        "week": "18",
+        "volumeteu": 728.0
+    },
+    {
+        "year": "2007",
+        "week": "19",
+        "volumeteu": 189.3
+    },
+    {
+        "year": "2007",
+        "week": "20",
+        "volumeteu": 326.88
+    },
+    {
+        "year": "2007",
+        "week": "21",
+        "volumeteu": 935.46
+    },
+    {
+        "year": "2007",
+        "week": "22",
+        "volumeteu": 491.54
+    },
+    {
+        "year": "2007",
+        "week": "23",
+        "volumeteu": 487.49
+    },
+    {
+        "year": "2007",
+        "week": "24",
+        "volumeteu": 2840.4
+    },
+    {
+        "year": "2007",
+        "week": "25",
+        "volumeteu": 6962.12
+    },
+    {
+        "year": "2007",
+        "week": "26",
+        "volumeteu": 38065.09
+    },
+    {
+        "year": "2007",
+        "week": "27",
+        "volumeteu": 131836.9
+    },
+    {
+        "year": "2007",
+        "week": "28",
+        "volumeteu": 128162.71
+    },
+    {
+        "year": "2007",
+        "week": "29",
+        "volumeteu": 141409.02
+    },
+    {
+        "year": "2007",
+        "week": "30",
+        "volumeteu": 144564.43
+    },
+    {
+        "year": "2007",
+        "week": "31",
+        "volumeteu": 109428.77
+    },
+    {
+        "year": "2007",
+        "week": "32",
+        "volumeteu": 142961.1
+    },
+    {
+        "year": "2007",
+        "week": "33",
+        "volumeteu": 135570.71
+    },
+    {
+        "year": "2007",
+        "week": "34",
+        "volumeteu": 139902.6
+    },
+    {
+        "year": "2007",
+        "week": "35",
+        "volumeteu": 140444.9
+    },
+    {
+        "year": "2007",
+        "week": "36",
+        "volumeteu": 144613.43
+    },
+    {
+        "year": "2007",
+        "week": "37",
+        "volumeteu": 140214.78
+    },
+    {
+        "year": "2007",
+        "week": "38",
+        "volumeteu": 143539.31
+    },
+    {
+        "year": "2007",
+        "week": "39",
+        "volumeteu": 148857.35
+    },
+    {
+        "year": "2007",
+        "week": "40",
+        "volumeteu": 130628.07
+    },
+    {
+        "year": "2007",
+        "week": "41",
+        "volumeteu": 152321.68
+    },
+    {
+        "year": "2007",
+        "week": "42",
+        "volumeteu": 125821.37
+    },
+    {
+        "year": "2007",
+        "week": "43",
+        "volumeteu": 129559.3
+    },
+    {
+        "year": "2007",
+        "week": "44",
+        "volumeteu": 140401.98
+    },
+    {
+        "year": "2007",
+        "week": "45",
+        "volumeteu": 147420.49
+    },
+    {
+        "year": "2007",
+        "week": "46",
+        "volumeteu": 141920.74
+    },
+    {
+        "year": "2007",
+        "week": "47",
+        "volumeteu": 122879.91
+    },
+    {
+        "year": "2007",
+        "week": "48",
+        "volumeteu": 124819.34
+    },
+    {
+        "year": "2007",
+        "week": "49",
+        "volumeteu": 128570.49
+    },
+    {
+        "year": "2007",
+        "week": "50",
+        "volumeteu": 118248.83
+    },
+    {
+        "year": "2007",
+        "week": "51",
+        "volumeteu": 117070.03
+    },
+    {
+        "year": "2007",
+        "week": "52",
+        "volumeteu": 124191.84
+    },
+    {
+        "year": "2008",
+        "week": "1",
+        "volumeteu": 116004.72
+    },
+    {
+        "year": "2008",
+        "week": "2",
+        "volumeteu": 116131.83
+    },
+    {
+        "year": "2008",
+        "week": "3",
+        "volumeteu": 126017.36
+    },
+    {
+        "year": "2008",
+        "week": "4",
+        "volumeteu": 97563.24
+    },
+    {
+        "year": "2008",
+        "week": "5",
+        "volumeteu": 141030.44
+    },
+    {
+        "year": "2008",
+        "week": "6",
+        "volumeteu": 127379.65
+    },
+    {
+        "year": "2008",
+        "week": "7",
+        "volumeteu": 131913.57
+    },
+    {
+        "year": "2008",
+        "week": "8",
+        "volumeteu": 133656.0
+    },
+    {
+        "year": "2008",
+        "week": "9",
+        "volumeteu": 72527.38
+    },
+    {
+        "year": "2008",
+        "week": "10",
+        "volumeteu": 89112.65
+    },
+    {
+        "year": "2008",
+        "week": "11",
+        "volumeteu": 87602.55
+    },
+    {
+        "year": "2008",
+        "week": "12",
+        "volumeteu": 84778.09
+    },
+    {
+        "year": "2008",
+        "week": "13",
+        "volumeteu": 113305.58
+    },
+    {
+        "year": "2008",
+        "week": "14",
+        "volumeteu": 127960.42
+    },
+    {
+        "year": "2008",
+        "week": "15",
+        "volumeteu": 139794.83
+    },
+    {
+        "year": "2008",
+        "week": "16",
+        "volumeteu": 111318.07
+    },
+    {
+        "year": "2008",
+        "week": "17",
+        "volumeteu": 139603.58
+    },
+    {
+        "year": "2008",
+        "week": "18",
+        "volumeteu": 128840.85
+    },
+    {
+        "year": "2008",
+        "week": "19",
+        "volumeteu": 139773.49
+    },
+    {
+        "year": "2008",
+        "week": "20",
+        "volumeteu": 138934.62
+    },
+    {
+        "year": "2008",
+        "week": "21",
+        "volumeteu": 127136.58
+    },
+    {
+        "year": "2008",
+        "week": "22",
+        "volumeteu": 133637.54
+    },
+    {
+        "year": "2008",
+        "week": "23",
+        "volumeteu": 128612.2
+    },
+    {
+        "year": "2008",
+        "week": "24",
+        "volumeteu": 128229.35
+    },
+    {
+        "year": "2008",
+        "week": "25",
+        "volumeteu": 126463.62
+    },
+    {
+        "year": "2008",
+        "week": "26",
+        "volumeteu": 130722.8
+    },
+    {
+        "year": "2008",
+        "week": "27",
+        "volumeteu": 130138.45
+    },
+    {
+        "year": "2008",
+        "week": "28",
+        "volumeteu": 144485.28
+    },
+    {
+        "year": "2008",
+        "week": "29",
+        "volumeteu": 137051.63
+    },
+    {
+        "year": "2008",
+        "week": "30",
+        "volumeteu": 131772.38
+    },
+    {
+        "year": "2008",
+        "week": "31",
+        "volumeteu": 96580.51
+    },
+    {
+        "year": "2008",
+        "week": "32",
+        "volumeteu": 150225.47
+    },
+    {
+        "year": "2008",
+        "week": "33",
+        "volumeteu": 146350.95
+    },
+    {
+        "year": "2008",
+        "week": "34",
+        "volumeteu": 125213.49
+    },
+    {
+        "year": "2008",
+        "week": "35",
+        "volumeteu": 152717.27
+    },
+    {
+        "year": "2008",
+        "week": "36",
+        "volumeteu": 115231.97
+    },
+    {
+        "year": "2008",
+        "week": "37",
+        "volumeteu": 168732.77
+    },
+    {
+        "year": "2008",
+        "week": "38",
+        "volumeteu": 149013.44
+    },
+    {
+        "year": "2008",
+        "week": "39",
+        "volumeteu": 142607.05
+    },
+    {
+        "year": "2008",
+        "week": "40",
+        "volumeteu": 144173.9
+    },
+    {
+        "year": "2008",
+        "week": "41",
+        "volumeteu": 132460.16
+    },
+    {
+        "year": "2008",
+        "week": "42",
+        "volumeteu": 139469.68
+    },
+    {
+        "year": "2008",
+        "week": "43",
+        "volumeteu": 132645.65
+    },
+    {
+        "year": "2008",
+        "week": "44",
+        "volumeteu": 144323.98
+    },
+    {
+        "year": "2008",
+        "week": "45",
+        "volumeteu": 128117.41
+    },
+    {
+        "year": "2008",
+        "week": "46",
+        "volumeteu": 129063.45
+    },
+    {
+        "year": "2008",
+        "week": "47",
+        "volumeteu": 129140.47
+    },
+    {
+        "year": "2008",
+        "week": "48",
+        "volumeteu": 120258.84
+    },
+    {
+        "year": "2008",
+        "week": "49",
+        "volumeteu": 109490.73
+    },
+    {
+        "year": "2008",
+        "week": "50",
+        "volumeteu": 110066.42
+    },
+    {
+        "year": "2008",
+        "week": "51",
+        "volumeteu": 102421.94
+    },
+    {
+        "year": "2008",
+        "week": "52",
+        "volumeteu": 100203.79
+    },
+    {
+        "year": "2009",
+        "week": "1",
+        "volumeteu": 115827.45
+    },
+    {
+        "year": "2009",
+        "week": "2",
+        "volumeteu": 107418.9
+    },
+    {
+        "year": "2009",
+        "week": "3",
+        "volumeteu": 115951.48
+    },
+    {
+        "year": "2009",
+        "week": "4",
+        "volumeteu": 107737.41
+    },
+    {
+        "year": "2009",
+        "week": "5",
+        "volumeteu": 130527.24
+    },
+    {
+        "year": "2009",
+        "week": "6",
+        "volumeteu": 123725.47
+    },
+    {
+        "year": "2009",
+        "week": "7",
+        "volumeteu": 85274.48
+    },
+    {
+        "year": "2009",
+        "week": "8",
+        "volumeteu": 63758.63
+    },
+    {
+        "year": "2009",
+        "week": "9",
+        "volumeteu": 79892.87
+    },
+    {
+        "year": "2009",
+        "week": "10",
+        "volumeteu": 56605.49
+    },
+    {
+        "year": "2009",
+        "week": "11",
+        "volumeteu": 90050.58
+    },
+    {
+        "year": "2009",
+        "week": "12",
+        "volumeteu": 107452.5
+    },
+    {
+        "year": "2009",
+        "week": "13",
+        "volumeteu": 98683.9
+    },
+    {
+        "year": "2009",
+        "week": "14",
+        "volumeteu": 112245.6
+    },
+    {
+        "year": "2009",
+        "week": "15",
+        "volumeteu": 109392.1
+    },
+    {
+        "year": "2009",
+        "week": "16",
+        "volumeteu": 113018.69
+    },
+    {
+        "year": "2009",
+        "week": "17",
+        "volumeteu": 101889.95
+    },
+    {
+        "year": "2009",
+        "week": "18",
+        "volumeteu": 112648.0
+    },
+    {
+        "year": "2009",
+        "week": "19",
+        "volumeteu": 112928.72
+    },
+    {
+        "year": "2009",
+        "week": "20",
+        "volumeteu": 110255.72
+    },
+    {
+        "year": "2009",
+        "week": "21",
+        "volumeteu": 111057.94
+    },
+    {
+        "year": "2009",
+        "week": "22",
+        "volumeteu": 101299.53
+    },
+    {
+        "year": "2009",
+        "week": "23",
+        "volumeteu": 116824.8
+    },
+    {
+        "year": "2009",
+        "week": "24",
+        "volumeteu": 111133.55
+    },
+    {
+        "year": "2009",
+        "week": "25",
+        "volumeteu": 103346.0
+    },
+    {
+        "year": "2009",
+        "week": "26",
+        "volumeteu": 109064.62
+    },
+    {
+        "year": "2009",
+        "week": "27",
+        "volumeteu": 102633.19
+    },
+    {
+        "year": "2009",
+        "week": "28",
+        "volumeteu": 120989.52
+    },
+    {
+        "year": "2009",
+        "week": "29",
+        "volumeteu": 113938.42
+    },
+    {
+        "year": "2009",
+        "week": "30",
+        "volumeteu": 119965.1
+    },
+    {
+        "year": "2009",
+        "week": "31",
+        "volumeteu": 115780.87
+    },
+    {
+        "year": "2009",
+        "week": "32",
+        "volumeteu": 122177.02
+    },
+    {
+        "year": "2009",
+        "week": "33",
+        "volumeteu": 122782.57
+    },
+    {
+        "year": "2009",
+        "week": "34",
+        "volumeteu": 116561.61
+    },
+    {
+        "year": "2009",
+        "week": "35",
+        "volumeteu": 136156.26
+    },
+    {
+        "year": "2009",
+        "week": "36",
+        "volumeteu": 126106.5
+    },
+    {
+        "year": "2009",
+        "week": "37",
+        "volumeteu": 128032.61
+    },
+    {
+        "year": "2009",
+        "week": "38",
+        "volumeteu": 125439.69
+    },
+    {
+        "year": "2009",
+        "week": "39",
+        "volumeteu": 134087.96
+    },
+    {
+        "year": "2009",
+        "week": "40",
+        "volumeteu": 143004.93
+    },
+    {
+        "year": "2009",
+        "week": "41",
+        "volumeteu": 127202.12
+    },
+    {
+        "year": "2009",
+        "week": "42",
+        "volumeteu": 138156.71
+    },
+    {
+        "year": "2009",
+        "week": "43",
+        "volumeteu": 108751.15
+    },
+    {
+        "year": "2009",
+        "week": "44",
+        "volumeteu": 118811.97
+    },
+    {
+        "year": "2009",
+        "week": "45",
+        "volumeteu": 127612.06
+    },
+    {
+        "year": "2009",
+        "week": "46",
+        "volumeteu": 128903.66
+    },
+    {
+        "year": "2009",
+        "week": "47",
+        "volumeteu": 115309.74
+    },
+    {
+        "year": "2009",
+        "week": "48",
+        "volumeteu": 116066.13
+    },
+    {
+        "year": "2009",
+        "week": "49",
+        "volumeteu": 115796.67
+    },
+    {
+        "year": "2009",
+        "week": "50",
+        "volumeteu": 119619.91
+    },
+    {
+        "year": "2009",
+        "week": "51",
+        "volumeteu": 123459.15
+    },
+    {
+        "year": "2009",
+        "week": "52",
+        "volumeteu": 104508.53
+    },
+    {
+        "year": "2009",
+        "week": "53",
+        "volumeteu": 113246.96
+    },
+    {
+        "year": "2010",
+        "week": "1",
+        "volumeteu": 109247.43
+    },
+    {
+        "year": "2010",
+        "week": "2",
+        "volumeteu": 132458.47
+    },
+    {
+        "year": "2010",
+        "week": "3",
+        "volumeteu": 108203.15
+    },
+    {
+        "year": "2010",
+        "week": "4",
+        "volumeteu": 122713.82
+    },
+    {
+        "year": "2010",
+        "week": "5",
+        "volumeteu": 124057.57
+    },
+    {
+        "year": "2010",
+        "week": "6",
+        "volumeteu": 102737.04
+    },
+    {
+        "year": "2010",
+        "week": "7",
+        "volumeteu": 133058.69
+    },
+    {
+        "year": "2010",
+        "week": "8",
+        "volumeteu": 121866.57
+    },
+    {
+        "year": "2010",
+        "week": "9",
+        "volumeteu": 115308.45
+    },
+    {
+        "year": "2010",
+        "week": "10",
+        "volumeteu": 87839.04
+    },
+    {
+        "year": "2010",
+        "week": "11",
+        "volumeteu": 100606.42
+    },
+    {
+        "year": "2010",
+        "week": "12",
+        "volumeteu": 97142.24
+    },
+    {
+        "year": "2010",
+        "week": "13",
+        "volumeteu": 129457.28
+    },
+    {
+        "year": "2010",
+        "week": "14",
+        "volumeteu": 129032.14
+    },
+    {
+        "year": "2010",
+        "week": "15",
+        "volumeteu": 106511.9
+    },
+    {
+        "year": "2010",
+        "week": "16",
+        "volumeteu": 129656.57
+    },
+    {
+        "year": "2010",
+        "week": "17",
+        "volumeteu": 127411.64
+    },
+    {
+        "year": "2010",
+        "week": "18",
+        "volumeteu": 132658.48
+    },
+    {
+        "year": "2010",
+        "week": "19",
+        "volumeteu": 155180.78
+    },
+    {
+        "year": "2010",
+        "week": "20",
+        "volumeteu": 135503.75
+    },
+    {
+        "year": "2010",
+        "week": "21",
+        "volumeteu": 145526.46
+    },
+    {
+        "year": "2010",
+        "week": "22",
+        "volumeteu": 137981.03
+    },
+    {
+        "year": "2010",
+        "week": "23",
+        "volumeteu": 156116.51
+    },
+    {
+        "year": "2010",
+        "week": "24",
+        "volumeteu": 158598.63
+    },
+    {
+        "year": "2010",
+        "week": "25",
+        "volumeteu": 158165.04
+    },
+    {
+        "year": "2010",
+        "week": "26",
+        "volumeteu": 134600.22
+    },
+    {
+        "year": "2010",
+        "week": "27",
+        "volumeteu": 161409.56
+    },
+    {
+        "year": "2010",
+        "week": "28",
+        "volumeteu": 148984.32
+    },
+    {
+        "year": "2010",
+        "week": "29",
+        "volumeteu": 167341.56
+    },
+    {
+        "year": "2010",
+        "week": "30",
+        "volumeteu": 160910.74
+    },
+    {
+        "year": "2010",
+        "week": "31",
+        "volumeteu": 146485.13
+    },
+    {
+        "year": "2010",
+        "week": "32",
+        "volumeteu": 162546.95
+    },
+    {
+        "year": "2010",
+        "week": "33",
+        "volumeteu": 157736.37
+    },
+    {
+        "year": "2010",
+        "week": "34",
+        "volumeteu": 158435.68
+    },
+    {
+        "year": "2010",
+        "week": "35",
+        "volumeteu": 158901.07
+    },
+    {
+        "year": "2010",
+        "week": "36",
+        "volumeteu": 152185.74
+    },
+    {
+        "year": "2010",
+        "week": "37",
+        "volumeteu": 160534.04
+    },
+    {
+        "year": "2010",
+        "week": "38",
+        "volumeteu": 155023.54
+    },
+    {
+        "year": "2010",
+        "week": "39",
+        "volumeteu": 141475.7
+    },
+    {
+        "year": "2010",
+        "week": "40",
+        "volumeteu": 180422.47
+    },
+    {
+        "year": "2010",
+        "week": "41",
+        "volumeteu": 151319.73
+    },
+    {
+        "year": "2010",
+        "week": "42",
+        "volumeteu": 142505.68
+    },
+    {
+        "year": "2010",
+        "week": "43",
+        "volumeteu": 145689.24
+    },
+    {
+        "year": "2010",
+        "week": "44",
+        "volumeteu": 125021.29
+    },
+    {
+        "year": "2010",
+        "week": "45",
+        "volumeteu": 139407.88
+    },
+    {
+        "year": "2010",
+        "week": "46",
+        "volumeteu": 147332.31
+    },
+    {
+        "year": "2010",
+        "week": "47",
+        "volumeteu": 140756.8
+    },
+    {
+        "year": "2010",
+        "week": "48",
+        "volumeteu": 131618.25
+    },
+    {
+        "year": "2010",
+        "week": "49",
+        "volumeteu": 123269.16
+    },
+    {
+        "year": "2010",
+        "week": "50",
+        "volumeteu": 117587.82
+    },
+    {
+        "year": "2010",
+        "week": "51",
+        "volumeteu": 125370.56
+    },
+    {
+        "year": "2010",
+        "week": "52",
+        "volumeteu": 121195.45
+    },
+    {
+        "year": "2011",
+        "week": "1",
+        "volumeteu": 143734.75
+    },
+    {
+        "year": "2011",
+        "week": "2",
+        "volumeteu": 120299.4
+    },
+    {
+        "year": "2011",
+        "week": "3",
+        "volumeteu": 130236.42
+    },
+    {
+        "year": "2011",
+        "week": "4",
+        "volumeteu": 151213.24
+    },
+    {
+        "year": "2011",
+        "week": "5",
+        "volumeteu": 143149.26
+    },
+    {
+        "year": "2011",
+        "week": "6",
+        "volumeteu": 164354.9
+    },
+    {
+        "year": "2011",
+        "week": "7",
+        "volumeteu": 135140.68
+    },
+    {
+        "year": "2011",
+        "week": "8",
+        "volumeteu": 88378.46
+    },
+    {
+        "year": "2011",
+        "week": "9",
+        "volumeteu": 75742.09
+    },
+    {
+        "year": "2011",
+        "week": "10",
+        "volumeteu": 85076.99
+    },
+    {
+        "year": "2011",
+        "week": "11",
+        "volumeteu": 117127.51
+    },
+    {
+        "year": "2011",
+        "week": "12",
+        "volumeteu": 125500.97
+    },
+    {
+        "year": "2011",
+        "week": "13",
+        "volumeteu": 135111.2
+    },
+    {
+        "year": "2011",
+        "week": "14",
+        "volumeteu": 128372.82
+    },
+    {
+        "year": "2011",
+        "week": "15",
+        "volumeteu": 147503.47
+    },
+    {
+        "year": "2011",
+        "week": "16",
+        "volumeteu": 137361.8
+    },
+    {
+        "year": "2011",
+        "week": "17",
+        "volumeteu": 138137.95
+    },
+    {
+        "year": "2011",
+        "week": "18",
+        "volumeteu": 142069.3
+    },
+    {
+        "year": "2011",
+        "week": "19",
+        "volumeteu": 148758.05
+    },
+    {
+        "year": "2011",
+        "week": "20",
+        "volumeteu": 141893.26
+    },
+    {
+        "year": "2011",
+        "week": "21",
+        "volumeteu": 136892.68
+    },
+    {
+        "year": "2011",
+        "week": "22",
+        "volumeteu": 151040.06
+    },
+    {
+        "year": "2011",
+        "week": "23",
+        "volumeteu": 149987.91
+    },
+    {
+        "year": "2011",
+        "week": "24",
+        "volumeteu": 148033.82
+    },
+    {
+        "year": "2011",
+        "week": "25",
+        "volumeteu": 130689.75
+    },
+    {
+        "year": "2011",
+        "week": "26",
+        "volumeteu": 149922.03
+    },
+    {
+        "year": "2011",
+        "week": "27",
+        "volumeteu": 132986.02
+    },
+    {
+        "year": "2011",
+        "week": "28",
+        "volumeteu": 149943.18
+    },
+    {
+        "year": "2011",
+        "week": "29",
+        "volumeteu": 147342.74
+    },
+    {
+        "year": "2011",
+        "week": "30",
+        "volumeteu": 158021.09
+    },
+    {
+        "year": "2011",
+        "week": "31",
+        "volumeteu": 147748.31
+    },
+    {
+        "year": "2011",
+        "week": "32",
+        "volumeteu": 157239.34
+    },
+    {
+        "year": "2011",
+        "week": "33",
+        "volumeteu": 139177.92
+    },
+    {
+        "year": "2011",
+        "week": "34",
+        "volumeteu": 153680.9
+    },
+    {
+        "year": "2011",
+        "week": "35",
+        "volumeteu": 161241.63
+    },
+    {
+        "year": "2011",
+        "week": "36",
+        "volumeteu": 143494.41
+    },
+    {
+        "year": "2011",
+        "week": "37",
+        "volumeteu": 169854.29
+    },
+    {
+        "year": "2011",
+        "week": "38",
+        "volumeteu": 155481.26
+    },
+    {
+        "year": "2011",
+        "week": "39",
+        "volumeteu": 157637.4
+    },
+    {
+        "year": "2011",
+        "week": "40",
+        "volumeteu": 158877.16
+    },
+    {
+        "year": "2011",
+        "week": "41",
+        "volumeteu": 136660.89
+    },
+    {
+        "year": "2011",
+        "week": "42",
+        "volumeteu": 140356.1
+    },
+    {
+        "year": "2011",
+        "week": "43",
+        "volumeteu": 121606.16
+    },
+    {
+        "year": "2011",
+        "week": "44",
+        "volumeteu": 146122.51
+    },
+    {
+        "year": "2011",
+        "week": "45",
+        "volumeteu": 149610.8
+    },
+    {
+        "year": "2011",
+        "week": "46",
+        "volumeteu": 140773.56
+    },
+    {
+        "year": "2011",
+        "week": "47",
+        "volumeteu": 140362.03
+    },
+    {
+        "year": "2011",
+        "week": "48",
+        "volumeteu": 132522.76
+    },
+    {
+        "year": "2011",
+        "week": "49",
+        "volumeteu": 119513.22
+    },
+    {
+        "year": "2011",
+        "week": "50",
+        "volumeteu": 139346.94
+    },
+    {
+        "year": "2011",
+        "week": "51",
+        "volumeteu": 109699.69
+    },
+    {
+        "year": "2011",
+        "week": "52",
+        "volumeteu": 129079.74
+    },
+    {
+        "year": "2012",
+        "week": "1",
+        "volumeteu": 164995.62
+    },
+    {
+        "year": "2012",
+        "week": "2",
+        "volumeteu": 133814.04
+    },
+    {
+        "year": "2012",
+        "week": "3",
+        "volumeteu": 140827.36
+    },
+    {
+        "year": "2012",
+        "week": "4",
+        "volumeteu": 155105.88
+    },
+    {
+        "year": "2012",
+        "week": "5",
+        "volumeteu": 147128.54
+    },
+    {
+        "year": "2012",
+        "week": "6",
+        "volumeteu": 148210.81
+    },
+    {
+        "year": "2012",
+        "week": "7",
+        "volumeteu": 71285.4
+    },
+    {
+        "year": "2012",
+        "week": "8",
+        "volumeteu": 102633.44
+    },
+    {
+        "year": "2012",
+        "week": "9",
+        "volumeteu": 89644.92
+    },
+    {
+        "year": "2012",
+        "week": "10",
+        "volumeteu": 109047.97
+    },
+    {
+        "year": "2012",
+        "week": "11",
+        "volumeteu": 126327.1
+    },
+    {
+        "year": "2012",
+        "week": "12",
+        "volumeteu": 129461.03
+    },
+    {
+        "year": "2012",
+        "week": "13",
+        "volumeteu": 149613.44
+    },
+    {
+        "year": "2012",
+        "week": "14",
+        "volumeteu": 131633.83
+    },
+    {
+        "year": "2012",
+        "week": "15",
+        "volumeteu": 149247.27
+    },
+    {
+        "year": "2012",
+        "week": "16",
+        "volumeteu": 141202.35
+    },
+    {
+        "year": "2012",
+        "week": "17",
+        "volumeteu": 139205.03
+    },
+    {
+        "year": "2012",
+        "week": "18",
+        "volumeteu": 154584.75
+    },
+    {
+        "year": "2012",
+        "week": "19",
+        "volumeteu": 148174.75
+    },
+    {
+        "year": "2012",
+        "week": "20",
+        "volumeteu": 156048.36
+    },
+    {
+        "year": "2012",
+        "week": "21",
+        "volumeteu": 147100.27
+    },
+    {
+        "year": "2012",
+        "week": "22",
+        "volumeteu": 150617.97
+    },
+    {
+        "year": "2012",
+        "week": "23",
+        "volumeteu": 159635.47
+    },
+    {
+        "year": "2012",
+        "week": "24",
+        "volumeteu": 153600.83
+    },
+    {
+        "year": "2012",
+        "week": "25",
+        "volumeteu": 148556.52
+    },
+    {
+        "year": "2012",
+        "week": "26",
+        "volumeteu": 169547.92
+    },
+    {
+        "year": "2012",
+        "week": "27",
+        "volumeteu": 146580.96
+    },
+    {
+        "year": "2012",
+        "week": "28",
+        "volumeteu": 143673.79
+    },
+    {
+        "year": "2012",
+        "week": "29",
+        "volumeteu": 159756.15
+    },
+    {
+        "year": "2012",
+        "week": "30",
+        "volumeteu": 151530.36
+    },
+    {
+        "year": "2012",
+        "week": "31",
+        "volumeteu": 152076.49
+    },
+    {
+        "year": "2012",
+        "week": "32",
+        "volumeteu": 160959.95
+    },
+    {
+        "year": "2012",
+        "week": "33",
+        "volumeteu": 150383.15
+    },
+    {
+        "year": "2012",
+        "week": "34",
+        "volumeteu": 150883.71
+    },
+    {
+        "year": "2012",
+        "week": "35",
+        "volumeteu": 163152.62
+    },
+    {
+        "year": "2012",
+        "week": "36",
+        "volumeteu": 158775.21
+    },
+    {
+        "year": "2012",
+        "week": "37",
+        "volumeteu": 181189.38
+    },
+    {
+        "year": "2012",
+        "week": "38",
+        "volumeteu": 162698.37
+    },
+    {
+        "year": "2012",
+        "week": "39",
+        "volumeteu": 162617.99
+    },
+    {
+        "year": "2012",
+        "week": "40",
+        "volumeteu": 167953.75
+    },
+    {
+        "year": "2012",
+        "week": "41",
+        "volumeteu": 149729.46
+    },
+    {
+        "year": "2012",
+        "week": "42",
+        "volumeteu": 148098.47
+    },
+    {
+        "year": "2012",
+        "week": "43",
+        "volumeteu": 110819.59
+    },
+    {
+        "year": "2012",
+        "week": "44",
+        "volumeteu": 122607.51
+    },
+    {
+        "year": "2012",
+        "week": "45",
+        "volumeteu": 129261.44
+    },
+    {
+        "year": "2012",
+        "week": "46",
+        "volumeteu": 133430.44
+    },
+    {
+        "year": "2012",
+        "week": "47",
+        "volumeteu": 124659.74
+    },
+    {
+        "year": "2012",
+        "week": "48",
+        "volumeteu": 104458.66
+    },
+    {
+        "year": "2012",
+        "week": "49",
+        "volumeteu": 147620.83
+    },
+    {
+        "year": "2012",
+        "week": "50",
+        "volumeteu": 130510.05
+    },
+    {
+        "year": "2012",
+        "week": "51",
+        "volumeteu": 135400.27
+    },
+    {
+        "year": "2012",
+        "week": "52",
+        "volumeteu": 127512.21
+    },
+    {
+        "year": "2013",
+        "week": "1",
+        "volumeteu": 134309.96
+    },
+    {
+        "year": "2013",
+        "week": "2",
+        "volumeteu": 131060.89
+    },
+    {
+        "year": "2013",
+        "week": "3",
+        "volumeteu": 149226.66
+    },
+    {
+        "year": "2013",
+        "week": "4",
+        "volumeteu": 131958.08
+    },
+    {
+        "year": "2013",
+        "week": "5",
+        "volumeteu": 159100.05
+    },
+    {
+        "year": "2013",
+        "week": "6",
+        "volumeteu": 156429.15
+    },
+    {
+        "year": "2013",
+        "week": "7",
+        "volumeteu": 156797.74
+    },
+    {
+        "year": "2013",
+        "week": "8",
+        "volumeteu": 149770.42
+    },
+    {
+        "year": "2013",
+        "week": "9",
+        "volumeteu": 140834.42
+    },
+    {
+        "year": "2013",
+        "week": "10",
+        "volumeteu": 66996.19
+    },
+    {
+        "year": "2013",
+        "week": "11",
+        "volumeteu": 92920.9
+    },
+    {
+        "year": "2013",
+        "week": "12",
+        "volumeteu": 97452.6
+    },
+    {
+        "year": "2013",
+        "week": "13",
+        "volumeteu": 111361.53
+    },
+    {
+        "year": "2013",
+        "week": "14",
+        "volumeteu": 132211.75
+    },
+    {
+        "year": "2013",
+        "week": "15",
+        "volumeteu": 116662.88
+    },
+    {
+        "year": "2013",
+        "week": "16",
+        "volumeteu": 150615.11
+    },
+    {
+        "year": "2013",
+        "week": "17",
+        "volumeteu": 141382.29
+    },
+    {
+        "year": "2013",
+        "week": "18",
+        "volumeteu": 155626.49
+    },
+    {
+        "year": "2013",
+        "week": "19",
+        "volumeteu": 155883.01
+    },
+    {
+        "year": "2013",
+        "week": "20",
+        "volumeteu": 147851.59
+    },
+    {
+        "year": "2013",
+        "week": "21",
+        "volumeteu": 137867.65
+    },
+    {
+        "year": "2013",
+        "week": "22",
+        "volumeteu": 145441.28
+    },
+    {
+        "year": "2013",
+        "week": "23",
+        "volumeteu": 158919.35
+    },
+    {
+        "year": "2013",
+        "week": "24",
+        "volumeteu": 150115.3
+    },
+    {
+        "year": "2013",
+        "week": "25",
+        "volumeteu": 151915.02
+    },
+    {
+        "year": "2013",
+        "week": "26",
+        "volumeteu": 147202.44
+    },
+    {
+        "year": "2013",
+        "week": "27",
+        "volumeteu": 135603.86
+    },
+    {
+        "year": "2013",
+        "week": "28",
+        "volumeteu": 161864.5
+    },
+    {
+        "year": "2013",
+        "week": "29",
+        "volumeteu": 152891.38
+    },
+    {
+        "year": "2013",
+        "week": "30",
+        "volumeteu": 151359.24
+    },
+    {
+        "year": "2013",
+        "week": "31",
+        "volumeteu": 169057.27
+    },
+    {
+        "year": "2013",
+        "week": "32",
+        "volumeteu": 159003.54
+    },
+    {
+        "year": "2013",
+        "week": "33",
+        "volumeteu": 168394.37
+    },
+    {
+        "year": "2013",
+        "week": "34",
+        "volumeteu": 159732.15
+    },
+    {
+        "year": "2013",
+        "week": "35",
+        "volumeteu": 162528.09
+    },
+    {
+        "year": "2013",
+        "week": "36",
+        "volumeteu": 154644.75
+    },
+    {
+        "year": "2013",
+        "week": "37",
+        "volumeteu": 175977.12
+    },
+    {
+        "year": "2013",
+        "week": "38",
+        "volumeteu": 161850.3
+    },
+    {
+        "year": "2013",
+        "week": "39",
+        "volumeteu": 168756.15
+    },
+    {
+        "year": "2013",
+        "week": "40",
+        "volumeteu": 153083.44
+    },
+    {
+        "year": "2013",
+        "week": "41",
+        "volumeteu": 172140.68
+    },
+    {
+        "year": "2013",
+        "week": "42",
+        "volumeteu": 162221.92
+    },
+    {
+        "year": "2013",
+        "week": "43",
+        "volumeteu": 129172.87
+    },
+    {
+        "year": "2013",
+        "week": "44",
+        "volumeteu": 143863.82
+    },
+    {
+        "year": "2013",
+        "week": "45",
+        "volumeteu": 167640.73
+    },
+    {
+        "year": "2013",
+        "week": "46",
+        "volumeteu": 146340.04
+    },
+    {
+        "year": "2013",
+        "week": "47",
+        "volumeteu": 161506.95
+    },
+    {
+        "year": "2013",
+        "week": "48",
+        "volumeteu": 135683.61
+    },
+    {
+        "year": "2013",
+        "week": "49",
+        "volumeteu": 155004.91
+    },
+    {
+        "year": "2013",
+        "week": "50",
+        "volumeteu": 143446.49
+    },
+    {
+        "year": "2013",
+        "week": "51",
+        "volumeteu": 112503.31
+    },
+    {
+        "year": "2013",
+        "week": "52",
+        "volumeteu": 150958.66
+    },
+    {
+        "year": "2014",
+        "week": "1",
+        "volumeteu": 141229.87
+    },
+    {
+        "year": "2014",
+        "week": "2",
+        "volumeteu": 155700.44
+    },
+    {
+        "year": "2014",
+        "week": "3",
+        "volumeteu": 172402.92
+    },
+    {
+        "year": "2014",
+        "week": "4",
+        "volumeteu": 135078.9
+    },
+    {
+        "year": "2014",
+        "week": "5",
+        "volumeteu": 167463.4
+    },
+    {
+        "year": "2014",
+        "week": "6",
+        "volumeteu": 155664.07
+    },
+    {
+        "year": "2014",
+        "week": "7",
+        "volumeteu": 153477.81
+    },
+    {
+        "year": "2014",
+        "week": "8",
+        "volumeteu": 138724.27
+    },
+    {
+        "year": "2014",
+        "week": "9",
+        "volumeteu": 88082.52
+    },
+    {
+        "year": "2014",
+        "week": "10",
+        "volumeteu": 116699.28
+    },
+    {
+        "year": "2014",
+        "week": "11",
+        "volumeteu": 101801.46
+    },
+    {
+        "year": "2014",
+        "week": "12",
+        "volumeteu": 131736.8
+    },
+    {
+        "year": "2014",
+        "week": "13",
+        "volumeteu": 134990.52
+    },
+    {
+        "year": "2014",
+        "week": "14",
+        "volumeteu": 148848.98
+    },
+    {
+        "year": "2014",
+        "week": "15",
+        "volumeteu": 134826.18
+    },
+    {
+        "year": "2014",
+        "week": "16",
+        "volumeteu": 153540.4
+    },
+    {
+        "year": "2014",
+        "week": "17",
+        "volumeteu": 153252.6
+    },
+    {
+        "year": "2014",
+        "week": "18",
+        "volumeteu": 173935.95
+    },
+    {
+        "year": "2014",
+        "week": "19",
+        "volumeteu": 145051.29
+    },
+    {
+        "year": "2014",
+        "week": "20",
+        "volumeteu": 158314.95
+    },
+    {
+        "year": "2014",
+        "week": "21",
+        "volumeteu": 172016.93
+    },
+    {
+        "year": "2014",
+        "week": "22",
+        "volumeteu": 151178.62
+    },
+    {
+        "year": "2014",
+        "week": "23",
+        "volumeteu": 162573.76
+    },
+    {
+        "year": "2014",
+        "week": "24",
+        "volumeteu": 179603.99
+    },
+    {
+        "year": "2014",
+        "week": "25",
+        "volumeteu": 160997.14
+    },
+    {
+        "year": "2014",
+        "week": "26",
+        "volumeteu": 148283.77
+    },
+    {
+        "year": "2014",
+        "week": "27",
+        "volumeteu": 152195.09
+    },
+    {
+        "year": "2014",
+        "week": "28",
+        "volumeteu": 148013.46
+    },
+    {
+        "year": "2014",
+        "week": "29",
+        "volumeteu": 166498.28
+    },
+    {
+        "year": "2014",
+        "week": "30",
+        "volumeteu": 174060.43
+    },
+    {
+        "year": "2014",
+        "week": "31",
+        "volumeteu": 158228.65
+    },
+    {
+        "year": "2014",
+        "week": "32",
+        "volumeteu": 168723.73
+    },
+    {
+        "year": "2014",
+        "week": "33",
+        "volumeteu": 170556.29
+    },
+    {
+        "year": "2014",
+        "week": "34",
+        "volumeteu": 172850.47
+    },
+    {
+        "year": "2014",
+        "week": "35",
+        "volumeteu": 167416.61
+    },
+    {
+        "year": "2014",
+        "week": "36",
+        "volumeteu": 176980.36
+    },
+    {
+        "year": "2014",
+        "week": "37",
+        "volumeteu": 180478.11
+    },
+    {
+        "year": "2014",
+        "week": "38",
+        "volumeteu": 186091.52
+    },
+    {
+        "year": "2014",
+        "week": "39",
+        "volumeteu": 161902.96
+    },
+    {
+        "year": "2014",
+        "week": "40",
+        "volumeteu": 170754.55
+    },
+    {
+        "year": "2014",
+        "week": "41",
+        "volumeteu": 197805.16
+    },
+    {
+        "year": "2014",
+        "week": "42",
+        "volumeteu": 171047.09
+    },
+    {
+        "year": "2014",
+        "week": "43",
+        "volumeteu": 139318.4
+    },
+    {
+        "year": "2014",
+        "week": "44",
+        "volumeteu": 150864.43
+    },
+    {
+        "year": "2014",
+        "week": "45",
+        "volumeteu": 151619.03
+    },
+    {
+        "year": "2014",
+        "week": "46",
+        "volumeteu": 148448.25
+    },
+    {
+        "year": "2014",
+        "week": "47",
+        "volumeteu": 157867.69
+    },
+    {
+        "year": "2014",
+        "week": "48",
+        "volumeteu": 150022.73
+    },
+    {
+        "year": "2014",
+        "week": "49",
+        "volumeteu": 153484.13
+    },
+    {
+        "year": "2014",
+        "week": "50",
+        "volumeteu": 141519.75
+    },
+    {
+        "year": "2014",
+        "week": "51",
+        "volumeteu": 141090.93
+    },
+    {
+        "year": "2014",
+        "week": "52",
+        "volumeteu": 137339.04
+    },
+    {
+        "year": "2015",
+        "week": "1",
+        "volumeteu": 138171.89
+    },
+    {
+        "year": "2015",
+        "week": "2",
+        "volumeteu": 139387.48
+    },
+    {
+        "year": "2015",
+        "week": "3",
+        "volumeteu": 137607.61
+    },
+    {
+        "year": "2015",
+        "week": "4",
+        "volumeteu": 120561.83
+    },
+    {
+        "year": "2015",
+        "week": "5",
+        "volumeteu": 146918.91
+    },
+    {
+        "year": "2015",
+        "week": "6",
+        "volumeteu": 137602.24
+    },
+    {
+        "year": "2015",
+        "week": "7",
+        "volumeteu": 120072.42
+    },
+    {
+        "year": "2015",
+        "week": "8",
+        "volumeteu": 147477.19
+    },
+    {
+        "year": "2015",
+        "week": "9",
+        "volumeteu": 182699.39
+    },
+    {
+        "year": "2015",
+        "week": "10",
+        "volumeteu": 194065.47
+    },
+    {
+        "year": "2015",
+        "week": "11",
+        "volumeteu": 178632.32
+    },
+    {
+        "year": "2015",
+        "week": "12",
+        "volumeteu": 148491.9
+    },
+    {
+        "year": "2015",
+        "week": "13",
+        "volumeteu": 117951.05
+    },
+    {
+        "year": "2015",
+        "week": "14",
+        "volumeteu": 114050.93
+    },
+    {
+        "year": "2015",
+        "week": "15",
+        "volumeteu": 135799.54
+    },
+    {
+        "year": "2015",
+        "week": "16",
+        "volumeteu": 141724.53
+    },
+    {
+        "year": "2015",
+        "week": "17",
+        "volumeteu": 172975.23
+    },
+    {
+        "year": "2015",
+        "week": "18",
+        "volumeteu": 142510.97
+    },
+    {
+        "year": "2015",
+        "week": "19",
+        "volumeteu": 158173.19
+    },
+    {
+        "year": "2015",
+        "week": "20",
+        "volumeteu": 175896.34
+    },
+    {
+        "year": "2015",
+        "week": "21",
+        "volumeteu": 161592.02
+    },
+    {
+        "year": "2015",
+        "week": "22",
+        "volumeteu": 167979.8
+    },
+    {
+        "year": "2015",
+        "week": "23",
+        "volumeteu": 174571.97
+    },
+    {
+        "year": "2015",
+        "week": "24",
+        "volumeteu": 156780.45
+    },
+    {
+        "year": "2015",
+        "week": "25",
+        "volumeteu": 162287.81
+    },
+    {
+        "year": "2015",
+        "week": "26",
+        "volumeteu": 167758.17
+    },
+    {
+        "year": "2015",
+        "week": "27",
+        "volumeteu": 149795.71
+    },
+    {
+        "year": "2015",
+        "week": "28",
+        "volumeteu": 181936.5
+    },
+    {
+        "year": "2015",
+        "week": "29",
+        "volumeteu": 170838.77
+    },
+    {
+        "year": "2015",
+        "week": "30",
+        "volumeteu": 148115.46
+    },
+    {
+        "year": "2015",
+        "week": "31",
+        "volumeteu": 166320.0
+    },
+    {
+        "year": "2015",
+        "week": "32",
+        "volumeteu": 170315.74
+    },
+    {
+        "year": "2015",
+        "week": "33",
+        "volumeteu": 177781.33
+    },
+    {
+        "year": "2015",
+        "week": "34",
+        "volumeteu": 185980.23
+    },
+    {
+        "year": "2015",
+        "week": "35",
+        "volumeteu": 189220.86
+    },
+    {
+        "year": "2015",
+        "week": "36",
+        "volumeteu": 164241.41
+    },
+    {
+        "year": "2015",
+        "week": "37",
+        "volumeteu": 188149.18
+    },
+    {
+        "year": "2015",
+        "week": "38",
+        "volumeteu": 169361.61
+    },
+    {
+        "year": "2015",
+        "week": "39",
+        "volumeteu": 166940.43
+    },
+    {
+        "year": "2015",
+        "week": "40",
+        "volumeteu": 174062.91
+    },
+    {
+        "year": "2015",
+        "week": "41",
+        "volumeteu": 155778.81
+    },
+    {
+        "year": "2015",
+        "week": "42",
+        "volumeteu": 183059.05
+    },
+    {
+        "year": "2015",
+        "week": "43",
+        "volumeteu": 137855.3
+    },
+    {
+        "year": "2015",
+        "week": "44",
+        "volumeteu": 160326.74
+    },
+    {
+        "year": "2015",
+        "week": "45",
+        "volumeteu": 157395.57
+    },
+    {
+        "year": "2015",
+        "week": "46",
+        "volumeteu": 146656.61
+    },
+    {
+        "year": "2015",
+        "week": "47",
+        "volumeteu": 154749.0
+    },
+    {
+        "year": "2015",
+        "week": "48",
+        "volumeteu": 150892.3
+    },
+    {
+        "year": "2015",
+        "week": "49",
+        "volumeteu": 151173.37
+    },
+    {
+        "year": "2015",
+        "week": "50",
+        "volumeteu": 129643.63
+    },
+    {
+        "year": "2015",
+        "week": "51",
+        "volumeteu": 154036.15
+    },
+    {
+        "year": "2015",
+        "week": "52",
+        "volumeteu": 141537.6
+    },
+    {
+        "year": "2015",
+        "week": "53",
+        "volumeteu": 143861.6
+    },
+    {
+        "year": "2016",
+        "week": "1",
+        "volumeteu": 161539.36
+    },
+    {
+        "year": "2016",
+        "week": "2",
+        "volumeteu": 163646.09
+    },
+    {
+        "year": "2016",
+        "week": "3",
+        "volumeteu": 176604.43
+    },
+    {
+        "year": "2016",
+        "week": "4",
+        "volumeteu": 150412.47
+    },
+    {
+        "year": "2016",
+        "week": "5",
+        "volumeteu": 181561.05
+    },
+    {
+        "year": "2016",
+        "week": "6",
+        "volumeteu": 170485.06
+    },
+    {
+        "year": "2016",
+        "week": "7",
+        "volumeteu": 190719.19
+    },
+    {
+        "year": "2016",
+        "week": "8",
+        "volumeteu": 169776.99
+    },
+    {
+        "year": "2016",
+        "week": "9",
+        "volumeteu": 102213.9
+    },
+    {
+        "year": "2016",
+        "week": "10",
+        "volumeteu": 110361.66
+    },
+    {
+        "year": "2016",
+        "week": "11",
+        "volumeteu": 83125.6
+    },
+    {
+        "year": "2016",
+        "week": "12",
+        "volumeteu": 122017.07
+    },
+    {
+        "year": "2016",
+        "week": "13",
+        "volumeteu": 121426.34
+    },
+    {
+        "year": "2016",
+        "week": "14",
+        "volumeteu": 154463.75
+    },
+    {
+        "year": "2016",
+        "week": "15",
+        "volumeteu": 154951.89
+    },
+    {
+        "year": "2016",
+        "week": "16",
+        "volumeteu": 146757.32
+    },
+    {
+        "year": "2016",
+        "week": "17",
+        "volumeteu": 156142.89
+    },
+    {
+        "year": "2016",
+        "week": "18",
+        "volumeteu": 168686.6
+    },
+    {
+        "year": "2016",
+        "week": "19",
+        "volumeteu": 147890.47
+    },
+    {
+        "year": "2016",
+        "week": "20",
+        "volumeteu": 169410.9
+    },
+    {
+        "year": "2016",
+        "week": "21",
+        "volumeteu": 171229.83
+    },
+    {
+        "year": "2016",
+        "week": "22",
+        "volumeteu": 167325.73
+    },
+    {
+        "year": "2016",
+        "week": "23",
+        "volumeteu": 145057.86
+    },
+    {
+        "year": "2016",
+        "week": "24",
+        "volumeteu": 185364.75
+    },
+    {
+        "year": "2016",
+        "week": "25",
+        "volumeteu": 166079.98
+    },
+    {
+        "year": "2016",
+        "week": "26",
+        "volumeteu": 169576.58
+    },
+    {
+        "year": "2016",
+        "week": "27",
+        "volumeteu": 160327.59
+    },
+    {
+        "year": "2016",
+        "week": "28",
+        "volumeteu": 182611.18
+    },
+    {
+        "year": "2016",
+        "week": "29",
+        "volumeteu": 168711.67
+    },
+    {
+        "year": "2016",
+        "week": "30",
+        "volumeteu": 180112.94
+    },
+    {
+        "year": "2016",
+        "week": "31",
+        "volumeteu": 182188.29
+    },
+    {
+        "year": "2016",
+        "week": "32",
+        "volumeteu": 168948.47
+    },
+    {
+        "year": "2016",
+        "week": "33",
+        "volumeteu": 186296.19
+    },
+    {
+        "year": "2016",
+        "week": "34",
+        "volumeteu": 187948.08
+    },
+    {
+        "year": "2016",
+        "week": "35",
+        "volumeteu": 183270.8
+    },
+    {
+        "year": "2016",
+        "week": "36",
+        "volumeteu": 160937.85
+    },
+    {
+        "year": "2016",
+        "week": "37",
+        "volumeteu": 189135.99
+    },
+    {
+        "year": "2016",
+        "week": "38",
+        "volumeteu": 190106.43
+    },
+    {
+        "year": "2016",
+        "week": "39",
+        "volumeteu": 177433.39
+    },
+    {
+        "year": "2016",
+        "week": "40",
+        "volumeteu": 167302.83
+    },
+    {
+        "year": "2016",
+        "week": "41",
+        "volumeteu": 184398.1
+    },
+    {
+        "year": "2016",
+        "week": "42",
+        "volumeteu": 188726.54
+    },
+    {
+        "year": "2016",
+        "week": "43",
+        "volumeteu": 180161.82
+    },
+    {
+        "year": "2016",
+        "week": "44",
+        "volumeteu": 162495.26
+    },
+    {
+        "year": "2016",
+        "week": "45",
+        "volumeteu": 173420.02
+    },
+    {
+        "year": "2016",
+        "week": "46",
+        "volumeteu": 178971.87
+    },
+    {
+        "year": "2016",
+        "week": "47",
+        "volumeteu": 150682.79
+    },
+    {
+        "year": "2016",
+        "week": "48",
+        "volumeteu": 171712.3
+    },
+    {
+        "year": "2016",
+        "week": "49",
+        "volumeteu": 169527.29
+    },
+    {
+        "year": "2016",
+        "week": "50",
+        "volumeteu": 171186.32
+    },
+    {
+        "year": "2016",
+        "week": "51",
+        "volumeteu": 139269.17
+    },
+    {
+        "year": "2016",
+        "week": "52",
+        "volumeteu": 167925.53
+    },
+    {
+        "year": "2017",
+        "week": "1",
+        "volumeteu": 178111.63
+    },
+    {
+        "year": "2017",
+        "week": "2",
+        "volumeteu": 157103.85
+    },
+    {
+        "year": "2017",
+        "week": "3",
+        "volumeteu": 166390.77
+    },
+    {
+        "year": "2017",
+        "week": "4",
+        "volumeteu": 187352.65
+    },
+    {
+        "year": "2017",
+        "week": "5",
+        "volumeteu": 177013.48
+    },
+    {
+        "year": "2017",
+        "week": "6",
+        "volumeteu": 184261.26
+    },
+    {
+        "year": "2017",
+        "week": "7",
+        "volumeteu": 188974.84
+    },
+    {
+        "year": "2017",
+        "week": "8",
+        "volumeteu": 107438.79
+    },
+    {
+        "year": "2017",
+        "week": "9",
+        "volumeteu": 116145.99
+    },
+    {
+        "year": "2017",
+        "week": "10",
+        "volumeteu": 126313.45
+    },
+    {
+        "year": "2017",
+        "week": "11",
+        "volumeteu": 132592.71
+    },
+    {
+        "year": "2017",
+        "week": "12",
+        "volumeteu": 146342.0
+    },
+    {
+        "year": "2017",
+        "week": "13",
+        "volumeteu": 151431.8
+    },
+    {
+        "year": "2017",
+        "week": "14",
+        "volumeteu": 176987.38
+    },
+    {
+        "year": "2017",
+        "week": "15",
+        "volumeteu": 176898.67
+    },
+    {
+        "year": "2017",
+        "week": "16",
+        "volumeteu": 168784.02
+    },
+    {
+        "year": "2017",
+        "week": "17",
+        "volumeteu": 177105.83
+    },
+    {
+        "year": "2017",
+        "week": "18",
+        "volumeteu": 164172.88
+    },
+    {
+        "year": "2017",
+        "week": "19",
+        "volumeteu": 186804.75
+    },
+    {
+        "year": "2017",
+        "week": "20",
+        "volumeteu": 183563.34
+    },
+    {
+        "year": "2017",
+        "week": "21",
+        "volumeteu": 179025.97
+    },
+    {
+        "year": "2017",
+        "week": "22",
+        "volumeteu": 190633.25
+    },
+    {
+        "year": "2017",
+        "week": "23",
+        "volumeteu": 169196.32
+    },
+    {
+        "year": "2017",
+        "week": "24",
+        "volumeteu": 178745.83
+    },
+    {
+        "year": "2017",
+        "week": "25",
+        "volumeteu": 190335.79
+    },
+    {
+        "year": "2017",
+        "week": "26",
+        "volumeteu": 207007.39
+    },
+    {
+        "year": "2017",
+        "week": "27",
+        "volumeteu": 171802.74
+    },
+    {
+        "year": "2017",
+        "week": "28",
+        "volumeteu": 198113.16
+    },
+    {
+        "year": "2017",
+        "week": "29",
+        "volumeteu": 206026.19
+    },
+    {
+        "year": "2017",
+        "week": "30",
+        "volumeteu": 180882.31
+    },
+    {
+        "year": "2017",
+        "week": "31",
+        "volumeteu": 190350.85
+    },
+    {
+        "year": "2017",
+        "week": "32",
+        "volumeteu": 189312.59
+    },
+    {
+        "year": "2017",
+        "week": "33",
+        "volumeteu": 197839.93
+    },
+    {
+        "year": "2017",
+        "week": "34",
+        "volumeteu": 209395.85
+    },
+    {
+        "year": "2017",
+        "week": "35",
+        "volumeteu": 201503.57
+    },
+    {
+        "year": "2017",
+        "week": "36",
+        "volumeteu": 184110.67
+    },
+    {
+        "year": "2017",
+        "week": "37",
+        "volumeteu": 205979.34
+    },
+    {
+        "year": "2017",
+        "week": "38",
+        "volumeteu": 217492.61
+    },
+    {
+        "year": "2017",
+        "week": "39",
+        "volumeteu": 193056.46
+    },
+    {
+        "year": "2017",
+        "week": "40",
+        "volumeteu": 207052.93
+    },
+    {
+        "year": "2017",
+        "week": "41",
+        "volumeteu": 201219.8
+    },
+    {
+        "year": "2017",
+        "week": "42",
+        "volumeteu": 210103.42
+    },
+    {
+        "year": "2017",
+        "week": "43",
+        "volumeteu": 150220.48
+    },
+    {
+        "year": "2017",
+        "week": "44",
+        "volumeteu": 171534.5
+    },
+    {
+        "year": "2017",
+        "week": "45",
+        "volumeteu": 198147.38
+    },
+    {
+        "year": "2017",
+        "week": "46",
+        "volumeteu": 203475.55
+    },
+    {
+        "year": "2017",
+        "week": "47",
+        "volumeteu": 181102.11
+    },
+    {
+        "year": "2017",
+        "week": "48",
+        "volumeteu": 185323.18
+    },
+    {
+        "year": "2017",
+        "week": "49",
+        "volumeteu": 196972.46
+    },
+    {
+        "year": "2017",
+        "week": "50",
+        "volumeteu": 176877.06
+    },
+    {
+        "year": "2017",
+        "week": "51",
+        "volumeteu": 171333.11
+    },
+    {
+        "year": "2017",
+        "week": "52",
+        "volumeteu": 169824.09
+    },
+    {
+        "year": "2018",
+        "week": "1",
+        "volumeteu": 179912.63
+    },
+    {
+        "year": "2018",
+        "week": "2",
+        "volumeteu": 212314.24
+    },
+    {
+        "year": "2018",
+        "week": "3",
+        "volumeteu": 189164.14
+    },
+    {
+        "year": "2018",
+        "week": "4",
+        "volumeteu": 182624.43
+    },
+    {
+        "year": "2018",
+        "week": "5",
+        "volumeteu": 198619.96
+    },
+    {
+        "year": "2018",
+        "week": "6",
+        "volumeteu": 206825.71
+    },
+    {
+        "year": "2018",
+        "week": "7",
+        "volumeteu": 197904.31
+    },
+    {
+        "year": "2018",
+        "week": "8",
+        "volumeteu": 209588.9
+    },
+    {
+        "year": "2018",
+        "week": "9",
+        "volumeteu": 167708.35
+    },
+    {
+        "year": "2018",
+        "week": "10",
+        "volumeteu": 162246.58
+    },
+    {
+        "year": "2018",
+        "week": "11",
+        "volumeteu": 104979.85
+    },
+    {
+        "year": "2018",
+        "week": "12",
+        "volumeteu": 131426.29
+    },
+    {
+        "year": "2018",
+        "week": "13",
+        "volumeteu": 125125.6
+    },
+    {
+        "year": "2018",
+        "week": "14",
+        "volumeteu": 152717.02
+    },
+    {
+        "year": "2018",
+        "week": "15",
+        "volumeteu": 137882.26
+    },
+    {
+        "year": "2018",
+        "week": "16",
+        "volumeteu": 174404.56
+    },
+    {
+        "year": "2018",
+        "week": "17",
+        "volumeteu": 199091.64
+    },
+    {
+        "year": "2018",
+        "week": "18",
+        "volumeteu": 178667.8
+    },
+    {
+        "year": "2018",
+        "week": "19",
+        "volumeteu": 192985.6
+    },
+    {
+        "year": "2018",
+        "week": "20",
+        "volumeteu": 194923.18
+    },
+    {
+        "year": "2018",
+        "week": "21",
+        "volumeteu": 209692.19
+    },
+    {
+        "year": "2018",
+        "week": "22",
+        "volumeteu": 207610.94
+    },
+    {
+        "year": "2018",
+        "week": "23",
+        "volumeteu": 193217.81
+    },
+    {
+        "year": "2018",
+        "week": "24",
+        "volumeteu": 205836.75
+    },
+    {
+        "year": "2018",
+        "week": "25",
+        "volumeteu": 216499.77
+    },
+    {
+        "year": "2018",
+        "week": "26",
+        "volumeteu": 222922.24
+    },
+    {
+        "year": "2018",
+        "week": "27",
+        "volumeteu": 180702.71
+    },
+    {
+        "year": "2018",
+        "week": "28",
+        "volumeteu": 198155.59
+    },
+    {
+        "year": "2018",
+        "week": "29",
+        "volumeteu": 189877.75
+    },
+    {
+        "year": "2018",
+        "week": "30",
+        "volumeteu": 220463.7
+    },
+    {
+        "year": "2018",
+        "week": "31",
+        "volumeteu": 194391.45
+    },
+    {
+        "year": "2018",
+        "week": "32",
+        "volumeteu": 195883.74
+    },
+    {
+        "year": "2018",
+        "week": "33",
+        "volumeteu": 205040.34
+    },
+    {
+        "year": "2018",
+        "week": "34",
+        "volumeteu": 196277.26
+    },
+    {
+        "year": "2018",
+        "week": "35",
+        "volumeteu": 180364.12
+    },
+    {
+        "year": "2018",
+        "week": "36",
+        "volumeteu": 217167.13
+    },
+    {
+        "year": "2018",
+        "week": "37",
+        "volumeteu": 180237.12
+    },
+    {
+        "year": "2018",
+        "week": "38",
+        "volumeteu": 233764.06
+    },
+    {
+        "year": "2018",
+        "week": "39",
+        "volumeteu": 220782.78
+    },
+    {
+        "year": "2018",
+        "week": "40",
+        "volumeteu": 227721.67
+    },
+    {
+        "year": "2018",
+        "week": "41",
+        "volumeteu": 233463.2
+    },
+    {
+        "year": "2018",
+        "week": "42",
+        "volumeteu": 222568.88
+    },
+    {
+        "year": "2018",
+        "week": "43",
+        "volumeteu": 208187.38
+    },
+    {
+        "year": "2018",
+        "week": "44",
+        "volumeteu": 201433.67
+    },
+    {
+        "year": "2018",
+        "week": "45",
+        "volumeteu": 182269.53
+    },
+    {
+        "year": "2018",
+        "week": "46",
+        "volumeteu": 206809.83
+    },
+    {
+        "year": "2018",
+        "week": "47",
+        "volumeteu": 198356.2
+    },
+    {
+        "year": "2018",
+        "week": "48",
+        "volumeteu": 224616.07
+    },
+    {
+        "year": "2018",
+        "week": "49",
+        "volumeteu": 230483.7
+    },
+    {
+        "year": "2018",
+        "week": "50",
+        "volumeteu": 209262.73
+    },
+    {
+        "year": "2018",
+        "week": "51",
+        "volumeteu": 238464.61
+    },
+    {
+        "year": "2018",
+        "week": "52",
+        "volumeteu": 208829.37
+    },
+    {
+        "year": "2019",
+        "week": "1",
+        "volumeteu": 148536.82
+    },
+    {
+        "year": "2019",
+        "week": "2",
+        "volumeteu": 192526.81
+    },
+    {
+        "year": "2019",
+        "week": "3",
+        "volumeteu": 188020.8
+    },
+    {
+        "year": "2019",
+        "week": "4",
+        "volumeteu": 189094.44
+    },
+    {
+        "year": "2019",
+        "week": "5",
+        "volumeteu": 201113.12
+    },
+    {
+        "year": "2019",
+        "week": "6",
+        "volumeteu": 212375.67
+    },
+    {
+        "year": "2019",
+        "week": "7",
+        "volumeteu": 182284.44
+    },
+    {
+        "year": "2019",
+        "week": "8",
+        "volumeteu": 167962.06
+    },
+    {
+        "year": "2019",
+        "week": "9",
+        "volumeteu": 143153.74
+    },
+    {
+        "year": "2019",
+        "week": "10",
+        "volumeteu": 116085.09
+    },
+    {
+        "year": "2019",
+        "week": "11",
+        "volumeteu": 114041.49
+    },
+    {
+        "year": "2019",
+        "week": "12",
+        "volumeteu": 116421.22
+    },
+    {
+        "year": "2019",
+        "week": "13",
+        "volumeteu": 147254.78
+    },
+    {
+        "year": "2019",
+        "week": "14",
+        "volumeteu": 145649.42
+    },
+    {
+        "year": "2019",
+        "week": "15",
+        "volumeteu": 175586.23
+    },
+    {
+        "year": "2019",
+        "week": "16",
+        "volumeteu": 167031.47
+    },
+    {
+        "year": "2019",
+        "week": "17",
+        "volumeteu": 182329.66
+    },
+    {
+        "year": "2019",
+        "week": "18",
+        "volumeteu": 165072.54
+    },
+    {
+        "year": "2019",
+        "week": "19",
+        "volumeteu": 177323.99
+    },
+    {
+        "year": "2019",
+        "week": "20",
+        "volumeteu": 192333.13
+    },
+    {
+        "year": "2019",
+        "week": "21",
+        "volumeteu": 166879.02
+    },
+    {
+        "year": "2019",
+        "week": "22",
+        "volumeteu": 197927.66
+    },
+    {
+        "year": "2019",
+        "week": "23",
+        "volumeteu": 185818.64
+    },
+    {
+        "year": "2019",
+        "week": "24",
+        "volumeteu": 165903.71
+    },
+    {
+        "year": "2019",
+        "week": "25",
+        "volumeteu": 201015.25
+    },
+    {
+        "year": "2019",
+        "week": "26",
+        "volumeteu": 189895.77
+    },
+    {
+        "year": "2019",
+        "week": "27",
+        "volumeteu": 196408.04
+    },
+    {
+        "year": "2019",
+        "week": "28",
+        "volumeteu": 203963.91
+    },
+    {
+        "year": "2019",
+        "week": "29",
+        "volumeteu": 192315.38
+    },
+    {
+        "year": "2019",
+        "week": "30",
+        "volumeteu": 201091.88
+    },
+    {
+        "year": "2019",
+        "week": "31",
+        "volumeteu": 188919.97
+    },
+    {
+        "year": "2019",
+        "week": "32",
+        "volumeteu": 202633.36
+    },
+    {
+        "year": "2019",
+        "week": "33",
+        "volumeteu": 169856.06
+    },
+    {
+        "year": "2019",
+        "week": "34",
+        "volumeteu": 188903.09
+    },
+    {
+        "year": "2019",
+        "week": "35",
+        "volumeteu": 220033.29
+    },
+    {
+        "year": "2019",
+        "week": "36",
+        "volumeteu": 178597.68
+    },
+    {
+        "year": "2019",
+        "week": "37",
+        "volumeteu": 202805.09
+    },
+    {
+        "year": "2019",
+        "week": "38",
+        "volumeteu": 210953.21
+    },
+    {
+        "year": "2019",
+        "week": "39",
+        "volumeteu": 208523.75
+    },
+    {
+        "year": "2019",
+        "week": "40",
+        "volumeteu": 183755.93
+    },
+    {
+        "year": "2019",
+        "week": "41",
+        "volumeteu": 181139.78
+    },
+    {
+        "year": "2019",
+        "week": "42",
+        "volumeteu": 214375.66
+    },
+    {
+        "year": "2019",
+        "week": "43",
+        "volumeteu": 163061.31
+    },
+    {
+        "year": "2019",
+        "week": "44",
+        "volumeteu": 157699.32
+    },
+    {
+        "year": "2019",
+        "week": "45",
+        "volumeteu": 179516.61
+    },
+    {
+        "year": "2019",
+        "week": "46",
+        "volumeteu": 170286.76
+    },
+    {
+        "year": "2019",
+        "week": "47",
+        "volumeteu": 159033.3
+    },
+    {
+        "year": "2019",
+        "week": "48",
+        "volumeteu": 177414.18
+    },
+    {
+        "year": "2019",
+        "week": "49",
+        "volumeteu": 172456.35
+    },
+    {
+        "year": "2019",
+        "week": "50",
+        "volumeteu": 154064.5
+    },
+    {
+        "year": "2019",
+        "week": "51",
+        "volumeteu": 179636.96
+    },
+    {
+        "year": "2019",
+        "week": "52",
+        "volumeteu": 141553.12
+    },
+    {
+        "year": "2020",
+        "week": "1",
+        "volumeteu": 161824.88
+    },
+    {
+        "year": "2020",
+        "week": "2",
+        "volumeteu": 194238.27
+    },
+    {
+        "year": "2020",
+        "week": "3",
+        "volumeteu": 174815.15
+    },
+    {
+        "year": "2020",
+        "week": "4",
+        "volumeteu": 179831.12
+    },
+    {
+        "year": "2020",
+        "week": "5",
+        "volumeteu": 185837.92
+    },
+    {
+        "year": "2020",
+        "week": "6",
+        "volumeteu": 190836.93
+    },
+    {
+        "year": "2020",
+        "week": "7",
+        "volumeteu": 144242.08
+    },
+    {
+        "year": "2020",
+        "week": "8",
+        "volumeteu": 111093.62
+    },
+    {
+        "year": "2020",
+        "week": "9",
+        "volumeteu": 80036.55
+    },
+    {
+        "year": "2020",
+        "week": "10",
+        "volumeteu": 69680.46
+    },
+    {
+        "year": "2020",
+        "week": "11",
+        "volumeteu": 66673.83
+    },
+    {
+        "year": "2020",
+        "week": "12",
+        "volumeteu": 93913.66
+    },
+    {
+        "year": "2020",
+        "week": "13",
+        "volumeteu": 98910.5
+    },
+    {
+        "year": "2020",
+        "week": "14",
+        "volumeteu": 127928.21
+    },
+    {
+        "year": "2020",
+        "week": "15",
+        "volumeteu": 146344.86
+    },
+    {
+        "year": "2020",
+        "week": "16",
+        "volumeteu": 143709.63
+    },
+    {
+        "year": "2020",
+        "week": "17",
+        "volumeteu": 169072.57
+    },
+    {
+        "year": "2020",
+        "week": "18",
+        "volumeteu": 161495.35
+    },
+    {
+        "year": "2020",
+        "week": "19",
+        "volumeteu": 156504.76
+    },
+    {
+        "year": "2020",
+        "week": "20",
+        "volumeteu": 144987.53
+    },
+    {
+        "year": "2020",
+        "week": "21",
+        "volumeteu": 162982.16
+    },
+    {
+        "year": "2020",
+        "week": "22",
+        "volumeteu": 155415.23
+    },
+    {
+        "year": "2020",
+        "week": "23",
+        "volumeteu": 164279.05
+    },
+    {
+        "year": "2020",
+        "week": "24",
+        "volumeteu": 183540.16
+    },
+    {
+        "year": "2020",
+        "week": "25",
+        "volumeteu": 190200.69
+    },
+    {
+        "year": "2020",
+        "week": "26",
+        "volumeteu": 180544.76
+    },
+    {
+        "year": "2020",
+        "week": "27",
+        "volumeteu": 167732.73
+    },
+    {
+        "year": "2020",
+        "week": "28",
+        "volumeteu": 217061.05
+    },
+    {
+        "year": "2020",
+        "week": "29",
+        "volumeteu": 204603.69
+    },
+    {
+        "year": "2020",
+        "week": "30",
+        "volumeteu": 229971.2
+    },
+    {
+        "year": "2020",
+        "week": "31",
+        "volumeteu": 238872.92
+    },
+    {
+        "year": "2020",
+        "week": "32",
+        "volumeteu": 231988.48
+    },
+    {
+        "year": "2020",
+        "week": "33",
+        "volumeteu": 220917.28
+    },
+    {
+        "year": "2020",
+        "week": "34",
+        "volumeteu": 218266.5
+    },
+    {
+        "year": "2020",
+        "week": "35",
+        "volumeteu": 230424.15
+    },
+    {
+        "year": "2020",
+        "week": "36",
+        "volumeteu": 239011.68
+    },
+    {
+        "year": "2020",
+        "week": "37",
+        "volumeteu": 248628.9
+    },
+    {
+        "year": "2020",
+        "week": "38",
+        "volumeteu": 216112.97
+    },
+    {
+        "year": "2020",
+        "week": "39",
+        "volumeteu": 230299.17
+    },
+    {
+        "year": "2020",
+        "week": "40",
+        "volumeteu": 249503.86
+    },
+    {
+        "year": "2020",
+        "week": "41",
+        "volumeteu": 241007.87
+    },
+    {
+        "year": "2020",
+        "week": "42",
+        "volumeteu": 250081.91
+    },
+    {
+        "year": "2020",
+        "week": "43",
+        "volumeteu": 255336.98
+    },
+    {
+        "year": "2020",
+        "week": "44",
+        "volumeteu": 221295.6
+    },
+    {
+        "year": "2020",
+        "week": "45",
+        "volumeteu": 214402.56
+    },
+    {
+        "year": "2020",
+        "week": "46",
+        "volumeteu": 222398.18
+    },
+    {
+        "year": "2020",
+        "week": "47",
+        "volumeteu": 227383.92
+    },
+    {
+        "year": "2020",
+        "week": "48",
+        "volumeteu": 212523.83
+    },
+    {
+        "year": "2020",
+        "week": "49",
+        "volumeteu": 236294.21
+    },
+    {
+        "year": "2020",
+        "week": "50",
+        "volumeteu": 230257.99
+    },
+    {
+        "year": "2020",
+        "week": "51",
+        "volumeteu": 233550.17
+    },
+    {
+        "year": "2020",
+        "week": "52",
+        "volumeteu": 200303.53
+    },
+    {
+        "year": "2020",
+        "week": "53",
+        "volumeteu": 177630.96
+    },
+    {
+        "year": "2021",
+        "week": "1",
+        "volumeteu": 225630.26
+    },
+    {
+        "year": "2021",
+        "week": "2",
+        "volumeteu": 218682.82
+    },
+    {
+        "year": "2021",
+        "week": "3",
+        "volumeteu": 227809.65
+    },
+    {
+        "year": "2021",
+        "week": "4",
+        "volumeteu": 227512.78
+    },
+    {
+        "year": "2021",
+        "week": "5",
+        "volumeteu": 229530.66
+    },
+    {
+        "year": "2021",
+        "week": "6",
+        "volumeteu": 200705.29
+    },
+    {
+        "year": "2021",
+        "week": "7",
+        "volumeteu": 236906.11
+    },
+    {
+        "year": "2021",
+        "week": "8",
+        "volumeteu": 202665.62
+    },
+    {
+        "year": "2021",
+        "week": "9",
+        "volumeteu": 249471.41
+    },
+    {
+        "year": "2021",
+        "week": "10",
+        "volumeteu": 223965.98
+    },
+    {
+        "year": "2021",
+        "week": "11",
+        "volumeteu": 237944.53
+    },
+    {
+        "year": "2021",
+        "week": "12",
+        "volumeteu": 190383.14
+    },
+    {
+        "year": "2021",
+        "week": "13",
+        "volumeteu": 211533.23
+    },
+    {
+        "year": "2021",
+        "week": "14",
+        "volumeteu": 211817.89
+    },
+    {
+        "year": "2021",
+        "week": "15",
+        "volumeteu": 228393.79
+    },
+    {
+        "year": "2021",
+        "week": "16",
+        "volumeteu": 226821.21
+    },
+    {
+        "year": "2021",
+        "week": "17",
+        "volumeteu": 197509.15
+    },
+    {
+        "year": "2021",
+        "week": "18",
+        "volumeteu": 202302.8
+    },
+    {
+        "year": "2021",
+        "week": "19",
+        "volumeteu": 237842.15
+    },
+    {
+        "year": "2021",
+        "week": "20",
+        "volumeteu": 228703.62
+    },
+    {
+        "year": "2021",
+        "week": "21",
+        "volumeteu": 260529.9
+    },
+    {
+        "year": "2021",
+        "week": "22",
+        "volumeteu": 218884.47
+    },
+    {
+        "year": "2021",
+        "week": "23",
+        "volumeteu": 224609.25
+    },
+    {
+        "year": "2021",
+        "week": "24",
+        "volumeteu": 209761.26
+    },
+    {
+        "year": "2021",
+        "week": "25",
+        "volumeteu": 225213.16
+    },
+    {
+        "year": "2021",
+        "week": "26",
+        "volumeteu": 189741.52
+    },
+    {
+        "year": "2021",
+        "week": "27",
+        "volumeteu": 192001.3
+    },
+    {
+        "year": "2021",
+        "week": "28",
+        "volumeteu": 230118.37
+    },
+    {
+        "year": "2021",
+        "week": "29",
+        "volumeteu": 207352.96
+    },
+    {
+        "year": "2021",
+        "week": "30",
+        "volumeteu": 239760.81
+    },
+    {
+        "year": "2021",
+        "week": "31",
+        "volumeteu": 224270.83
+    },
+    {
+        "year": "2021",
+        "week": "32",
+        "volumeteu": 226329.3
+    },
+    {
+        "year": "2021",
+        "week": "33",
+        "volumeteu": 225636.46
+    },
+    {
+        "year": "2021",
+        "week": "34",
+        "volumeteu": 228376.65
+    },
+    {
+        "year": "2021",
+        "week": "35",
+        "volumeteu": 201865.51
+    },
+    {
+        "year": "2021",
+        "week": "36",
+        "volumeteu": 258936.02
+    },
+    {
+        "year": "2021",
+        "week": "37",
+        "volumeteu": 247419.6
+    },
+    {
+        "year": "2021",
+        "week": "38",
+        "volumeteu": 256312.7
+    },
+    {
+        "year": "2021",
+        "week": "39",
+        "volumeteu": 248822.76
+    },
+    {
+        "year": "2021",
+        "week": "40",
+        "volumeteu": 256070.06
+    },
+    {
+        "year": "2021",
+        "week": "41",
+        "volumeteu": 214004.77
+    },
+    {
+        "year": "2021",
+        "week": "42",
+        "volumeteu": 250086.65
+    },
+    {
+        "year": "2021",
+        "week": "43",
+        "volumeteu": 275178.79
+    },
+    {
+        "year": "2021",
+        "week": "44",
+        "volumeteu": 224763.27
+    },
+    {
+        "year": "2021",
+        "week": "45",
+        "volumeteu": 223892.54
+    },
+    {
+        "year": "2021",
+        "week": "46",
+        "volumeteu": 248400.28
+    },
+    {
+        "year": "2021",
+        "week": "47",
+        "volumeteu": 224549.12
+    },
+    {
+        "year": "2021",
+        "week": "48",
+        "volumeteu": 250984.33
+    },
+    {
+        "year": "2021",
+        "week": "49",
+        "volumeteu": 242223.08
+    },
+    {
+        "year": "2021",
+        "week": "50",
+        "volumeteu": 242856.81
+    },
+    {
+        "year": "2021",
+        "week": "51",
+        "volumeteu": 198219.63
+    },
+    {
+        "year": "2021",
+        "week": "52",
+        "volumeteu": 176585.91
+    },
+    {
+        "year": "2022",
+        "week": "1",
+        "volumeteu": 233112.2
+    },
+    {
+        "year": "2022",
+        "week": "2",
+        "volumeteu": 246771.83
+    },
+    {
+        "year": "2022",
+        "week": "3",
+        "volumeteu": 234118.4
+    },
+    {
+        "year": "2022",
+        "week": "4",
+        "volumeteu": 224322.11
+    },
+    {
+        "year": "2022",
+        "week": "5",
+        "volumeteu": 253922.94
+    },
+    {
+        "year": "2022",
+        "week": "6",
+        "volumeteu": 246415.04
+    },
+    {
+        "year": "2022",
+        "week": "7",
+        "volumeteu": 243008.62
+    },
+    {
+        "year": "2022",
+        "week": "8",
+        "volumeteu": 243519.42
+    },
+    {
+        "year": "2022",
+        "week": "9",
+        "volumeteu": 214309.9
+    },
+    {
+        "year": "2022",
+        "week": "10",
+        "volumeteu": 197163.26
+    },
+    {
+        "year": "2022",
+        "week": "11",
+        "volumeteu": 241366.79
+    },
+    {
+        "year": "2022",
+        "week": "12",
+        "volumeteu": 224296.13
+    },
+    {
+        "year": "2022",
+        "week": "13",
+        "volumeteu": 217442.48
+    },
+    {
+        "year": "2022",
+        "week": "14",
+        "volumeteu": 223204.88
+    },
+    {
+        "year": "2022",
+        "week": "15",
+        "volumeteu": 209176.77
+    },
+    {
+        "year": "2022",
+        "week": "16",
+        "volumeteu": 239775.78
+    },
+    {
+        "year": "2022",
+        "week": "17",
+        "volumeteu": 215509.35
+    },
+    {
+        "year": "2022",
+        "week": "18",
+        "volumeteu": 221441.33
+    },
+    {
+        "year": "2022",
+        "week": "19",
+        "volumeteu": 226669.04
+    },
+    {
+        "year": "2022",
+        "week": "20",
+        "volumeteu": 206236.89
+    },
+    {
+        "year": "2022",
+        "week": "21",
+        "volumeteu": 226284.06
+    },
+    {
+        "year": "2022",
+        "week": "22",
+        "volumeteu": 230821.8
+    },
+    {
+        "year": "2022",
+        "week": "23",
+        "volumeteu": 236346.7
+    },
+    {
+        "year": "2022",
+        "week": "24",
+        "volumeteu": 213128.94
+    },
+    {
+        "year": "2022",
+        "week": "25",
+        "volumeteu": 237963.88
+    },
+    {
+        "year": "2022",
+        "week": "26",
+        "volumeteu": 211175.16
+    },
+    {
+        "year": "2022",
+        "week": "27",
+        "volumeteu": 225532.99
+    },
+    {
+        "year": "2022",
+        "week": "28",
+        "volumeteu": 243015.34
+    },
+    {
+        "year": "2022",
+        "week": "29",
+        "volumeteu": 219473.27
+    },
+    {
+        "year": "2022",
+        "week": "30",
+        "volumeteu": 251438.91
+    },
+    {
+        "year": "2022",
+        "week": "31",
+        "volumeteu": 236222.78
+    },
+    {
+        "year": "2022",
+        "week": "32",
+        "volumeteu": 237061.88
+    },
+    {
+        "year": "2022",
+        "week": "33",
+        "volumeteu": 252042.89
+    },
+    {
+        "year": "2022",
+        "week": "34",
+        "volumeteu": 221319.46
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "volumeteu": 212534.89
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "volumeteu": 195050.23
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "volumeteu": 224752.85
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "volumeteu": 190555.66
+    },
+    {
+        "year": "2022",
+        "week": "39",
+        "volumeteu": 185833.34
+    },
+    {
+        "year": "2022",
+        "week": "40",
+        "volumeteu": 189220.75
+    },
+    {
+        "year": "2022",
+        "week": "41",
+        "volumeteu": 201357.69
+    },
+    {
+        "year": "2022",
+        "week": "42",
+        "volumeteu": 185155.7
+    },
+    {
+        "year": "2022",
+        "week": "43",
+        "volumeteu": 163283.95
+    },
+    {
+        "year": "2022",
+        "week": "44",
+        "volumeteu": 166618.61
+    },
+    {
+        "year": "2022",
+        "week": "45",
+        "volumeteu": 169748.18
+    },
+    {
+        "year": "2022",
+        "week": "46",
+        "volumeteu": 170335.7
+    },
+    {
+        "year": "2022",
+        "week": "47",
+        "volumeteu": 144740.25
+    },
+    {
+        "year": "2022",
+        "week": "48",
+        "volumeteu": 160046.53
+    },
+    {
+        "year": "2022",
+        "week": "49",
+        "volumeteu": 202304.43
+    },
+    {
+        "year": "2022",
+        "week": "50",
+        "volumeteu": 175203.97
+    },
+    {
+        "year": "2022",
+        "week": "51",
+        "volumeteu": 104599.45
+    },
+    {
+        "year": "2022",
+        "week": "52",
+        "volumeteu": 156253.47
+    },
+    {
+        "year": "2023",
+        "week": "1",
+        "volumeteu": 185288.2
+    },
+    {
+        "year": "2023",
+        "week": "2",
+        "volumeteu": 180062.86
+    },
+    {
+        "year": "2023",
+        "week": "3",
+        "volumeteu": 170909.05
+    },
+    {
+        "year": "2023",
+        "week": "4",
+        "volumeteu": 186027.93
+    },
+    {
+        "year": "2023",
+        "week": "5",
+        "volumeteu": 177577.41
+    },
+    {
+        "year": "2023",
+        "week": "6",
+        "volumeteu": 201979.95
+    },
+    {
+        "year": "2023",
+        "week": "7",
+        "volumeteu": 167870.94
+    },
+    {
+        "year": "2023",
+        "week": "8",
+        "volumeteu": 119791.8
+    },
+    {
+        "year": "2023",
+        "week": "9",
+        "volumeteu": 135515.21
+    },
+    {
+        "year": "2023",
+        "week": "10",
+        "volumeteu": 132747.97
+    },
+    {
+        "year": "2023",
+        "week": "11",
+        "volumeteu": 149807.44
+    },
+    {
+        "year": "2023",
+        "week": "12",
+        "volumeteu": 139807.52
+    },
+    {
+        "year": "2023",
+        "week": "13",
+        "volumeteu": 174074.82
+    },
+    {
+        "year": "2023",
+        "week": "14",
+        "volumeteu": 170252.2
+    },
+    {
+        "year": "2023",
+        "week": "15",
+        "volumeteu": 189897.3
+    },
+    {
+        "year": "2023",
+        "week": "16",
+        "volumeteu": 198119.86
+    },
+    {
+        "year": "2023",
+        "week": "17",
+        "volumeteu": 172834.5
+    },
+    {
+        "year": "2023",
+        "week": "18",
+        "volumeteu": 205466.19
+    },
+    {
+        "year": "2023",
+        "week": "19",
+        "volumeteu": 197848.95
+    },
+    {
+        "year": "2023",
+        "week": "20",
+        "volumeteu": 175552.9
+    },
+    {
+        "year": "2023",
+        "week": "21",
+        "volumeteu": 172574.22
+    },
+    {
+        "year": "2023",
+        "week": "22",
+        "volumeteu": 172479.0
+    }
+]

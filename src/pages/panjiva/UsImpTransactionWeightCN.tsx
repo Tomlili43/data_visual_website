@@ -1,16 +1,23 @@
 import { Line } from '@ant-design/plots';
-import data from '../data/us_transaction_weight_cn.json'
+import React, { useState, useEffect } from 'react';
+import { getUSImpTransactionWeightCN } from '@/services/ant-design-pro/data';
 
 const USImpTransactionWeightCN = () => {
-/**
- * Data of format:
- * [{"date": "2015-02", "Count": 2315, "category": "Appliances "}, 
- * {"date": "2015-02", "Count": 10333, "category": "Arts, Crafts & Sewing "}, 
- * {"date": "2015-02", "Count": 161673, "category": "Automotive "},
- * ...]
- * Ordered by month and then by category, order should not matter
- */
+  const [data, setData] = useState([]);
 
+  const fetchData = async () => {
+    try {
+      const response = await getUSImpTransactionWeightCN();
+      const data = response["us_transaction_weight_cn"]
+      setData(data);
+    } catch (error) {
+      console.error(error);
+    }
+  }
+
+  useEffect(() => {
+    fetchData();
+  }, []);
 
   const COLOR_PLATE_10 = [
     '#5B8FF9',
@@ -45,7 +52,7 @@ const USImpTransactionWeightCN = () => {
         formatter: (v) => `${v}`.replace(/\d{1,3}(?=(\d{3})+$)/g, (s) => `${s},`),
       },
       title: {
-        text: 'US Import Transaction Weight (in kg)',
+        text: 'US Import Transaction Weight (kg)',
         style: {
           fontSize: 16,
           fontWeight: 'bold'

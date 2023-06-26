@@ -1,45 +1,24 @@
 import { Column } from '@ant-design/plots';
-import request from 'umi-request';
 import React, { useState, useEffect } from 'react';
-import data from './data/modified_count.json'
+import { getModifiedCount } from '@/services/ant-design-pro/data';
 
 const ModifiedCount = () => {
 
-/**
- * Data of format:
- * const data = [
-    {
-      "Date": "2010-01-01",
-      "count": 1998
-    },
-    {
-      "Date": "2010-01-08",
-      "count": 1850
-    },
-    ...
-  ]
- */
+  const [data, setData] = useState([]);
 
-  // const [data, setData] = useState([]);
+  const fetchData = async () => {
+    try {
+      const response = await getModifiedCount();
+      const data = response["modified_count"]
+      setData(data);
+    } catch (error) {
+      console.error(error);
+    }
+  }
 
-  // async function fetchData() {
-  //   try {
-  //     const response = await request('/api/totalProducts');
-  //     const dataList = Object.values(response.list);
-  //     const data = dataList[0]
-  //     return data;
-  //   } catch (error) {
-  //     console.error(error);
-  //   }
-  // }
-
-  // useEffect(() => {
-  //   async function getData() {
-  //     const result = await fetchData();
-  //     setData(result);
-  //   }
-  //   getData();
-  // }, []);
+  useEffect(() => {
+    fetchData();
+  }, []);
 
   const config = {
     data,

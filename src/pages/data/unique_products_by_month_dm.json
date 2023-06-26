@@ -1,1 +1,3032 @@
-[{"category":"automotive","Count":155881,"date":"2015-02"},{"category":"home_kitchen","Count":78357,"date":"2015-02"},{"category":"kitchen_dining","Count":242,"date":"2015-02"},{"category":"pets","Count":12272,"date":"2015-02"},{"category":"sports_outdoors","Count":30956,"date":"2015-02"},{"category":"tools","Count":76561,"date":"2015-02"},{"category":"automotive","Count":157616,"date":"2015-03"},{"category":"home_kitchen","Count":79734,"date":"2015-03"},{"category":"kitchen_dining","Count":247,"date":"2015-03"},{"category":"pets","Count":12486,"date":"2015-03"},{"category":"sports_outdoors","Count":31218,"date":"2015-03"},{"category":"tools","Count":77562,"date":"2015-03"},{"category":"automotive","Count":73476,"date":"2015-04"},{"category":"home_kitchen","Count":35489,"date":"2015-04"},{"category":"kitchen_dining","Count":166,"date":"2015-04"},{"category":"pets","Count":6090,"date":"2015-04"},{"category":"sports_outdoors","Count":14672,"date":"2015-04"},{"category":"tools","Count":36277,"date":"2015-04"},{"category":"automotive","Count":156627,"date":"2015-05"},{"category":"home_kitchen","Count":81052,"date":"2015-05"},{"category":"kitchen_dining","Count":249,"date":"2015-05"},{"category":"pets","Count":12703,"date":"2015-05"},{"category":"sports_outdoors","Count":31244,"date":"2015-05"},{"category":"tools","Count":80258,"date":"2015-05"},{"category":"automotive","Count":163272,"date":"2015-06"},{"category":"home_kitchen","Count":85073,"date":"2015-06"},{"category":"kitchen_dining","Count":262,"date":"2015-06"},{"category":"pets","Count":13260,"date":"2015-06"},{"category":"sports_outdoors","Count":32649,"date":"2015-06"},{"category":"tools","Count":82024,"date":"2015-06"},{"category":"automotive","Count":163882,"date":"2015-07"},{"category":"home_kitchen","Count":86845,"date":"2015-07"},{"category":"kitchen_dining","Count":269,"date":"2015-07"},{"category":"pets","Count":13525,"date":"2015-07"},{"category":"sports_outdoors","Count":32917,"date":"2015-07"},{"category":"tools","Count":84017,"date":"2015-07"},{"category":"automotive","Count":169156,"date":"2015-08"},{"category":"home_kitchen","Count":91004,"date":"2015-08"},{"category":"kitchen_dining","Count":276,"date":"2015-08"},{"category":"pets","Count":14057,"date":"2015-08"},{"category":"sports_outdoors","Count":33991,"date":"2015-08"},{"category":"tools","Count":87156,"date":"2015-08"},{"category":"automotive","Count":171380,"date":"2015-09"},{"category":"home_kitchen","Count":93749,"date":"2015-09"},{"category":"kitchen_dining","Count":282,"date":"2015-09"},{"category":"pets","Count":14384,"date":"2015-09"},{"category":"sports_outdoors","Count":34798,"date":"2015-09"},{"category":"tools","Count":88882,"date":"2015-09"},{"category":"automotive","Count":173691,"date":"2015-10"},{"category":"home_kitchen","Count":96753,"date":"2015-10"},{"category":"kitchen_dining","Count":288,"date":"2015-10"},{"category":"pets","Count":14756,"date":"2015-10"},{"category":"sports_outdoors","Count":35143,"date":"2015-10"},{"category":"tools","Count":90583,"date":"2015-10"},{"category":"automotive","Count":175839,"date":"2015-11"},{"category":"home_kitchen","Count":100104,"date":"2015-11"},{"category":"kitchen_dining","Count":299,"date":"2015-11"},{"category":"pets","Count":15103,"date":"2015-11"},{"category":"sports_outdoors","Count":35425,"date":"2015-11"},{"category":"tools","Count":92333,"date":"2015-11"},{"category":"automotive","Count":178035,"date":"2015-12"},{"category":"home_kitchen","Count":103306,"date":"2015-12"},{"category":"kitchen_dining","Count":308,"date":"2015-12"},{"category":"pets","Count":15503,"date":"2015-12"},{"category":"sports_outdoors","Count":36126,"date":"2015-12"},{"category":"tools","Count":94093,"date":"2015-12"},{"category":"automotive","Count":180376,"date":"2016-01"},{"category":"home_kitchen","Count":106940,"date":"2016-01"},{"category":"kitchen_dining","Count":317,"date":"2016-01"},{"category":"pets","Count":15880,"date":"2016-01"},{"category":"sports_outdoors","Count":36877,"date":"2016-01"},{"category":"tools","Count":96695,"date":"2016-01"},{"category":"automotive","Count":182998,"date":"2016-02"},{"category":"home_kitchen","Count":111671,"date":"2016-02"},{"category":"kitchen_dining","Count":333,"date":"2016-02"},{"category":"pets","Count":16338,"date":"2016-02"},{"category":"sports_outdoors","Count":37674,"date":"2016-02"},{"category":"tools","Count":98761,"date":"2016-02"},{"category":"automotive","Count":184856,"date":"2016-03"},{"category":"home_kitchen","Count":116219,"date":"2016-03"},{"category":"kitchen_dining","Count":341,"date":"2016-03"},{"category":"pets","Count":16745,"date":"2016-03"},{"category":"sports_outdoors","Count":38590,"date":"2016-03"},{"category":"tools","Count":101063,"date":"2016-03"},{"category":"automotive","Count":186305,"date":"2016-04"},{"category":"home_kitchen","Count":119185,"date":"2016-04"},{"category":"kitchen_dining","Count":344,"date":"2016-04"},{"category":"pets","Count":16982,"date":"2016-04"},{"category":"sports_outdoors","Count":39638,"date":"2016-04"},{"category":"tools","Count":102738,"date":"2016-04"},{"category":"automotive","Count":196388,"date":"2016-05"},{"category":"home_kitchen","Count":127066,"date":"2016-05"},{"category":"kitchen_dining","Count":361,"date":"2016-05"},{"category":"pets","Count":17797,"date":"2016-05"},{"category":"sports_outdoors","Count":42710,"date":"2016-05"},{"category":"tools","Count":108334,"date":"2016-05"},{"category":"automotive","Count":197581,"date":"2016-06"},{"category":"home_kitchen","Count":129591,"date":"2016-06"},{"category":"kitchen_dining","Count":365,"date":"2016-06"},{"category":"pets","Count":18003,"date":"2016-06"},{"category":"sports_outdoors","Count":42968,"date":"2016-06"},{"category":"tools","Count":109618,"date":"2016-06"},{"category":"automotive","Count":199073,"date":"2016-07"},{"category":"home_kitchen","Count":132592,"date":"2016-07"},{"category":"kitchen_dining","Count":374,"date":"2016-07"},{"category":"pets","Count":18248,"date":"2016-07"},{"category":"sports_outdoors","Count":43740,"date":"2016-07"},{"category":"tools","Count":111350,"date":"2016-07"},{"category":"automotive","Count":200611,"date":"2016-08"},{"category":"home_kitchen","Count":136957,"date":"2016-08"},{"category":"kitchen_dining","Count":383,"date":"2016-08"},{"category":"pets","Count":18632,"date":"2016-08"},{"category":"sports_outdoors","Count":44297,"date":"2016-08"},{"category":"tools","Count":113447,"date":"2016-08"},{"category":"automotive","Count":202425,"date":"2016-09"},{"category":"home_kitchen","Count":144761,"date":"2016-09"},{"category":"kitchen_dining","Count":396,"date":"2016-09"},{"category":"pets","Count":19196,"date":"2016-09"},{"category":"sports_outdoors","Count":45616,"date":"2016-09"},{"category":"tools","Count":117859,"date":"2016-09"},{"category":"automotive","Count":208612,"date":"2016-10"},{"category":"home_kitchen","Count":153942,"date":"2016-10"},{"category":"kitchen_dining","Count":403,"date":"2016-10"},{"category":"pets","Count":19961,"date":"2016-10"},{"category":"sports_outdoors","Count":47557,"date":"2016-10"},{"category":"tools","Count":122245,"date":"2016-10"},{"category":"automotive","Count":214825,"date":"2016-11"},{"category":"home_kitchen","Count":161319,"date":"2016-11"},{"category":"kitchen_dining","Count":409,"date":"2016-11"},{"category":"pets","Count":20541,"date":"2016-11"},{"category":"sports_outdoors","Count":48418,"date":"2016-11"},{"category":"tools","Count":125932,"date":"2016-11"},{"category":"automotive","Count":217034,"date":"2016-12"},{"category":"home_kitchen","Count":166432,"date":"2016-12"},{"category":"kitchen_dining","Count":420,"date":"2016-12"},{"category":"pets","Count":21074,"date":"2016-12"},{"category":"sports_outdoors","Count":49283,"date":"2016-12"},{"category":"tools","Count":131826,"date":"2016-12"},{"category":"automotive","Count":229414,"date":"2017-01"},{"category":"home_kitchen","Count":178531,"date":"2017-01"},{"category":"kitchen_dining","Count":442,"date":"2017-01"},{"category":"pets","Count":22118,"date":"2017-01"},{"category":"sports_outdoors","Count":67188,"date":"2017-01"},{"category":"tools","Count":140383,"date":"2017-01"},{"category":"automotive","Count":233464,"date":"2017-02"},{"category":"home_kitchen","Count":185487,"date":"2017-02"},{"category":"kitchen_dining","Count":455,"date":"2017-02"},{"category":"pets","Count":22911,"date":"2017-02"},{"category":"sports_outdoors","Count":72464,"date":"2017-02"},{"category":"tools","Count":144096,"date":"2017-02"},{"category":"automotive","Count":235992,"date":"2017-03"},{"category":"home_kitchen","Count":192652,"date":"2017-03"},{"category":"kitchen_dining","Count":460,"date":"2017-03"},{"category":"pets","Count":23874,"date":"2017-03"},{"category":"sports_outdoors","Count":77856,"date":"2017-03"},{"category":"tools","Count":151856,"date":"2017-03"},{"category":"automotive","Count":238816,"date":"2017-04"},{"category":"home_kitchen","Count":198545,"date":"2017-04"},{"category":"kitchen_dining","Count":475,"date":"2017-04"},{"category":"pets","Count":24507,"date":"2017-04"},{"category":"sports_outdoors","Count":81232,"date":"2017-04"},{"category":"tools","Count":155247,"date":"2017-04"},{"category":"automotive","Count":243068,"date":"2017-05"},{"category":"home_kitchen","Count":205345,"date":"2017-05"},{"category":"kitchen_dining","Count":484,"date":"2017-05"},{"category":"pets","Count":25422,"date":"2017-05"},{"category":"sports_outdoors","Count":85592,"date":"2017-05"},{"category":"tools","Count":158455,"date":"2017-05"},{"category":"automotive","Count":247782,"date":"2017-06"},{"category":"home_kitchen","Count":210925,"date":"2017-06"},{"category":"kitchen_dining","Count":489,"date":"2017-06"},{"category":"pets","Count":26043,"date":"2017-06"},{"category":"sports_outdoors","Count":89843,"date":"2017-06"},{"category":"tools","Count":162046,"date":"2017-06"},{"category":"automotive","Count":253679,"date":"2017-07"},{"category":"home_kitchen","Count":216850,"date":"2017-07"},{"category":"kitchen_dining","Count":498,"date":"2017-07"},{"category":"pets","Count":26719,"date":"2017-07"},{"category":"sports_outdoors","Count":93548,"date":"2017-07"},{"category":"tools","Count":165931,"date":"2017-07"},{"category":"automotive","Count":257686,"date":"2017-08"},{"category":"home_kitchen","Count":224345,"date":"2017-08"},{"category":"kitchen_dining","Count":503,"date":"2017-08"},{"category":"pets","Count":28574,"date":"2017-08"},{"category":"sports_outdoors","Count":96736,"date":"2017-08"},{"category":"tools","Count":170355,"date":"2017-08"},{"category":"automotive","Count":278951,"date":"2017-09"},{"category":"home_kitchen","Count":236237,"date":"2017-09"},{"category":"kitchen_dining","Count":514,"date":"2017-09"},{"category":"pets","Count":29235,"date":"2017-09"},{"category":"sports_outdoors","Count":100875,"date":"2017-09"},{"category":"tools","Count":177354,"date":"2017-09"},{"category":"automotive","Count":300240,"date":"2017-10"},{"category":"home_kitchen","Count":252230,"date":"2017-10"},{"category":"kitchen_dining","Count":526,"date":"2017-10"},{"category":"pets","Count":30637,"date":"2017-10"},{"category":"sports_outdoors","Count":107264,"date":"2017-10"},{"category":"tools","Count":187070,"date":"2017-10"},{"category":"automotive","Count":303125,"date":"2017-11"},{"category":"home_kitchen","Count":262107,"date":"2017-11"},{"category":"kitchen_dining","Count":537,"date":"2017-11"},{"category":"pets","Count":31353,"date":"2017-11"},{"category":"sports_outdoors","Count":109628,"date":"2017-11"},{"category":"tools","Count":190431,"date":"2017-11"},{"category":"automotive","Count":306938,"date":"2017-12"},{"category":"home_kitchen","Count":270400,"date":"2017-12"},{"category":"kitchen_dining","Count":553,"date":"2017-12"},{"category":"pets","Count":32083,"date":"2017-12"},{"category":"sports_outdoors","Count":113858,"date":"2017-12"},{"category":"tools","Count":193364,"date":"2017-12"},{"category":"automotive","Count":318681,"date":"2018-01"},{"category":"home_kitchen","Count":286309,"date":"2018-01"},{"category":"kitchen_dining","Count":564,"date":"2018-01"},{"category":"pets","Count":33171,"date":"2018-01"},{"category":"sports_outdoors","Count":118402,"date":"2018-01"},{"category":"tools","Count":200288,"date":"2018-01"},{"category":"automotive","Count":322840,"date":"2018-02"},{"category":"home_kitchen","Count":293688,"date":"2018-02"},{"category":"kitchen_dining","Count":580,"date":"2018-02"},{"category":"pets","Count":33940,"date":"2018-02"},{"category":"sports_outdoors","Count":121816,"date":"2018-02"},{"category":"tools","Count":203411,"date":"2018-02"},{"category":"automotive","Count":327357,"date":"2018-03"},{"category":"home_kitchen","Count":302123,"date":"2018-03"},{"category":"kitchen_dining","Count":587,"date":"2018-03"},{"category":"pets","Count":34563,"date":"2018-03"},{"category":"sports_outdoors","Count":125027,"date":"2018-03"},{"category":"tools","Count":207132,"date":"2018-03"},{"category":"automotive","Count":329817,"date":"2018-04"},{"category":"home_kitchen","Count":307411,"date":"2018-04"},{"category":"kitchen_dining","Count":589,"date":"2018-04"},{"category":"pets","Count":34599,"date":"2018-04"},{"category":"sports_outdoors","Count":125921,"date":"2018-04"},{"category":"tools","Count":208975,"date":"2018-04"},{"category":"automotive","Count":336389,"date":"2018-05"},{"category":"home_kitchen","Count":319986,"date":"2018-05"},{"category":"kitchen_dining","Count":604,"date":"2018-05"},{"category":"pets","Count":36000,"date":"2018-05"},{"category":"sports_outdoors","Count":147559,"date":"2018-05"},{"category":"tools","Count":214171,"date":"2018-05"},{"category":"automotive","Count":342435,"date":"2018-06"},{"category":"home_kitchen","Count":327730,"date":"2018-06"},{"category":"kitchen_dining","Count":614,"date":"2018-06"},{"category":"pets","Count":36612,"date":"2018-06"},{"category":"sports_outdoors","Count":150902,"date":"2018-06"},{"category":"tools","Count":218653,"date":"2018-06"},{"category":"automotive","Count":347995,"date":"2018-07"},{"category":"home_kitchen","Count":336654,"date":"2018-07"},{"category":"kitchen_dining","Count":632,"date":"2018-07"},{"category":"pets","Count":37211,"date":"2018-07"},{"category":"sports_outdoors","Count":153792,"date":"2018-07"},{"category":"tools","Count":222759,"date":"2018-07"},{"category":"automotive","Count":353721,"date":"2018-08"},{"category":"home_kitchen","Count":346979,"date":"2018-08"},{"category":"kitchen_dining","Count":643,"date":"2018-08"},{"category":"pets","Count":38004,"date":"2018-08"},{"category":"sports_outdoors","Count":157200,"date":"2018-08"},{"category":"tools","Count":227616,"date":"2018-08"},{"category":"automotive","Count":361534,"date":"2018-09"},{"category":"home_kitchen","Count":360289,"date":"2018-09"},{"category":"kitchen_dining","Count":663,"date":"2018-09"},{"category":"pets","Count":38868,"date":"2018-09"},{"category":"sports_outdoors","Count":161068,"date":"2018-09"},{"category":"tools","Count":234723,"date":"2018-09"},{"category":"automotive","Count":370177,"date":"2018-10"},{"category":"home_kitchen","Count":375597,"date":"2018-10"},{"category":"kitchen_dining","Count":675,"date":"2018-10"},{"category":"pets","Count":40202,"date":"2018-10"},{"category":"sports_outdoors","Count":164499,"date":"2018-10"},{"category":"tools","Count":240355,"date":"2018-10"},{"category":"automotive","Count":374904,"date":"2018-11"},{"category":"home_kitchen","Count":386760,"date":"2018-11"},{"category":"kitchen_dining","Count":690,"date":"2018-11"},{"category":"pets","Count":40793,"date":"2018-11"},{"category":"sports_outdoors","Count":167545,"date":"2018-11"},{"category":"tools","Count":244944,"date":"2018-11"},{"category":"automotive","Count":379782,"date":"2018-12"},{"category":"home_kitchen","Count":398469,"date":"2018-12"},{"category":"kitchen_dining","Count":699,"date":"2018-12"},{"category":"pets","Count":41342,"date":"2018-12"},{"category":"sports_outdoors","Count":170639,"date":"2018-12"},{"category":"tools","Count":248405,"date":"2018-12"},{"category":"automotive","Count":384989,"date":"2019-01"},{"category":"home_kitchen","Count":408640,"date":"2019-01"},{"category":"kitchen_dining","Count":713,"date":"2019-01"},{"category":"pets","Count":42008,"date":"2019-01"},{"category":"sports_outdoors","Count":173182,"date":"2019-01"},{"category":"tools","Count":253134,"date":"2019-01"},{"category":"automotive","Count":390128,"date":"2019-02"},{"category":"home_kitchen","Count":416725,"date":"2019-02"},{"category":"kitchen_dining","Count":725,"date":"2019-02"},{"category":"pets","Count":42672,"date":"2019-02"},{"category":"sports_outdoors","Count":176138,"date":"2019-02"},{"category":"tools","Count":257936,"date":"2019-02"},{"category":"automotive","Count":395724,"date":"2019-03"},{"category":"home_kitchen","Count":425248,"date":"2019-03"},{"category":"kitchen_dining","Count":745,"date":"2019-03"},{"category":"pets","Count":43171,"date":"2019-03"},{"category":"sports_outdoors","Count":178533,"date":"2019-03"},{"category":"tools","Count":261804,"date":"2019-03"},{"category":"automotive","Count":402481,"date":"2019-04"},{"category":"home_kitchen","Count":446195,"date":"2019-04"},{"category":"kitchen_dining","Count":756,"date":"2019-04"},{"category":"pets","Count":43762,"date":"2019-04"},{"category":"sports_outdoors","Count":182891,"date":"2019-04"},{"category":"tools","Count":268886,"date":"2019-04"},{"category":"automotive","Count":409557,"date":"2019-05"},{"category":"home_kitchen","Count":458925,"date":"2019-05"},{"category":"kitchen_dining","Count":790,"date":"2019-05"},{"category":"pets","Count":44755,"date":"2019-05"},{"category":"sports_outdoors","Count":187236,"date":"2019-05"},{"category":"tools","Count":274292,"date":"2019-05"},{"category":"automotive","Count":416172,"date":"2019-06"},{"category":"home_kitchen","Count":469814,"date":"2019-06"},{"category":"kitchen_dining","Count":810,"date":"2019-06"},{"category":"pets","Count":45215,"date":"2019-06"},{"category":"sports_outdoors","Count":189180,"date":"2019-06"},{"category":"tools","Count":279367,"date":"2019-06"},{"category":"automotive","Count":423957,"date":"2019-07"},{"category":"home_kitchen","Count":493044,"date":"2019-07"},{"category":"kitchen_dining","Count":839,"date":"2019-07"},{"category":"pets","Count":47270,"date":"2019-07"},{"category":"sports_outdoors","Count":196939,"date":"2019-07"},{"category":"tools","Count":286740,"date":"2019-07"},{"category":"automotive","Count":430041,"date":"2019-08"},{"category":"home_kitchen","Count":504057,"date":"2019-08"},{"category":"kitchen_dining","Count":853,"date":"2019-08"},{"category":"pets","Count":46753,"date":"2019-08"},{"category":"sports_outdoors","Count":200749,"date":"2019-08"},{"category":"tools","Count":290935,"date":"2019-08"},{"category":"automotive","Count":432678,"date":"2019-09"},{"category":"home_kitchen","Count":518275,"date":"2019-09"},{"category":"kitchen_dining","Count":878,"date":"2019-09"},{"category":"pets","Count":47953,"date":"2019-09"},{"category":"sports_outdoors","Count":200971,"date":"2019-09"},{"category":"tools","Count":296701,"date":"2019-09"},{"category":"automotive","Count":441868,"date":"2019-10"},{"category":"home_kitchen","Count":538162,"date":"2019-10"},{"category":"kitchen_dining","Count":893,"date":"2019-10"},{"category":"pets","Count":49068,"date":"2019-10"},{"category":"sports_outdoors","Count":208238,"date":"2019-10"},{"category":"tools","Count":302465,"date":"2019-10"},{"category":"automotive","Count":447105,"date":"2019-11"},{"category":"home_kitchen","Count":551890,"date":"2019-11"},{"category":"kitchen_dining","Count":914,"date":"2019-11"},{"category":"pets","Count":49401,"date":"2019-11"},{"category":"sports_outdoors","Count":211486,"date":"2019-11"},{"category":"tools","Count":307898,"date":"2019-11"},{"category":"automotive","Count":454313,"date":"2019-12"},{"category":"home_kitchen","Count":569865,"date":"2019-12"},{"category":"kitchen_dining","Count":947,"date":"2019-12"},{"category":"pets","Count":50291,"date":"2019-12"},{"category":"sports_outdoors","Count":215142,"date":"2019-12"},{"category":"tools","Count":313731,"date":"2019-12"},{"category":"automotive","Count":455431,"date":"2020-01"},{"category":"home_kitchen","Count":588956,"date":"2020-01"},{"category":"kitchen_dining","Count":979,"date":"2020-01"},{"category":"pets","Count":50953,"date":"2020-01"},{"category":"sports_outdoors","Count":219359,"date":"2020-01"},{"category":"tools","Count":320453,"date":"2020-01"},{"category":"automotive","Count":463702,"date":"2020-02"},{"category":"home_kitchen","Count":604050,"date":"2020-02"},{"category":"kitchen_dining","Count":994,"date":"2020-02"},{"category":"pets","Count":52366,"date":"2020-02"},{"category":"sports_outdoors","Count":224267,"date":"2020-02"},{"category":"tools","Count":327486,"date":"2020-02"},{"category":"automotive","Count":466998,"date":"2020-03"},{"category":"home_kitchen","Count":602472,"date":"2020-03"},{"category":"kitchen_dining","Count":987,"date":"2020-03"},{"category":"pets","Count":51979,"date":"2020-03"},{"category":"sports_outdoors","Count":223800,"date":"2020-03"},{"category":"tools","Count":330186,"date":"2020-03"},{"category":"automotive","Count":467713,"date":"2020-04"},{"category":"home_kitchen","Count":609474,"date":"2020-04"},{"category":"kitchen_dining","Count":1003,"date":"2020-04"},{"category":"pets","Count":52643,"date":"2020-04"},{"category":"sports_outdoors","Count":225645,"date":"2020-04"},{"category":"tools","Count":332457,"date":"2020-04"},{"category":"automotive","Count":477074,"date":"2020-05"},{"category":"home_kitchen","Count":629845,"date":"2020-05"},{"category":"kitchen_dining","Count":1044,"date":"2020-05"},{"category":"pets","Count":53953,"date":"2020-05"},{"category":"sports_outdoors","Count":232164,"date":"2020-05"},{"category":"tools","Count":341146,"date":"2020-05"},{"category":"automotive","Count":482502,"date":"2020-06"},{"category":"home_kitchen","Count":642412,"date":"2020-06"},{"category":"kitchen_dining","Count":1054,"date":"2020-06"},{"category":"pets","Count":55287,"date":"2020-06"},{"category":"sports_outdoors","Count":236863,"date":"2020-06"},{"category":"tools","Count":349614,"date":"2020-06"},{"category":"automotive","Count":490646,"date":"2020-07"},{"category":"home_kitchen","Count":664475,"date":"2020-07"},{"category":"kitchen_dining","Count":1083,"date":"2020-07"},{"category":"pets","Count":56977,"date":"2020-07"},{"category":"sports_outdoors","Count":243326,"date":"2020-07"},{"category":"tools","Count":358668,"date":"2020-07"},{"category":"automotive","Count":494450,"date":"2020-08"},{"category":"home_kitchen","Count":687177,"date":"2020-08"},{"category":"kitchen_dining","Count":1099,"date":"2020-08"},{"category":"pets","Count":58494,"date":"2020-08"},{"category":"sports_outdoors","Count":245980,"date":"2020-08"},{"category":"tools","Count":367714,"date":"2020-08"},{"category":"automotive","Count":499354,"date":"2020-09"},{"category":"home_kitchen","Count":722584,"date":"2020-09"},{"category":"kitchen_dining","Count":1141,"date":"2020-09"},{"category":"pets","Count":61092,"date":"2020-09"},{"category":"sports_outdoors","Count":251793,"date":"2020-09"},{"category":"tools","Count":379275,"date":"2020-09"},{"category":"automotive","Count":503899,"date":"2020-10"},{"category":"home_kitchen","Count":743986,"date":"2020-10"},{"category":"kitchen_dining","Count":1156,"date":"2020-10"},{"category":"pets","Count":62164,"date":"2020-10"},{"category":"sports_outdoors","Count":256454,"date":"2020-10"},{"category":"tools","Count":387692,"date":"2020-10"},{"category":"automotive","Count":517516,"date":"2020-11"},{"category":"home_kitchen","Count":782560,"date":"2020-11"},{"category":"kitchen_dining","Count":1210,"date":"2020-11"},{"category":"pets","Count":64226,"date":"2020-11"},{"category":"sports_outdoors","Count":264600,"date":"2020-11"},{"category":"tools","Count":399697,"date":"2020-11"},{"category":"automotive","Count":526164,"date":"2020-12"},{"category":"home_kitchen","Count":822984,"date":"2020-12"},{"category":"kitchen_dining","Count":1282,"date":"2020-12"},{"category":"pets","Count":66207,"date":"2020-12"},{"category":"sports_outdoors","Count":271563,"date":"2020-12"},{"category":"tools","Count":408176,"date":"2020-12"},{"category":"automotive","Count":534962,"date":"2021-01"},{"category":"home_kitchen","Count":849823,"date":"2021-01"},{"category":"kitchen_dining","Count":1334,"date":"2021-01"},{"category":"pets","Count":67000,"date":"2021-01"},{"category":"sports_outdoors","Count":282418,"date":"2021-01"},{"category":"tools","Count":417132,"date":"2021-01"},{"category":"automotive","Count":541203,"date":"2021-02"},{"category":"home_kitchen","Count":874410,"date":"2021-02"},{"category":"kitchen_dining","Count":1374,"date":"2021-02"},{"category":"pets","Count":69638,"date":"2021-02"},{"category":"sports_outdoors","Count":288480,"date":"2021-02"},{"category":"tools","Count":425406,"date":"2021-02"},{"category":"automotive","Count":552897,"date":"2021-03"},{"category":"home_kitchen","Count":921838,"date":"2021-03"},{"category":"kitchen_dining","Count":1445,"date":"2021-03"},{"category":"pets","Count":71175,"date":"2021-03"},{"category":"sports_outdoors","Count":292199,"date":"2021-03"},{"category":"tools","Count":442949,"date":"2021-03"},{"category":"automotive","Count":569372,"date":"2021-04"},{"category":"home_kitchen","Count":967440,"date":"2021-04"},{"category":"kitchen_dining","Count":1490,"date":"2021-04"},{"category":"pets","Count":74447,"date":"2021-04"},{"category":"sports_outdoors","Count":305560,"date":"2021-04"},{"category":"tools","Count":454328,"date":"2021-04"},{"category":"automotive","Count":572427,"date":"2021-05"},{"category":"home_kitchen","Count":999995,"date":"2021-05"},{"category":"kitchen_dining","Count":1544,"date":"2021-05"},{"category":"pets","Count":76592,"date":"2021-05"},{"category":"sports_outdoors","Count":312687,"date":"2021-05"},{"category":"tools","Count":464895,"date":"2021-05"},{"category":"automotive","Count":581256,"date":"2021-06"},{"category":"home_kitchen","Count":1031044,"date":"2021-06"},{"category":"kitchen_dining","Count":1579,"date":"2021-06"},{"category":"pets","Count":78837,"date":"2021-06"},{"category":"sports_outdoors","Count":320613,"date":"2021-06"},{"category":"tools","Count":473302,"date":"2021-06"},{"category":"automotive","Count":593547,"date":"2021-07"},{"category":"home_kitchen","Count":1065972,"date":"2021-07"},{"category":"kitchen_dining","Count":1603,"date":"2021-07"},{"category":"pets","Count":80986,"date":"2021-07"},{"category":"sports_outdoors","Count":325555,"date":"2021-07"},{"category":"tools","Count":484195,"date":"2021-07"},{"category":"automotive","Count":600096,"date":"2021-08"},{"category":"home_kitchen","Count":1108187,"date":"2021-08"},{"category":"kitchen_dining","Count":1675,"date":"2021-08"},{"category":"pets","Count":83617,"date":"2021-08"},{"category":"sports_outdoors","Count":333589,"date":"2021-08"},{"category":"tools","Count":493892,"date":"2021-08"},{"category":"automotive","Count":615480,"date":"2021-09"},{"category":"home_kitchen","Count":1155274,"date":"2021-09"},{"category":"kitchen_dining","Count":1738,"date":"2021-09"},{"category":"pets","Count":86412,"date":"2021-09"},{"category":"sports_outdoors","Count":342769,"date":"2021-09"},{"category":"tools","Count":509545,"date":"2021-09"},{"category":"automotive","Count":624231,"date":"2021-10"},{"category":"home_kitchen","Count":1206014,"date":"2021-10"},{"category":"kitchen_dining","Count":1823,"date":"2021-10"},{"category":"pets","Count":89486,"date":"2021-10"},{"category":"sports_outdoors","Count":350332,"date":"2021-10"},{"category":"tools","Count":523150,"date":"2021-10"},{"category":"automotive","Count":632141,"date":"2021-11"},{"category":"home_kitchen","Count":1260907,"date":"2021-11"},{"category":"kitchen_dining","Count":1883,"date":"2021-11"},{"category":"pets","Count":92528,"date":"2021-11"},{"category":"sports_outdoors","Count":356528,"date":"2021-11"},{"category":"tools","Count":534465,"date":"2021-11"},{"category":"automotive","Count":640799,"date":"2021-12"},{"category":"home_kitchen","Count":1294273,"date":"2021-12"},{"category":"kitchen_dining","Count":1947,"date":"2021-12"},{"category":"pets","Count":95309,"date":"2021-12"},{"category":"sports_outdoors","Count":364174,"date":"2021-12"},{"category":"tools","Count":544622,"date":"2021-12"},{"category":"automotive","Count":649243,"date":"2022-01"},{"category":"home_kitchen","Count":1313675,"date":"2022-01"},{"category":"kitchen_dining","Count":2038,"date":"2022-01"},{"category":"pets","Count":97714,"date":"2022-01"},{"category":"sports_outdoors","Count":368670,"date":"2022-01"},{"category":"tools","Count":553860,"date":"2022-01"},{"category":"automotive","Count":647708,"date":"2022-02"},{"category":"home_kitchen","Count":1306838,"date":"2022-02"},{"category":"kitchen_dining","Count":2072,"date":"2022-02"},{"category":"pets","Count":94506,"date":"2022-02"},{"category":"sports_outdoors","Count":370628,"date":"2022-02"},{"category":"tools","Count":555273,"date":"2022-02"},{"category":"automotive","Count":658940,"date":"2022-03"},{"category":"home_kitchen","Count":1342704,"date":"2022-03"},{"category":"kitchen_dining","Count":2143,"date":"2022-03"},{"category":"pets","Count":97208,"date":"2022-03"},{"category":"sports_outdoors","Count":381031,"date":"2022-03"},{"category":"tools","Count":568492,"date":"2022-03"},{"category":"automotive","Count":672217,"date":"2022-04"},{"category":"home_kitchen","Count":1372632,"date":"2022-04"},{"category":"kitchen_dining","Count":2240,"date":"2022-04"},{"category":"pets","Count":100257,"date":"2022-04"},{"category":"sports_outdoors","Count":390175,"date":"2022-04"},{"category":"tools","Count":581060,"date":"2022-04"},{"category":"automotive","Count":691114,"date":"2022-05"},{"category":"home_kitchen","Count":1386407,"date":"2022-05"},{"category":"kitchen_dining","Count":2355,"date":"2022-05"},{"category":"pets","Count":103828,"date":"2022-05"},{"category":"sports_outdoors","Count":401483,"date":"2022-05"},{"category":"tools","Count":592985,"date":"2022-05"},{"category":"automotive","Count":706075,"date":"2022-06"},{"category":"home_kitchen","Count":1410229,"date":"2022-06"},{"category":"kitchen_dining","Count":2456,"date":"2022-06"},{"category":"pets","Count":107077,"date":"2022-06"},{"category":"sports_outdoors","Count":412298,"date":"2022-06"},{"category":"tools","Count":605985,"date":"2022-06"},{"category":"automotive","Count":723509,"date":"2022-07"},{"category":"home_kitchen","Count":1438842,"date":"2022-07"},{"category":"kitchen_dining","Count":2551,"date":"2022-07"},{"category":"pets","Count":111452,"date":"2022-07"},{"category":"sports_outdoors","Count":423415,"date":"2022-07"},{"category":"tools","Count":620874,"date":"2022-07"},{"category":"automotive","Count":739920,"date":"2022-08"},{"category":"home_kitchen","Count":1470274,"date":"2022-08"},{"category":"kitchen_dining","Count":2652,"date":"2022-08"},{"category":"pets","Count":115208,"date":"2022-08"},{"category":"sports_outdoors","Count":431531,"date":"2022-08"},{"category":"tools","Count":633941,"date":"2022-08"},{"category":"automotive","Count":746530,"date":"2022-09"},{"category":"home_kitchen","Count":1507964,"date":"2022-09"},{"category":"kitchen_dining","Count":2752,"date":"2022-09"},{"category":"pets","Count":116679,"date":"2022-09"},{"category":"sports_outdoors","Count":430255,"date":"2022-09"},{"category":"tools","Count":637470,"date":"2022-09"},{"category":"automotive","Count":729756,"date":"2022-10"},{"category":"home_kitchen","Count":1520527,"date":"2022-10"},{"category":"kitchen_dining","Count":2791,"date":"2022-10"},{"category":"pets","Count":115521,"date":"2022-10"},{"category":"sports_outdoors","Count":430389,"date":"2022-10"},{"category":"tools","Count":624609,"date":"2022-10"},{"category":"automotive","Count":731773,"date":"2022-11"},{"category":"home_kitchen","Count":1497754,"date":"2022-11"},{"category":"kitchen_dining","Count":2784,"date":"2022-11"},{"category":"pets","Count":115125,"date":"2022-11"},{"category":"sports_outdoors","Count":428682,"date":"2022-11"},{"category":"tools","Count":622086,"date":"2022-11"},{"category":"automotive","Count":594911,"date":"2022-12"},{"category":"home_kitchen","Count":1292329,"date":"2022-12"},{"category":"kitchen_dining","Count":2608,"date":"2022-12"},{"category":"pets","Count":113513,"date":"2022-12"},{"category":"sports_outdoors","Count":380311,"date":"2022-12"},{"category":"tools","Count":554431,"date":"2022-12"},{"category":"automotive","Count":558488,"date":"2023-01"},{"category":"home_kitchen","Count":1254877,"date":"2023-01"},{"category":"kitchen_dining","Count":2548,"date":"2023-01"},{"category":"pets","Count":103790,"date":"2023-01"},{"category":"sports_outdoors","Count":363229,"date":"2023-01"},{"category":"tools","Count":534735,"date":"2023-01"},{"category":"automotive","Count":527172,"date":"2023-02"},{"category":"home_kitchen","Count":1198974,"date":"2023-02"},{"category":"kitchen_dining","Count":2453,"date":"2023-02"},{"category":"pets","Count":99654,"date":"2023-02"},{"category":"sports_outdoors","Count":348707,"date":"2023-02"},{"category":"tools","Count":511323,"date":"2023-02"},{"category":"automotive","Count":397017,"date":"2023-03"},{"category":"home_kitchen","Count":936121,"date":"2023-03"},{"category":"kitchen_dining","Count":1874,"date":"2023-03"},{"category":"pets","Count":76573,"date":"2023-03"},{"category":"sports_outdoors","Count":268732,"date":"2023-03"},{"category":"tools","Count":394274,"date":"2023-03"},{"category":"automotive","Count":262170,"date":"2023-04"},{"category":"home_kitchen","Count":638589,"date":"2023-04"},{"category":"kitchen_dining","Count":1276,"date":"2023-04"},{"category":"pets","Count":51140,"date":"2023-04"},{"category":"sports_outdoors","Count":181257,"date":"2023-04"},{"category":"tools","Count":265912,"date":"2023-04"},{"category":"automotive","Count":130651,"date":"2023-05"},{"category":"home_kitchen","Count":299480,"date":"2023-05"},{"category":"kitchen_dining","Count":625,"date":"2023-05"},{"category":"pets","Count":27304,"date":"2023-05"},{"category":"sports_outdoors","Count":92835,"date":"2023-05"},{"category":"tools","Count":136258,"date":"2023-05"},{"category":"automotive","Count":18583,"date":"2023-06"},{"category":"home_kitchen","Count":39184,"date":"2023-06"},{"category":"kitchen_dining","Count":98,"date":"2023-06"},{"category":"pets","Count":3545,"date":"2023-06"},{"category":"sports_outdoors","Count":13526,"date":"2023-06"},{"category":"tools","Count":20127,"date":"2023-06"}]
+[
+    {
+        "category": "automotive",
+        "Count": 128462,
+        "date": "2015-02"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 70172,
+        "date": "2015-02"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 232,
+        "date": "2015-02"
+    },
+    {
+        "category": "pets",
+        "Count": 10515,
+        "date": "2015-02"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 27619,
+        "date": "2015-02"
+    },
+    {
+        "category": "tools",
+        "Count": 70535,
+        "date": "2015-02"
+    },
+    {
+        "category": "automotive",
+        "Count": 129827,
+        "date": "2015-03"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 71362,
+        "date": "2015-03"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 237,
+        "date": "2015-03"
+    },
+    {
+        "category": "pets",
+        "Count": 10690,
+        "date": "2015-03"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 27837,
+        "date": "2015-03"
+    },
+    {
+        "category": "tools",
+        "Count": 71425,
+        "date": "2015-03"
+    },
+    {
+        "category": "automotive",
+        "Count": 66899,
+        "date": "2015-04"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 33911,
+        "date": "2015-04"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 164,
+        "date": "2015-04"
+    },
+    {
+        "category": "pets",
+        "Count": 5848,
+        "date": "2015-04"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 13881,
+        "date": "2015-04"
+    },
+    {
+        "category": "tools",
+        "Count": 34873,
+        "date": "2015-04"
+    },
+    {
+        "category": "automotive",
+        "Count": 129212,
+        "date": "2015-05"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 72649,
+        "date": "2015-05"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 238,
+        "date": "2015-05"
+    },
+    {
+        "category": "pets",
+        "Count": 10894,
+        "date": "2015-05"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 27929,
+        "date": "2015-05"
+    },
+    {
+        "category": "tools",
+        "Count": 73997,
+        "date": "2015-05"
+    },
+    {
+        "category": "automotive",
+        "Count": 134324,
+        "date": "2015-06"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 76174,
+        "date": "2015-06"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 251,
+        "date": "2015-06"
+    },
+    {
+        "category": "pets",
+        "Count": 11364,
+        "date": "2015-06"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 29146,
+        "date": "2015-06"
+    },
+    {
+        "category": "tools",
+        "Count": 75477,
+        "date": "2015-06"
+    },
+    {
+        "category": "automotive",
+        "Count": 134975,
+        "date": "2015-07"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 77838,
+        "date": "2015-07"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 258,
+        "date": "2015-07"
+    },
+    {
+        "category": "pets",
+        "Count": 11620,
+        "date": "2015-07"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 29417,
+        "date": "2015-07"
+    },
+    {
+        "category": "tools",
+        "Count": 77312,
+        "date": "2015-07"
+    },
+    {
+        "category": "automotive",
+        "Count": 139029,
+        "date": "2015-08"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 81451,
+        "date": "2015-08"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 263,
+        "date": "2015-08"
+    },
+    {
+        "category": "pets",
+        "Count": 12062,
+        "date": "2015-08"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 30353,
+        "date": "2015-08"
+    },
+    {
+        "category": "tools",
+        "Count": 80098,
+        "date": "2015-08"
+    },
+    {
+        "category": "automotive",
+        "Count": 140800,
+        "date": "2015-09"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 83906,
+        "date": "2015-09"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 266,
+        "date": "2015-09"
+    },
+    {
+        "category": "pets",
+        "Count": 12353,
+        "date": "2015-09"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 31105,
+        "date": "2015-09"
+    },
+    {
+        "category": "tools",
+        "Count": 81640,
+        "date": "2015-09"
+    },
+    {
+        "category": "automotive",
+        "Count": 142592,
+        "date": "2015-10"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 86654,
+        "date": "2015-10"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 271,
+        "date": "2015-10"
+    },
+    {
+        "category": "pets",
+        "Count": 12691,
+        "date": "2015-10"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 31416,
+        "date": "2015-10"
+    },
+    {
+        "category": "tools",
+        "Count": 83167,
+        "date": "2015-10"
+    },
+    {
+        "category": "automotive",
+        "Count": 144319,
+        "date": "2015-11"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 89720,
+        "date": "2015-11"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 282,
+        "date": "2015-11"
+    },
+    {
+        "category": "pets",
+        "Count": 12993,
+        "date": "2015-11"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 31640,
+        "date": "2015-11"
+    },
+    {
+        "category": "tools",
+        "Count": 84753,
+        "date": "2015-11"
+    },
+    {
+        "category": "automotive",
+        "Count": 146104,
+        "date": "2015-12"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 92634,
+        "date": "2015-12"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 291,
+        "date": "2015-12"
+    },
+    {
+        "category": "pets",
+        "Count": 13313,
+        "date": "2015-12"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 32232,
+        "date": "2015-12"
+    },
+    {
+        "category": "tools",
+        "Count": 86320,
+        "date": "2015-12"
+    },
+    {
+        "category": "automotive",
+        "Count": 148016,
+        "date": "2016-01"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 95862,
+        "date": "2016-01"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 300,
+        "date": "2016-01"
+    },
+    {
+        "category": "pets",
+        "Count": 13652,
+        "date": "2016-01"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 32920,
+        "date": "2016-01"
+    },
+    {
+        "category": "tools",
+        "Count": 88516,
+        "date": "2016-01"
+    },
+    {
+        "category": "automotive",
+        "Count": 150211,
+        "date": "2016-02"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 100299,
+        "date": "2016-02"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 314,
+        "date": "2016-02"
+    },
+    {
+        "category": "pets",
+        "Count": 14077,
+        "date": "2016-02"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 33655,
+        "date": "2016-02"
+    },
+    {
+        "category": "tools",
+        "Count": 90385,
+        "date": "2016-02"
+    },
+    {
+        "category": "automotive",
+        "Count": 151854,
+        "date": "2016-03"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 104531,
+        "date": "2016-03"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 323,
+        "date": "2016-03"
+    },
+    {
+        "category": "pets",
+        "Count": 14469,
+        "date": "2016-03"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 34514,
+        "date": "2016-03"
+    },
+    {
+        "category": "tools",
+        "Count": 92496,
+        "date": "2016-03"
+    },
+    {
+        "category": "automotive",
+        "Count": 153117,
+        "date": "2016-04"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 107273,
+        "date": "2016-04"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 326,
+        "date": "2016-04"
+    },
+    {
+        "category": "pets",
+        "Count": 14695,
+        "date": "2016-04"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 35512,
+        "date": "2016-04"
+    },
+    {
+        "category": "tools",
+        "Count": 94000,
+        "date": "2016-04"
+    },
+    {
+        "category": "automotive",
+        "Count": 161839,
+        "date": "2016-05"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 113870,
+        "date": "2016-05"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 343,
+        "date": "2016-05"
+    },
+    {
+        "category": "pets",
+        "Count": 15436,
+        "date": "2016-05"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 38378,
+        "date": "2016-05"
+    },
+    {
+        "category": "tools",
+        "Count": 98887,
+        "date": "2016-05"
+    },
+    {
+        "category": "automotive",
+        "Count": 162818,
+        "date": "2016-06"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 116233,
+        "date": "2016-06"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 347,
+        "date": "2016-06"
+    },
+    {
+        "category": "pets",
+        "Count": 15644,
+        "date": "2016-06"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 38601,
+        "date": "2016-06"
+    },
+    {
+        "category": "tools",
+        "Count": 100048,
+        "date": "2016-06"
+    },
+    {
+        "category": "automotive",
+        "Count": 164147,
+        "date": "2016-07"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 119034,
+        "date": "2016-07"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 356,
+        "date": "2016-07"
+    },
+    {
+        "category": "pets",
+        "Count": 15893,
+        "date": "2016-07"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 39293,
+        "date": "2016-07"
+    },
+    {
+        "category": "tools",
+        "Count": 101633,
+        "date": "2016-07"
+    },
+    {
+        "category": "automotive",
+        "Count": 165490,
+        "date": "2016-08"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 123088,
+        "date": "2016-08"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 364,
+        "date": "2016-08"
+    },
+    {
+        "category": "pets",
+        "Count": 16260,
+        "date": "2016-08"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 39825,
+        "date": "2016-08"
+    },
+    {
+        "category": "tools",
+        "Count": 103550,
+        "date": "2016-08"
+    },
+    {
+        "category": "automotive",
+        "Count": 167081,
+        "date": "2016-09"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 129895,
+        "date": "2016-09"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 377,
+        "date": "2016-09"
+    },
+    {
+        "category": "pets",
+        "Count": 16796,
+        "date": "2016-09"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 41030,
+        "date": "2016-09"
+    },
+    {
+        "category": "tools",
+        "Count": 107463,
+        "date": "2016-09"
+    },
+    {
+        "category": "automotive",
+        "Count": 172391,
+        "date": "2016-10"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 138008,
+        "date": "2016-10"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 383,
+        "date": "2016-10"
+    },
+    {
+        "category": "pets",
+        "Count": 17445,
+        "date": "2016-10"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 42763,
+        "date": "2016-10"
+    },
+    {
+        "category": "tools",
+        "Count": 111325,
+        "date": "2016-10"
+    },
+    {
+        "category": "automotive",
+        "Count": 177711,
+        "date": "2016-11"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 144541,
+        "date": "2016-11"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 388,
+        "date": "2016-11"
+    },
+    {
+        "category": "pets",
+        "Count": 17957,
+        "date": "2016-11"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 43527,
+        "date": "2016-11"
+    },
+    {
+        "category": "tools",
+        "Count": 114566,
+        "date": "2016-11"
+    },
+    {
+        "category": "automotive",
+        "Count": 179543,
+        "date": "2016-12"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 149132,
+        "date": "2016-12"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 399,
+        "date": "2016-12"
+    },
+    {
+        "category": "pets",
+        "Count": 18447,
+        "date": "2016-12"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 44260,
+        "date": "2016-12"
+    },
+    {
+        "category": "tools",
+        "Count": 119592,
+        "date": "2016-12"
+    },
+    {
+        "category": "automotive",
+        "Count": 190300,
+        "date": "2017-01"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 159809,
+        "date": "2017-01"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 421,
+        "date": "2017-01"
+    },
+    {
+        "category": "pets",
+        "Count": 19390,
+        "date": "2017-01"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 61564,
+        "date": "2017-01"
+    },
+    {
+        "category": "tools",
+        "Count": 127028,
+        "date": "2017-01"
+    },
+    {
+        "category": "automotive",
+        "Count": 193673,
+        "date": "2017-02"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 165550,
+        "date": "2017-02"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 432,
+        "date": "2017-02"
+    },
+    {
+        "category": "pets",
+        "Count": 20064,
+        "date": "2017-02"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 66481,
+        "date": "2017-02"
+    },
+    {
+        "category": "tools",
+        "Count": 130185,
+        "date": "2017-02"
+    },
+    {
+        "category": "automotive",
+        "Count": 195769,
+        "date": "2017-03"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 171156,
+        "date": "2017-03"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 437,
+        "date": "2017-03"
+    },
+    {
+        "category": "pets",
+        "Count": 20879,
+        "date": "2017-03"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 71391,
+        "date": "2017-03"
+    },
+    {
+        "category": "tools",
+        "Count": 136231,
+        "date": "2017-03"
+    },
+    {
+        "category": "automotive",
+        "Count": 198160,
+        "date": "2017-04"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 176489,
+        "date": "2017-04"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 451,
+        "date": "2017-04"
+    },
+    {
+        "category": "pets",
+        "Count": 21404,
+        "date": "2017-04"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 74515,
+        "date": "2017-04"
+    },
+    {
+        "category": "tools",
+        "Count": 139080,
+        "date": "2017-04"
+    },
+    {
+        "category": "automotive",
+        "Count": 201659,
+        "date": "2017-05"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 182296,
+        "date": "2017-05"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 459,
+        "date": "2017-05"
+    },
+    {
+        "category": "pets",
+        "Count": 22277,
+        "date": "2017-05"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 78551,
+        "date": "2017-05"
+    },
+    {
+        "category": "tools",
+        "Count": 141788,
+        "date": "2017-05"
+    },
+    {
+        "category": "automotive",
+        "Count": 205552,
+        "date": "2017-06"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 187266,
+        "date": "2017-06"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 464,
+        "date": "2017-06"
+    },
+    {
+        "category": "pets",
+        "Count": 22828,
+        "date": "2017-06"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 82457,
+        "date": "2017-06"
+    },
+    {
+        "category": "tools",
+        "Count": 144770,
+        "date": "2017-06"
+    },
+    {
+        "category": "automotive",
+        "Count": 210423,
+        "date": "2017-07"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 192525,
+        "date": "2017-07"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 473,
+        "date": "2017-07"
+    },
+    {
+        "category": "pets",
+        "Count": 23465,
+        "date": "2017-07"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 85820,
+        "date": "2017-07"
+    },
+    {
+        "category": "tools",
+        "Count": 148178,
+        "date": "2017-07"
+    },
+    {
+        "category": "automotive",
+        "Count": 213658,
+        "date": "2017-08"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 199340,
+        "date": "2017-08"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 478,
+        "date": "2017-08"
+    },
+    {
+        "category": "pets",
+        "Count": 24807,
+        "date": "2017-08"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 88665,
+        "date": "2017-08"
+    },
+    {
+        "category": "tools",
+        "Count": 151995,
+        "date": "2017-08"
+    },
+    {
+        "category": "automotive",
+        "Count": 230524,
+        "date": "2017-09"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 208915,
+        "date": "2017-09"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 488,
+        "date": "2017-09"
+    },
+    {
+        "category": "pets",
+        "Count": 25418,
+        "date": "2017-09"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 92311,
+        "date": "2017-09"
+    },
+    {
+        "category": "tools",
+        "Count": 158070,
+        "date": "2017-09"
+    },
+    {
+        "category": "automotive",
+        "Count": 246247,
+        "date": "2017-10"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 222701,
+        "date": "2017-10"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 500,
+        "date": "2017-10"
+    },
+    {
+        "category": "pets",
+        "Count": 26674,
+        "date": "2017-10"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 97838,
+        "date": "2017-10"
+    },
+    {
+        "category": "tools",
+        "Count": 165915,
+        "date": "2017-10"
+    },
+    {
+        "category": "automotive",
+        "Count": 248164,
+        "date": "2017-11"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 231187,
+        "date": "2017-11"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 511,
+        "date": "2017-11"
+    },
+    {
+        "category": "pets",
+        "Count": 27321,
+        "date": "2017-11"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 99812,
+        "date": "2017-11"
+    },
+    {
+        "category": "tools",
+        "Count": 168642,
+        "date": "2017-11"
+    },
+    {
+        "category": "automotive",
+        "Count": 251124,
+        "date": "2017-12"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 238518,
+        "date": "2017-12"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 526,
+        "date": "2017-12"
+    },
+    {
+        "category": "pets",
+        "Count": 27961,
+        "date": "2017-12"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 103597,
+        "date": "2017-12"
+    },
+    {
+        "category": "tools",
+        "Count": 171266,
+        "date": "2017-12"
+    },
+    {
+        "category": "automotive",
+        "Count": 260123,
+        "date": "2018-01"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 250876,
+        "date": "2018-01"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 532,
+        "date": "2018-01"
+    },
+    {
+        "category": "pets",
+        "Count": 28834,
+        "date": "2018-01"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 107497,
+        "date": "2018-01"
+    },
+    {
+        "category": "tools",
+        "Count": 177066,
+        "date": "2018-01"
+    },
+    {
+        "category": "automotive",
+        "Count": 263426,
+        "date": "2018-02"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 257294,
+        "date": "2018-02"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 546,
+        "date": "2018-02"
+    },
+    {
+        "category": "pets",
+        "Count": 29461,
+        "date": "2018-02"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 110557,
+        "date": "2018-02"
+    },
+    {
+        "category": "tools",
+        "Count": 179754,
+        "date": "2018-02"
+    },
+    {
+        "category": "automotive",
+        "Count": 267137,
+        "date": "2018-03"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 263680,
+        "date": "2018-03"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 548,
+        "date": "2018-03"
+    },
+    {
+        "category": "pets",
+        "Count": 30014,
+        "date": "2018-03"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 113282,
+        "date": "2018-03"
+    },
+    {
+        "category": "tools",
+        "Count": 182789,
+        "date": "2018-03"
+    },
+    {
+        "category": "automotive",
+        "Count": 269210,
+        "date": "2018-04"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 267713,
+        "date": "2018-04"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 552,
+        "date": "2018-04"
+    },
+    {
+        "category": "pets",
+        "Count": 30256,
+        "date": "2018-04"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 114076,
+        "date": "2018-04"
+    },
+    {
+        "category": "tools",
+        "Count": 184442,
+        "date": "2018-04"
+    },
+    {
+        "category": "automotive",
+        "Count": 274510,
+        "date": "2018-05"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 278002,
+        "date": "2018-05"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 564,
+        "date": "2018-05"
+    },
+    {
+        "category": "pets",
+        "Count": 31254,
+        "date": "2018-05"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 131411,
+        "date": "2018-05"
+    },
+    {
+        "category": "tools",
+        "Count": 188722,
+        "date": "2018-05"
+    },
+    {
+        "category": "automotive",
+        "Count": 279390,
+        "date": "2018-06"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 284912,
+        "date": "2018-06"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 575,
+        "date": "2018-06"
+    },
+    {
+        "category": "pets",
+        "Count": 31800,
+        "date": "2018-06"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 134378,
+        "date": "2018-06"
+    },
+    {
+        "category": "tools",
+        "Count": 192427,
+        "date": "2018-06"
+    },
+    {
+        "category": "automotive",
+        "Count": 283898,
+        "date": "2018-07"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 292444,
+        "date": "2018-07"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 591,
+        "date": "2018-07"
+    },
+    {
+        "category": "pets",
+        "Count": 32351,
+        "date": "2018-07"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 136854,
+        "date": "2018-07"
+    },
+    {
+        "category": "tools",
+        "Count": 195966,
+        "date": "2018-07"
+    },
+    {
+        "category": "automotive",
+        "Count": 288768,
+        "date": "2018-08"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 302822,
+        "date": "2018-08"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 603,
+        "date": "2018-08"
+    },
+    {
+        "category": "pets",
+        "Count": 33090,
+        "date": "2018-08"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 140051,
+        "date": "2018-08"
+    },
+    {
+        "category": "tools",
+        "Count": 200431,
+        "date": "2018-08"
+    },
+    {
+        "category": "automotive",
+        "Count": 294994,
+        "date": "2018-09"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 314886,
+        "date": "2018-09"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 621,
+        "date": "2018-09"
+    },
+    {
+        "category": "pets",
+        "Count": 33846,
+        "date": "2018-09"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 143396,
+        "date": "2018-09"
+    },
+    {
+        "category": "tools",
+        "Count": 206118,
+        "date": "2018-09"
+    },
+    {
+        "category": "automotive",
+        "Count": 301682,
+        "date": "2018-10"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 325263,
+        "date": "2018-10"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 631,
+        "date": "2018-10"
+    },
+    {
+        "category": "pets",
+        "Count": 34817,
+        "date": "2018-10"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 146333,
+        "date": "2018-10"
+    },
+    {
+        "category": "tools",
+        "Count": 210652,
+        "date": "2018-10"
+    },
+    {
+        "category": "automotive",
+        "Count": 305642,
+        "date": "2018-11"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 336552,
+        "date": "2018-11"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 646,
+        "date": "2018-11"
+    },
+    {
+        "category": "pets",
+        "Count": 35389,
+        "date": "2018-11"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 149135,
+        "date": "2018-11"
+    },
+    {
+        "category": "tools",
+        "Count": 214906,
+        "date": "2018-11"
+    },
+    {
+        "category": "automotive",
+        "Count": 309875,
+        "date": "2018-12"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 346904,
+        "date": "2018-12"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 655,
+        "date": "2018-12"
+    },
+    {
+        "category": "pets",
+        "Count": 35897,
+        "date": "2018-12"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 151947,
+        "date": "2018-12"
+    },
+    {
+        "category": "tools",
+        "Count": 218495,
+        "date": "2018-12"
+    },
+    {
+        "category": "automotive",
+        "Count": 314401,
+        "date": "2019-01"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 355353,
+        "date": "2019-01"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 667,
+        "date": "2019-01"
+    },
+    {
+        "category": "pets",
+        "Count": 36503,
+        "date": "2019-01"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 154270,
+        "date": "2019-01"
+    },
+    {
+        "category": "tools",
+        "Count": 222597,
+        "date": "2019-01"
+    },
+    {
+        "category": "automotive",
+        "Count": 318671,
+        "date": "2019-02"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 362940,
+        "date": "2019-02"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 681,
+        "date": "2019-02"
+    },
+    {
+        "category": "pets",
+        "Count": 37096,
+        "date": "2019-02"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 156920,
+        "date": "2019-02"
+    },
+    {
+        "category": "tools",
+        "Count": 226285,
+        "date": "2019-02"
+    },
+    {
+        "category": "automotive",
+        "Count": 323281,
+        "date": "2019-03"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 371935,
+        "date": "2019-03"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 702,
+        "date": "2019-03"
+    },
+    {
+        "category": "pets",
+        "Count": 37654,
+        "date": "2019-03"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 159602,
+        "date": "2019-03"
+    },
+    {
+        "category": "tools",
+        "Count": 229914,
+        "date": "2019-03"
+    },
+    {
+        "category": "automotive",
+        "Count": 329421,
+        "date": "2019-04"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 393016,
+        "date": "2019-04"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 723,
+        "date": "2019-04"
+    },
+    {
+        "category": "pets",
+        "Count": 38505,
+        "date": "2019-04"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 163780,
+        "date": "2019-04"
+    },
+    {
+        "category": "tools",
+        "Count": 236436,
+        "date": "2019-04"
+    },
+    {
+        "category": "automotive",
+        "Count": 335309,
+        "date": "2019-05"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 402327,
+        "date": "2019-05"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 747,
+        "date": "2019-05"
+    },
+    {
+        "category": "pets",
+        "Count": 39258,
+        "date": "2019-05"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 167509,
+        "date": "2019-05"
+    },
+    {
+        "category": "tools",
+        "Count": 240873,
+        "date": "2019-05"
+    },
+    {
+        "category": "automotive",
+        "Count": 340801,
+        "date": "2019-06"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 412294,
+        "date": "2019-06"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 766,
+        "date": "2019-06"
+    },
+    {
+        "category": "pets",
+        "Count": 39972,
+        "date": "2019-06"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 170165,
+        "date": "2019-06"
+    },
+    {
+        "category": "tools",
+        "Count": 245565,
+        "date": "2019-06"
+    },
+    {
+        "category": "automotive",
+        "Count": 347673,
+        "date": "2019-07"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 435489,
+        "date": "2019-07"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 794,
+        "date": "2019-07"
+    },
+    {
+        "category": "pets",
+        "Count": 41507,
+        "date": "2019-07"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 176589,
+        "date": "2019-07"
+    },
+    {
+        "category": "tools",
+        "Count": 252687,
+        "date": "2019-07"
+    },
+    {
+        "category": "automotive",
+        "Count": 352241,
+        "date": "2019-08"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 435630,
+        "date": "2019-08"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 795,
+        "date": "2019-08"
+    },
+    {
+        "category": "pets",
+        "Count": 41623,
+        "date": "2019-08"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 179547,
+        "date": "2019-08"
+    },
+    {
+        "category": "tools",
+        "Count": 255037,
+        "date": "2019-08"
+    },
+    {
+        "category": "automotive",
+        "Count": 355922,
+        "date": "2019-09"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 461929,
+        "date": "2019-09"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 832,
+        "date": "2019-09"
+    },
+    {
+        "category": "pets",
+        "Count": 42596,
+        "date": "2019-09"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 181916,
+        "date": "2019-09"
+    },
+    {
+        "category": "tools",
+        "Count": 261714,
+        "date": "2019-09"
+    },
+    {
+        "category": "automotive",
+        "Count": 362826,
+        "date": "2019-10"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 472662,
+        "date": "2019-10"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 844,
+        "date": "2019-10"
+    },
+    {
+        "category": "pets",
+        "Count": 43508,
+        "date": "2019-10"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 187382,
+        "date": "2019-10"
+    },
+    {
+        "category": "tools",
+        "Count": 265819,
+        "date": "2019-10"
+    },
+    {
+        "category": "automotive",
+        "Count": 367666,
+        "date": "2019-11"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 489642,
+        "date": "2019-11"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 873,
+        "date": "2019-11"
+    },
+    {
+        "category": "pets",
+        "Count": 44283,
+        "date": "2019-11"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 190847,
+        "date": "2019-11"
+    },
+    {
+        "category": "tools",
+        "Count": 271164,
+        "date": "2019-11"
+    },
+    {
+        "category": "automotive",
+        "Count": 373980,
+        "date": "2019-12"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 506502,
+        "date": "2019-12"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 898,
+        "date": "2019-12"
+    },
+    {
+        "category": "pets",
+        "Count": 45179,
+        "date": "2019-12"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 194767,
+        "date": "2019-12"
+    },
+    {
+        "category": "tools",
+        "Count": 276397,
+        "date": "2019-12"
+    },
+    {
+        "category": "automotive",
+        "Count": 376588,
+        "date": "2020-01"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 524138,
+        "date": "2020-01"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 929,
+        "date": "2020-01"
+    },
+    {
+        "category": "pets",
+        "Count": 45874,
+        "date": "2020-01"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 198330,
+        "date": "2020-01"
+    },
+    {
+        "category": "tools",
+        "Count": 281816,
+        "date": "2020-01"
+    },
+    {
+        "category": "automotive",
+        "Count": 382358,
+        "date": "2020-02"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 534996,
+        "date": "2020-02"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 937,
+        "date": "2020-02"
+    },
+    {
+        "category": "pets",
+        "Count": 46709,
+        "date": "2020-02"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 201881,
+        "date": "2020-02"
+    },
+    {
+        "category": "tools",
+        "Count": 286496,
+        "date": "2020-02"
+    },
+    {
+        "category": "automotive",
+        "Count": 385239,
+        "date": "2020-03"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 535723,
+        "date": "2020-03"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 942,
+        "date": "2020-03"
+    },
+    {
+        "category": "pets",
+        "Count": 46807,
+        "date": "2020-03"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 202770,
+        "date": "2020-03"
+    },
+    {
+        "category": "tools",
+        "Count": 288409,
+        "date": "2020-03"
+    },
+    {
+        "category": "automotive",
+        "Count": 385726,
+        "date": "2020-04"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 544992,
+        "date": "2020-04"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 954,
+        "date": "2020-04"
+    },
+    {
+        "category": "pets",
+        "Count": 47291,
+        "date": "2020-04"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 204483,
+        "date": "2020-04"
+    },
+    {
+        "category": "tools",
+        "Count": 290590,
+        "date": "2020-04"
+    },
+    {
+        "category": "automotive",
+        "Count": 392773,
+        "date": "2020-05"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 559327,
+        "date": "2020-05"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 981,
+        "date": "2020-05"
+    },
+    {
+        "category": "pets",
+        "Count": 48300,
+        "date": "2020-05"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 209679,
+        "date": "2020-05"
+    },
+    {
+        "category": "tools",
+        "Count": 296433,
+        "date": "2020-05"
+    },
+    {
+        "category": "automotive",
+        "Count": 397128,
+        "date": "2020-06"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 571525,
+        "date": "2020-06"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 996,
+        "date": "2020-06"
+    },
+    {
+        "category": "pets",
+        "Count": 49536,
+        "date": "2020-06"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 213706,
+        "date": "2020-06"
+    },
+    {
+        "category": "tools",
+        "Count": 302656,
+        "date": "2020-06"
+    },
+    {
+        "category": "automotive",
+        "Count": 404059,
+        "date": "2020-07"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 593077,
+        "date": "2020-07"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 1022,
+        "date": "2020-07"
+    },
+    {
+        "category": "pets",
+        "Count": 50972,
+        "date": "2020-07"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 219170,
+        "date": "2020-07"
+    },
+    {
+        "category": "tools",
+        "Count": 310907,
+        "date": "2020-07"
+    },
+    {
+        "category": "automotive",
+        "Count": 408654,
+        "date": "2020-08"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 612782,
+        "date": "2020-08"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 1047,
+        "date": "2020-08"
+    },
+    {
+        "category": "pets",
+        "Count": 52644,
+        "date": "2020-08"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 223296,
+        "date": "2020-08"
+    },
+    {
+        "category": "tools",
+        "Count": 319138,
+        "date": "2020-08"
+    },
+    {
+        "category": "automotive",
+        "Count": 413835,
+        "date": "2020-09"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 644995,
+        "date": "2020-09"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 1078,
+        "date": "2020-09"
+    },
+    {
+        "category": "pets",
+        "Count": 54595,
+        "date": "2020-09"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 229035,
+        "date": "2020-09"
+    },
+    {
+        "category": "tools",
+        "Count": 329710,
+        "date": "2020-09"
+    },
+    {
+        "category": "automotive",
+        "Count": 418999,
+        "date": "2020-10"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 667622,
+        "date": "2020-10"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 1096,
+        "date": "2020-10"
+    },
+    {
+        "category": "pets",
+        "Count": 55821,
+        "date": "2020-10"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 233327,
+        "date": "2020-10"
+    },
+    {
+        "category": "tools",
+        "Count": 336699,
+        "date": "2020-10"
+    },
+    {
+        "category": "automotive",
+        "Count": 427792,
+        "date": "2020-11"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 697484,
+        "date": "2020-11"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 1139,
+        "date": "2020-11"
+    },
+    {
+        "category": "pets",
+        "Count": 57458,
+        "date": "2020-11"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 239857,
+        "date": "2020-11"
+    },
+    {
+        "category": "tools",
+        "Count": 344481,
+        "date": "2020-11"
+    },
+    {
+        "category": "automotive",
+        "Count": 435239,
+        "date": "2020-12"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 739813,
+        "date": "2020-12"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 1210,
+        "date": "2020-12"
+    },
+    {
+        "category": "pets",
+        "Count": 59321,
+        "date": "2020-12"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 246588,
+        "date": "2020-12"
+    },
+    {
+        "category": "tools",
+        "Count": 354121,
+        "date": "2020-12"
+    },
+    {
+        "category": "automotive",
+        "Count": 443068,
+        "date": "2021-01"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 760450,
+        "date": "2021-01"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 1259,
+        "date": "2021-01"
+    },
+    {
+        "category": "pets",
+        "Count": 60873,
+        "date": "2021-01"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 254683,
+        "date": "2021-01"
+    },
+    {
+        "category": "tools",
+        "Count": 361769,
+        "date": "2021-01"
+    },
+    {
+        "category": "automotive",
+        "Count": 448426,
+        "date": "2021-02"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 777111,
+        "date": "2021-02"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 1297,
+        "date": "2021-02"
+    },
+    {
+        "category": "pets",
+        "Count": 62469,
+        "date": "2021-02"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 259577,
+        "date": "2021-02"
+    },
+    {
+        "category": "tools",
+        "Count": 368122,
+        "date": "2021-02"
+    },
+    {
+        "category": "automotive",
+        "Count": 458498,
+        "date": "2021-03"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 828650,
+        "date": "2021-03"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 1357,
+        "date": "2021-03"
+    },
+    {
+        "category": "pets",
+        "Count": 64228,
+        "date": "2021-03"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 264559,
+        "date": "2021-03"
+    },
+    {
+        "category": "tools",
+        "Count": 383087,
+        "date": "2021-03"
+    },
+    {
+        "category": "automotive",
+        "Count": 471112,
+        "date": "2021-04"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 868437,
+        "date": "2021-04"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 1400,
+        "date": "2021-04"
+    },
+    {
+        "category": "pets",
+        "Count": 66932,
+        "date": "2021-04"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 275980,
+        "date": "2021-04"
+    },
+    {
+        "category": "tools",
+        "Count": 393505,
+        "date": "2021-04"
+    },
+    {
+        "category": "automotive",
+        "Count": 474840,
+        "date": "2021-05"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 898435,
+        "date": "2021-05"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 1444,
+        "date": "2021-05"
+    },
+    {
+        "category": "pets",
+        "Count": 69042,
+        "date": "2021-05"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 282563,
+        "date": "2021-05"
+    },
+    {
+        "category": "tools",
+        "Count": 403331,
+        "date": "2021-05"
+    },
+    {
+        "category": "automotive",
+        "Count": 482589,
+        "date": "2021-06"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 925976,
+        "date": "2021-06"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 1481,
+        "date": "2021-06"
+    },
+    {
+        "category": "pets",
+        "Count": 71218,
+        "date": "2021-06"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 289357,
+        "date": "2021-06"
+    },
+    {
+        "category": "tools",
+        "Count": 412197,
+        "date": "2021-06"
+    },
+    {
+        "category": "automotive",
+        "Count": 493128,
+        "date": "2021-07"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 963607,
+        "date": "2021-07"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 1517,
+        "date": "2021-07"
+    },
+    {
+        "category": "pets",
+        "Count": 73348,
+        "date": "2021-07"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 294468,
+        "date": "2021-07"
+    },
+    {
+        "category": "tools",
+        "Count": 422061,
+        "date": "2021-07"
+    },
+    {
+        "category": "automotive",
+        "Count": 499246,
+        "date": "2021-08"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 994845,
+        "date": "2021-08"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 1568,
+        "date": "2021-08"
+    },
+    {
+        "category": "pets",
+        "Count": 75864,
+        "date": "2021-08"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 301907,
+        "date": "2021-08"
+    },
+    {
+        "category": "tools",
+        "Count": 431841,
+        "date": "2021-08"
+    },
+    {
+        "category": "automotive",
+        "Count": 512143,
+        "date": "2021-09"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 1046928,
+        "date": "2021-09"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 1647,
+        "date": "2021-09"
+    },
+    {
+        "category": "pets",
+        "Count": 78576,
+        "date": "2021-09"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 309810,
+        "date": "2021-09"
+    },
+    {
+        "category": "tools",
+        "Count": 445426,
+        "date": "2021-09"
+    },
+    {
+        "category": "automotive",
+        "Count": 519735,
+        "date": "2021-10"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 1087075,
+        "date": "2021-10"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 1723,
+        "date": "2021-10"
+    },
+    {
+        "category": "pets",
+        "Count": 81545,
+        "date": "2021-10"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 316656,
+        "date": "2021-10"
+    },
+    {
+        "category": "tools",
+        "Count": 458598,
+        "date": "2021-10"
+    },
+    {
+        "category": "automotive",
+        "Count": 526985,
+        "date": "2021-11"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 1142312,
+        "date": "2021-11"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 1785,
+        "date": "2021-11"
+    },
+    {
+        "category": "pets",
+        "Count": 84521,
+        "date": "2021-11"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 322909,
+        "date": "2021-11"
+    },
+    {
+        "category": "tools",
+        "Count": 470600,
+        "date": "2021-11"
+    },
+    {
+        "category": "automotive",
+        "Count": 535070,
+        "date": "2021-12"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 1170969,
+        "date": "2021-12"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 1844,
+        "date": "2021-12"
+    },
+    {
+        "category": "pets",
+        "Count": 87271,
+        "date": "2021-12"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 330101,
+        "date": "2021-12"
+    },
+    {
+        "category": "tools",
+        "Count": 480991,
+        "date": "2021-12"
+    },
+    {
+        "category": "automotive",
+        "Count": 543180,
+        "date": "2022-01"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 1189390,
+        "date": "2022-01"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 1937,
+        "date": "2022-01"
+    },
+    {
+        "category": "pets",
+        "Count": 89701,
+        "date": "2022-01"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 334770,
+        "date": "2022-01"
+    },
+    {
+        "category": "tools",
+        "Count": 488488,
+        "date": "2022-01"
+    },
+    {
+        "category": "automotive",
+        "Count": 548834,
+        "date": "2022-02"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 1206294,
+        "date": "2022-02"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 1977,
+        "date": "2022-02"
+    },
+    {
+        "category": "pets",
+        "Count": 90811,
+        "date": "2022-02"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 339726,
+        "date": "2022-02"
+    },
+    {
+        "category": "tools",
+        "Count": 495347,
+        "date": "2022-02"
+    },
+    {
+        "category": "automotive",
+        "Count": 558928,
+        "date": "2022-03"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 1238640,
+        "date": "2022-03"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 2054,
+        "date": "2022-03"
+    },
+    {
+        "category": "pets",
+        "Count": 93545,
+        "date": "2022-03"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 349701,
+        "date": "2022-03"
+    },
+    {
+        "category": "tools",
+        "Count": 507083,
+        "date": "2022-03"
+    },
+    {
+        "category": "automotive",
+        "Count": 570597,
+        "date": "2022-04"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 1244222,
+        "date": "2022-04"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 2139,
+        "date": "2022-04"
+    },
+    {
+        "category": "pets",
+        "Count": 96539,
+        "date": "2022-04"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 357997,
+        "date": "2022-04"
+    },
+    {
+        "category": "tools",
+        "Count": 513318,
+        "date": "2022-04"
+    },
+    {
+        "category": "automotive",
+        "Count": 586374,
+        "date": "2022-05"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 1283020,
+        "date": "2022-05"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 2270,
+        "date": "2022-05"
+    },
+    {
+        "category": "pets",
+        "Count": 100008,
+        "date": "2022-05"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 368526,
+        "date": "2022-05"
+    },
+    {
+        "category": "tools",
+        "Count": 528962,
+        "date": "2022-05"
+    },
+    {
+        "category": "automotive",
+        "Count": 598114,
+        "date": "2022-06"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 1300358,
+        "date": "2022-06"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 2361,
+        "date": "2022-06"
+    },
+    {
+        "category": "pets",
+        "Count": 103065,
+        "date": "2022-06"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 377468,
+        "date": "2022-06"
+    },
+    {
+        "category": "tools",
+        "Count": 539381,
+        "date": "2022-06"
+    },
+    {
+        "category": "automotive",
+        "Count": 611919,
+        "date": "2022-07"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 1324268,
+        "date": "2022-07"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 2444,
+        "date": "2022-07"
+    },
+    {
+        "category": "pets",
+        "Count": 106834,
+        "date": "2022-07"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 386468,
+        "date": "2022-07"
+    },
+    {
+        "category": "tools",
+        "Count": 550913,
+        "date": "2022-07"
+    },
+    {
+        "category": "automotive",
+        "Count": 624351,
+        "date": "2022-08"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 1348256,
+        "date": "2022-08"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 2540,
+        "date": "2022-08"
+    },
+    {
+        "category": "pets",
+        "Count": 109998,
+        "date": "2022-08"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 392859,
+        "date": "2022-08"
+    },
+    {
+        "category": "tools",
+        "Count": 560014,
+        "date": "2022-08"
+    },
+    {
+        "category": "automotive",
+        "Count": 628957,
+        "date": "2022-09"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 1378090,
+        "date": "2022-09"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 2637,
+        "date": "2022-09"
+    },
+    {
+        "category": "pets",
+        "Count": 110908,
+        "date": "2022-09"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 398718,
+        "date": "2022-09"
+    },
+    {
+        "category": "tools",
+        "Count": 565410,
+        "date": "2022-09"
+    },
+    {
+        "category": "automotive",
+        "Count": 654002,
+        "date": "2022-10"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 1400683,
+        "date": "2022-10"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 2679,
+        "date": "2022-10"
+    },
+    {
+        "category": "pets",
+        "Count": 110862,
+        "date": "2022-10"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 399973,
+        "date": "2022-10"
+    },
+    {
+        "category": "tools",
+        "Count": 577632,
+        "date": "2022-10"
+    },
+    {
+        "category": "automotive",
+        "Count": 665290,
+        "date": "2022-11"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 1417438,
+        "date": "2022-11"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 2691,
+        "date": "2022-11"
+    },
+    {
+        "category": "pets",
+        "Count": 110768,
+        "date": "2022-11"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 406208,
+        "date": "2022-11"
+    },
+    {
+        "category": "tools",
+        "Count": 581880,
+        "date": "2022-11"
+    },
+    {
+        "category": "automotive",
+        "Count": 583403,
+        "date": "2022-12"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 1274899,
+        "date": "2022-12"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 2596,
+        "date": "2022-12"
+    },
+    {
+        "category": "pets",
+        "Count": 111855,
+        "date": "2022-12"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 376489,
+        "date": "2022-12"
+    },
+    {
+        "category": "tools",
+        "Count": 550307,
+        "date": "2022-12"
+    },
+    {
+        "category": "automotive",
+        "Count": 548841,
+        "date": "2023-01"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 1239862,
+        "date": "2023-01"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 2540,
+        "date": "2023-01"
+    },
+    {
+        "category": "pets",
+        "Count": 102762,
+        "date": "2023-01"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 360385,
+        "date": "2023-01"
+    },
+    {
+        "category": "tools",
+        "Count": 530880,
+        "date": "2023-01"
+    },
+    {
+        "category": "automotive",
+        "Count": 519406,
+        "date": "2023-02"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 1186184,
+        "date": "2023-02"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 2444,
+        "date": "2023-02"
+    },
+    {
+        "category": "pets",
+        "Count": 98734,
+        "date": "2023-02"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 346261,
+        "date": "2023-02"
+    },
+    {
+        "category": "tools",
+        "Count": 508416,
+        "date": "2023-02"
+    },
+    {
+        "category": "automotive",
+        "Count": 392700,
+        "date": "2023-03"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 926615,
+        "date": "2023-03"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 1868,
+        "date": "2023-03"
+    },
+    {
+        "category": "pets",
+        "Count": 75942,
+        "date": "2023-03"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 267152,
+        "date": "2023-03"
+    },
+    {
+        "category": "tools",
+        "Count": 392439,
+        "date": "2023-03"
+    },
+    {
+        "category": "automotive",
+        "Count": 260024,
+        "date": "2023-04"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 632594,
+        "date": "2023-04"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 1276,
+        "date": "2023-04"
+    },
+    {
+        "category": "pets",
+        "Count": 50814,
+        "date": "2023-04"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 180411,
+        "date": "2023-04"
+    },
+    {
+        "category": "tools",
+        "Count": 264818,
+        "date": "2023-04"
+    },
+    {
+        "category": "automotive",
+        "Count": 129715,
+        "date": "2023-05"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 296029,
+        "date": "2023-05"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 625,
+        "date": "2023-05"
+    },
+    {
+        "category": "pets",
+        "Count": 27134,
+        "date": "2023-05"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 92419,
+        "date": "2023-05"
+    },
+    {
+        "category": "tools",
+        "Count": 135635,
+        "date": "2023-05"
+    },
+    {
+        "category": "automotive",
+        "Count": 18263,
+        "date": "2023-06"
+    },
+    {
+        "category": "home_kitchen",
+        "Count": 37467,
+        "date": "2023-06"
+    },
+    {
+        "category": "kitchen_dining",
+        "Count": 93,
+        "date": "2023-06"
+    },
+    {
+        "category": "pets",
+        "Count": 3506,
+        "date": "2023-06"
+    },
+    {
+        "category": "sports_outdoors",
+        "Count": 13247,
+        "date": "2023-06"
+    },
+    {
+        "category": "tools",
+        "Count": 19614,
+        "date": "2023-06"
+    }
+]

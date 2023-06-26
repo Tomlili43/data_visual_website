@@ -38,25 +38,39 @@ export default [
       {
         path: 'categoryDistribution',
         name: 'categoryDistribution',
-        component: 'CategoryDistribution',
+        component: './amazon 108/CategoryDistribution',
       },
     
       {
         path: 'categoryTimeCoverage',
         name: 'categoryTimeCoverage',
-        component: 'CategoryTimeCoverage',
+        component: './amazon 108/CategoryTimeCoverage',
       },
     
       {
         path: 'categoryCountByMonth',
         name: 'categoryCountByMonth',
-        component: 'CategoryCountByMonth',
+        component: './amazon 108/CategoryCountByMonth',
       },
 
       {
         path: 'categoryCountByMonthJS',
         name: 'categoryCountByMonthJS',
-        component: 'CategoryCountByMonthJS',
+        component: './amazon 108/CategoryCountByMonthJS',
+      },
+
+      {
+        path: 'productSearch108',
+        name: 'productSearch108',
+        icon: 'FileSearchOutlined',
+        component: './amazon 108/ProductSearch108',
+      },
+
+      {
+        path: 'sellerSearch108',
+        name: 'sellerSearch108',
+        icon: 'FileSearchOutlined',
+        component: './amazon 108/SellerSearch108',
       },
     ]
   },
@@ -70,13 +84,27 @@ export default [
       {
         path: 'categoryCountByMonthDP',
         name: 'categoryCountByMonthDP',
-        component: 'CategoryCountByMonthDM',
+        component: './amazon 93/CategoryCountByMonthDM',
       },
           
       {
         path: 'modifiedCount',
         name: 'modifiedCount',
-        component: 'ModifiedCount',
+        component: './amazon 93/ModifiedCount',
+      },
+
+      {
+        path: 'productSearch93',
+        name: 'productSearch93',
+        icon: 'FileSearchOutlined',
+        component: './amazon 93/ProductSearch93',
+      },
+
+      {
+        path: 'sellerSearch93',
+        name: 'sellerSearch93',
+        icon: 'FileSearchOutlined',
+        component: './amazon 93/SellerSearch93',
       },
     ]
   },
