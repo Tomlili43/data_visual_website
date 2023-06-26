@@ -1,60 +1,30 @@
 import { Column } from '@ant-design/plots';
-import request from 'umi-request';
 import React, { useState, useEffect } from 'react';
-import raw from './data/category_time_coverage.json';
+import { getCategoryTimeCoverage } from '@/services/ant-design-pro/data';
 
 const CategoryTimeCoverage = () => {
   // To create a new page update routes.ts and relevant locales
-/** 
- * DESIRED FORMAT: 
- * type --> category in a string
- * values --> yyyy-MM-dd,yyyy-MM-dd in a string
-  const data = [
-    {
-      type: 'abc',
-      values: '1983-03-11,1989-09-28',
-    },
-    {
-      type: 'def',
-      values: '1983-03-11,1989-09-29',
-    },
-    {
-      type: 'ghi',
-      values: '1983-03-11,1989-09-30',
+  const [data, setData] = useState([]);
+
+  const fetchData = async () => {
+    try {
+      const response = await getCategoryTimeCoverage();
+      const raw = response["category_time_coverage"]
+      const data = raw.map(item => ({
+        type: item.type,
+        values: item.timespan.split(',').map(date => new Date(date)),
+      }));
+      setData(data);
+    } catch (error) {
+      console.error(error);
     }
-  ];
-*/
+  }
+
+  useEffect(() => {
+    fetchData();
+  }, []);
 
 
-  // const [data, setData] = useState([]);
-
-  // async function fetchData() {
-  //   try {
-  //     const response = await request('/api/companies');
-  //     const dataList = Object.values(response.list) || [];
-  //     const data = dataList[0].map(item => ({
-  //       type: item.type,
-  //       values: item.values.split(',').map(date => new Date(date)),
-  //     }));
-  //     return data;
-  //   } catch (error) {
-  //     console.error(error);
-  //     return [];
-  //   }
-  // }
-
-  // useEffect(() => {
-  //   async function getData() {
-  //     const result = await fetchData();
-  //     setData(result);
-  //   }
-  //   getData();
-  // }, []);
-
-  const data = raw.map(item => ({
-    type: item.type,
-    values: item.timespan.split(',').map(date => new Date(date)),
-  }));
 
   const config = {
     data,
@@ -95,7 +65,7 @@ const CategoryTimeCoverage = () => {
 
   return (
     <div>
-      <h1>Category Time Coverage</h1> 
+      <h1>Category Time Coverage (defined by over 20% coverage at start and end dates)</h1> 
       <h4 style={{textAlign: 'right', fontWeight: 'normal' }}>by Derek Zheng</h4>
       <Column {...config} />
     </div>

@@ -1,5 +1,6 @@
+import React, { useState, useEffect } from 'react';
 import { Line } from '@ant-design/plots';
-import data from './data/unique_products_by_month_dm.json'
+import { getCategoryCountsDM } from '@/services/ant-design-pro/data';
 
 const CategoryCountByMonthDM = () => {
 /**
@@ -10,7 +11,21 @@ const CategoryCountByMonthDM = () => {
  * ...]
  * Ordered by month and then by category, order should not matter
  */
+const [data, setData] = useState([]);
 
+const fetchData = async () => {
+  try {
+    const response = await getCategoryCountsDM();
+    const data = response["unique_products_by_month_dm"]
+    setData(data);
+  } catch (error) {
+    console.error(error);
+  }
+}
+
+useEffect(() => {
+  fetchData();
+}, []);
 
   const COLOR_PLATE_10 = [
     '#5B8FF9',

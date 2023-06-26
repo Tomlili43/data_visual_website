@@ -14,6 +14,8 @@ export default {
   'menu.Visualizations1.categoryDistribution': 'Category Distribution',
   'menu.Visualizations1.categoryCountByMonth': 'Category Counts',
   'menu.Visualizations1.categoryCountByMonthJS': 'Category Counts JS',
+  'menu.Visualizations1.productSearch108': 'Product Search',
+  'menu.Visualizations1.sellerSearch108': 'Seller Search',
   'menu.Visualizations2': '93 Real-Time Data',
   // 'menu.Visualizations2.categoryTimeCoverage': 'Category Time Coverage',
   // 'menu.Visualizations2.totalDBProductByWeek': 'Total DB Product By Week',
@@ -21,6 +23,8 @@ export default {
   // 'menu.Visualizations2.categoryCountByMonth': 'Category Counts By Month',
   'menu.Visualizations2.categoryCountByMonthDP': 'Category Counts DP',
   'menu.Visualizations2.modifiedCount': 'Modified Count',
+  'menu.Visualizations2.productSearch93': 'Product Search',
+  'menu.Visualizations2.sellerSearch93': 'Seller Search',
   'menu.PanjivaData': 'Panjiva Real-Time Data',
   'menu.PanjivaData.usImpTransactionCount': 'Transaction Count',
   'menu.PanjivaData.usImpTransactionValue': 'Transaction Value',
@@ -30,6 +34,9 @@ export default {
   'menu.PanjivaData.usImpTransactionValueCN': 'Transaction Value CN',
   'menu.PanjivaData.usImpTransactionWeightCN': 'Transaction Weight CN',
   'menu.PanjivaData.usImpTransactionVolumeCN': 'Transaction Volume CN',
+  'menu.ProductSearch': 'Product Search',
+  'menu.Data_Clean_Workflow': 'Data Clean Workflow',  // Added to remove console errors, please rename as appropriate
+  'menu.Data_Clean_Workflow2': 'Data Clean Workflow 2', // Added to remove console errors, please rename as appropriate
   'layout.user.link.help': 'Help',
   'layout.user.link.privacy': 'Privacy',
   'layout.user.link.terms': 'Terms',

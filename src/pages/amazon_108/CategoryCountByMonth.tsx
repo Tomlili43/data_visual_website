@@ -1,7 +1,8 @@
+import React, { useState, useEffect } from 'react';
 import { Line } from '@ant-design/plots';
-import data from './data/unique_products_by_month_js.json'
+import { getCategoryCounts } from '@/services/ant-design-pro/data';
 
-const CategoryCountByMonthJS = () => {
+const CategoryCountByMonth = () => {
 /**
  * Data of format:
  * [{"date": "2015-02", "Count": 2315, "category": "Appliances "}, 
@@ -10,7 +11,21 @@ const CategoryCountByMonthJS = () => {
  * ...]
  * Ordered by month and then by category, order should not matter
  */
+const [data, setData] = useState([]);
 
+const fetchData = async () => {
+  try {
+    const response = await getCategoryCounts();
+    const data = response["unique_products_by_month"]
+    setData(data);
+  } catch (error) {
+    console.error(error);
+  }
+}
+
+useEffect(() => {
+  fetchData();
+}, []);
 
   const COLOR_PLATE_10 = [
     '#5B8FF9',
@@ -32,7 +47,7 @@ const CategoryCountByMonthJS = () => {
     yAxis: {
       label: {
         // 数值格式化为千分位
-        formatter: (v: number) => `${v}`.replace(/\d{1,3}(?=(\d{3})+$)/g, (s) => `${s},`),
+        formatter: (v) => `${v}`.replace(/\d{1,3}(?=(\d{3})+$)/g, (s) => `${s},`),
       },
       title: {
         text: 'Product ASIN Count',
@@ -56,11 +71,11 @@ const CategoryCountByMonthJS = () => {
 
   return (
     <div>
-      <h1>Unique Product ASIN by Month per Category with Non-Null Sales (from month_all_js)</h1> 
+      <h1>Unique Product ASIN by Month per Category with Non-Null Sales (from month_all)</h1> 
       <h4 style={{textAlign: 'right', fontWeight: 'normal' }}>by Derek Zheng</h4>
       <Line {...config} />
     </div>
   );
 };
 
-export default CategoryCountByMonthJS;
+export default CategoryCountByMonth;

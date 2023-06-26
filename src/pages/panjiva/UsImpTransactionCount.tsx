@@ -1,15 +1,23 @@
 import { Line } from '@ant-design/plots';
-import data from '../data/us_transaction_count.json'
+import React, { useState, useEffect } from 'react';
+import { getUSImpTransactionCount } from '@/services/ant-design-pro/data';
 
 const USImpTransactionCount = () => {
-/**
- * Data of format:
- * [{"date": "2015-02", "Count": 2315, "category": "Appliances "}, 
- * {"date": "2015-02", "Count": 10333, "category": "Arts, Crafts & Sewing "}, 
- * {"date": "2015-02", "Count": 161673, "category": "Automotive "},
- * ...]
- * Ordered by month and then by category, order should not matter
- */
+  const [data, setData] = useState([]);
+
+  const fetchData = async () => {
+    try {
+      const response = await getUSImpTransactionCount();
+      const data = response["us_transaction_count"]
+      setData(data);
+    } catch (error) {
+      console.error(error);
+    }
+  }
+
+  useEffect(() => {
+    fetchData();
+  }, []);
 
 
   const COLOR_PLATE_10 = [
