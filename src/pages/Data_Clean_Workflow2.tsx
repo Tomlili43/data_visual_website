@@ -148,7 +148,7 @@ const DemoFundFlowGraph = () => {
         id: '6',
         value: {
 
-              text: 'MongoDB\Njunglescout\nbase',
+              text: 'MongoDB\njunglescout\nbase',
 
         },
       },      {
@@ -233,27 +233,27 @@ const DemoFundFlowGraph = () => {
       {
         source: '1',
         target: '11',
-  value: { text: 'inupt_asin_basic_info', subText: 'springboot' },
+        value: { text: 'inupt_asin_basic_info', subText: 'springboot' },
       },
       {
         source: '1',
         target: '12',
-  value: { text: 'inupt_related_products', subText: 'springboot' },
+        value: { text: 'inupt_related_products', subText: 'springboot' },
       },
       {
         source: '1',
         target: '13',
-   value: { text: 'inupt_varlants', subText: 'springboot' },
+        value: { text: 'inupt_varlants', subText: 'springboot' },
       },
       {
         source: '2',
         target: '14',
-     value: { text: 'inupt_seller', subText: 'springboot' },
+        value: { text: 'inupt_seller', subText: 'springboot' },
       },
       {
         source: '3',
         target: '15',
-   value: { text: 'inupt_seller_products', subText: 'springboot' },
+        value: { text: 'inupt_seller_products', subText: 'springboot' },
       },
       {
         source: '11',
@@ -322,29 +322,61 @@ const DemoFundFlowGraph = () => {
       {
         source: '6',
         target: '17',
- value: { text: 'input_js_month_all', subText: 'springboot' },
+        value: { text: 'input_js_month_all', subText: 'springboot' },
       },
       {
         source: '-4',
         target: '9',
 	value: 'TO_DO',
       },
-  ],}
-
+    ],
+  }
+  const turnSencondaryNodes = () => {
+    return{
+      fill:'#94F58D',
+      style:'circle',
+    }
+  };
   const config = {
     data,
-    nodeCfg: {
-      size: [180, 50],
-      items: {
-        padding: 6,
-        containerStyle: {
-          fill: '#111',
-        },
-      }
+    width:1200,
+    height:1700,
+    style:{
+      backgroundColor: 'transparent', // 设置背景颜色为透明
+      margin: 'auto', // 设置画板边距为0
+      overflow: 'auto', // 设置画板溢出方式为自动滚动
     },
+    behaviors: ['drag-node'],
+    nodeCfg:{
+      label:{
+        style:{
+          fontSize:20,
+        },
+      },
+      size:[194.16,120],
+      style:(node) =>{
+        if (node.id === '21'||node.id ==='24'||node.id ==='23'||node.id === '31'||node.id ==='32') {
+          return{
+              fill: '#F99450',
+              stroke: '#F99450',
+	      size:[194.16,120],
+           };
+        } 
+        else if (node.id === '22' || node.id === '11' || node.id === '12'|| node.id === '13'|| node.id === '14'|| node.id === '15'|| node.id === '16'|| node.id === '17') {
+	  return {
+              fill: '#94F58D',
+              stroke: '#94F58D',
+          };
+        }
+      }
+    }
+  };
+
+  return (<div>
+      <h1>Data_Clean_Workflow</h1>
+<FundFlowGraph{...config} />   </div>
+   );
 };
 
-  return <FundFlowGraph {...config} />;
-};
 
 export default DemoFundFlowGraph
