@@ -23,74 +23,83 @@ const SellerSearch108: React.FC = () => {
   const searchProducts = async () => {
     try {
       const response = await getSellerInfo108(inputValue);
-      // Table 1: seller
-      // Below lines move the productId field to the start
-      const keyToMove1 = 'sellerId';
-      const entries1 = Object.entries(response["data"]["seller"]);
-      const index1 = entries1.findIndex(([key, value]) => key === keyToMove1);
-      if (index1 > 0) {
-        entries1.unshift(entries1.splice(index1, 1)[0]);
+      const seller = response["data"]["seller"];
+      const product = response["data"]["asin_basic_info"];
+      // Errors if all does not exist
+      if (seller === "NotExist" && product === "NotExist") {
+        setInputStatus("error");
+      } else {
+        setInputStatus("");
       }
-      const reorderedObj1 = Object.fromEntries(entries1);
-
-      const data_seller = reorderedObj1;
-      setSearchResults1([data_seller]);
-      // Define widths based on the length of the content
-      const cols1 = Object.keys(data_seller).map((key) => {
-        let maxLength = 0;
-        const value = data_seller[key];
-        if (value !== null && value !== undefined) {
-          maxLength = `${value}`.length;
+      // Table 1: seller
+      if (seller !== "NotExist") {
+        // Below lines move the productId field to the start
+        const keyToMove1 = 'sellerId';
+        const entries1 = Object.entries(response["data"]["seller"]);
+        const index1 = entries1.findIndex(([key, value]) => key === keyToMove1);
+        if (index1 > 0) {
+          entries1.unshift(entries1.splice(index1, 1)[0]);
         }
-        const width = Math.max(10, maxLength * 8);
+        const reorderedObj1 = Object.fromEntries(entries1);
 
-        return {        
-          title: key,
-          dataIndex: key,
-          key: key,
-          textWrap: 'word-break',
-          width: width,
-        };
+        const data_seller = reorderedObj1;
+        setSearchResults1([data_seller]);
+        // Define widths based on the length of the content
+        const cols1 = Object.keys(data_seller).map((key) => {
+          let maxLength = 0;
+          const value = data_seller[key];
+          if (value !== null && value !== undefined) {
+            maxLength = `${value}`.length;
+          }
+          const width = Math.max(10, maxLength * 8);
 
-      })
-      setColumns1(cols1);
-      
+          return {        
+            title: key,
+            dataIndex: key,
+            key: key,
+            textWrap: 'word-break',
+            width: width,
+          };
+
+        })
+        setColumns1(cols1);
+      }
 
 
       // Table 2: asin_basic_info
-      const data_product = response["data"]["asin_basic_info"]
-      // Move productId, year, and month to start
-      const keysToMove2 = ['sellerId', 'productId'];
-      for (let i = 0; i < data_product.length; i++) {
-        let obj = data_product[i];
-        const valuesToMove = {};
-        for (const key of keysToMove2) {
-          valuesToMove[key] = obj[key];
-          delete obj[key];
+      if (product !== "NotExist") {
+        const data_product = product
+        // Move productId, year, and month to start
+        const keysToMove2 = ['sellerId', 'productId'];
+        for (let i = 0; i < data_product.length; i++) {
+          let obj = data_product[i];
+          const valuesToMove = {};
+          for (const key of keysToMove2) {
+            valuesToMove[key] = obj[key];
+            delete obj[key];
+          }
+          obj = {...valuesToMove, ...obj};
+          data_product[i] = obj;
         }
-        obj = {...valuesToMove, ...obj};
-        data_product[i] = obj;
+        setSearchResults2([data_product]);
+        // Define widths based on the length of the content
+        const cols2 = Object.keys(data_product[0]).map((key) => {
+          let maxLength = 0;
+          const value = data_product[0][key];
+          if (value !== null && value !== undefined) {
+            maxLength = `${value}`.length;
+          }
+          const width = Math.max(10, maxLength * 7);
+          return {        
+            title: key,
+            dataIndex: key,
+            key: key,
+            textWrap: 'word-break',
+            width: width,
+          };
+        })  
+        setColumns2(cols2);
       }
-      setSearchResults2([data_product]);
-      // Define widths based on the length of the content
-      const cols2 = Object.keys(data_product[0]).map((key) => {
-        let maxLength = 0;
-        const value = data_product[0][key];
-        if (value !== null && value !== undefined) {
-          maxLength = `${value}`.length;
-        }
-        const width = Math.max(10, maxLength * 7);
-        return {        
-          title: key,
-          dataIndex: key,
-          key: key,
-          textWrap: 'word-break',
-          width: width,
-        };
-      })
-      
-      setColumns2(cols2);
-      setInputStatus("");
     } catch (error) {
       // Handle error (currently just turns input box red, does not display any message)
       setInputStatus("error");
@@ -112,7 +121,7 @@ const SellerSearch108: React.FC = () => {
       </Button>
       
       <h3><br></br>Seller Information</h3>
-      <Table dataSource={searchResults1} columns={columns1} rowKey="id" key="table1" scroll={{ x: 1000 }} bordered/>
+      <Table dataSource={searchResults1} columns={columns1} rowKey="sellerId" key="table1" scroll={{ x: 1000 }} bordered/>
       <h3><br></br>Product Information</h3>
       <Table dataSource={searchResults2[0]} columns={columns2} rowKey="productId" key="table2" scroll={{ x: 9000 }} pagination={{ pageSize: 3 }} bordered/>
     </div>
