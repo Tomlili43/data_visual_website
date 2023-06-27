@@ -24,66 +24,79 @@ const ProductSearch93: React.FC = () => {
   const searchProducts = async () => {
     try {
       const response = await getProductInfo93(inputValue);
-      // Below lines move the productId field to the start
-      const keyToMove = 'productId';
-      const entries = Object.entries(response["data"]["data_product"][0]);
-      const index = entries.findIndex(([key, value]) => key === keyToMove);
-      if (index > 0) {
-        entries.unshift(entries.splice(index, 1)[0]);
+      const product = response["data"]["data_product"];
+      const month = response["data"]["data_month"];
+      // Errors if all does not exist
+      if (product === "NotExist" && month === "NotExist") {
+        setInputStatus("error");
+      } else {
+        setInputStatus("");
       }
-      const reorderedObj = Object.fromEntries(entries);
-
-      const data_product = reorderedObj;
-      setSearchResults1([data_product]);
-      // Define widths based on the length of the content
-      const cols1 = Object.keys(data_product).map((key) => {
-        let maxLength = 0;
-        const value = data_product[key];
-        if (value !== null && value !== undefined) {
-          maxLength = `${value}`.length;
+      // Table 1: data_product
+      if (product !== "NotExist") {
+        // Below lines move the productId field to the start
+        const keyToMove = 'productId';
+        const entries = Object.entries(product[0]);
+        const index = entries.findIndex(([key, value]) => key === keyToMove);
+        if (index > 0) {
+          entries.unshift(entries.splice(index, 1)[0]);
         }
-        const width = Math.max(100, Math.sqrt(maxLength) * 20);
+        const reorderedObj = Object.fromEntries(entries);
 
-        return {        
+        const data_product = reorderedObj;
+        setSearchResults1([data_product]);
+        // Define widths based on the length of the content
+        const cols1 = Object.keys(data_product).map((key) => {
+          let maxLength = 0;
+          const value = data_product[key];
+          if (value !== null && value !== undefined) {
+            maxLength = `${value}`.length;
+          }
+          const width = Math.max(100, Math.sqrt(maxLength) * 20);
+
+          return {        
+            title: key,
+            dataIndex: key,
+            key: key,
+            textWrap: 'word-break',
+            width: width,
+          };
+
+        })
+        setColumns1(cols1);
+      }
+      
+      // Table 2: data_month
+      if (month !== "NotExist") {
+        const data_month = month
+        // Move productId, year, and month to start
+        const keysToMove = ['productId', 'year', 'month'];
+        for (let i = 0; i < data_month.length; i++) {
+          let obj = data_month[i];
+          const valuesToMove = {};
+          for (const key of keysToMove) {
+            valuesToMove[key] = obj[key];
+            delete obj[key];
+          }
+          obj = {...valuesToMove, ...obj};
+          data_month[i] = obj;
+        }
+        // Sorts the data by month and year
+        data_month.sort((a, b) => {
+          if (a.year !== b.year) {
+            return a.year - b.year;
+          }
+          return a.month - b.month;
+        });
+        setSearchResults2([data_month]);
+        const cols2 = Object.keys(data_month[0]).map((key) => ({
           title: key,
           dataIndex: key,
           key: key,
-          textWrap: 'word-break',
-          width: width,
-        };
-
-      })
-      setColumns1(cols1);
-      
-      const data_month = response["data"]["data_month"]
-      // Move productId, year, and month to start
-      const keysToMove = ['productId', 'year', 'month'];
-      for (let i = 0; i < data_month.length; i++) {
-        let obj = data_month[i];
-        const valuesToMove = {};
-        for (const key of keysToMove) {
-          valuesToMove[key] = obj[key];
-          delete obj[key];
-        }
-        obj = {...valuesToMove, ...obj};
-        data_month[i] = obj;
+        }))
+        setColumns2(cols2);
       }
-      // Sorts the data by month and year
-      data_month.sort((a, b) => {
-        if (a.year !== b.year) {
-          return a.year - b.year;
-        }
-        return a.month - b.month;
-      });
-      setSearchResults2([data_month]);
-      console.log(data_month[0])
-      const cols2 = Object.keys(data_month[0]).map((key) => ({
-        title: key,
-        dataIndex: key,
-        key: key,
-      }))
-      setColumns2(cols2);
-      setInputStatus("");
+
     } catch (error) {
       // Handle error 
       setInputStatus("error");
