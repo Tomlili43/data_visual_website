@@ -2,13 +2,13 @@ import React, { useState, useEffect } from 'react';
 import { Line } from '@ant-design/plots';
 import { getVisualizationData } from '@/services/ant-design-pro/data';
 
-const CategoryCountByMonthJS = () => {
+const CategoryCountByMonthDM = () => {
 const [data, setData] = useState([]);
 
 const fetchData = async () => {
   try {
-    const response = await getVisualizationData("uniqueProductsByMonthJs");
-    const data = response["data"]
+    const response = await getVisualizationData("uniqueProductsByMonthDmPb");
+    const data = response["data"];
     setData(data);
   } catch (error) {
     console.error(error);
@@ -18,6 +18,7 @@ const fetchData = async () => {
 useEffect(() => {
   fetchData();
 }, []);
+
   const COLOR_PLATE_10 = [
     '#5B8FF9',
     '#5AD8A6',
@@ -62,11 +63,11 @@ useEffect(() => {
 
   return (
     <div>
-      <h1>Unique Product ASIN by Month per Category with Non-Null Sales (from month_all_js)</h1> 
+      <h1>Unique Product ASIN by Month per Category with Non-Null Sales (from data_month)</h1> 
       <h4 style={{textAlign: 'right', fontWeight: 'normal' }}>by Derek Zheng</h4>
       <Line {...config} />
     </div>
   );
 };
 
-export default CategoryCountByMonthJS;
+export default CategoryCountByMonthDM;

@@ -1,6 +1,6 @@
 import { Column } from '@ant-design/plots';
 import React, { useState, useEffect } from 'react';
-import { getCategoryTimeCoverage } from '@/services/ant-design-pro/data';
+import { getVisualizationData } from '@/services/ant-design-pro/data';
 
 const CategoryTimeCoverage = () => {
   // To create a new page update routes.ts and relevant locales
@@ -8,8 +8,8 @@ const CategoryTimeCoverage = () => {
 
   const fetchData = async () => {
     try {
-      const response = await getCategoryTimeCoverage();
-      const raw = response["category_time_coverage"]
+      const response = await getVisualizationData("categoryTimeCoverage");
+      const raw = response["data"]
       const data = raw.map(item => ({
         type: item.type,
         values: item.timespan.split(',').map(date => new Date(date)),

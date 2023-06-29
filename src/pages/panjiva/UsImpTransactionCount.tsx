@@ -1,14 +1,14 @@
 import { Line } from '@ant-design/plots';
 import React, { useState, useEffect } from 'react';
-import { getUSImpTransactionCount } from '@/services/ant-design-pro/data';
+import { getVisualizationData } from '@/services/ant-design-pro/data';
 
 const USImpTransactionCount = () => {
   const [data, setData] = useState([]);
 
   const fetchData = async () => {
     try {
-      const response = await getUSImpTransactionCount();
-      const data = response["us_transaction_count"]
+      const response = await getVisualizationData("usTransactionCount");
+      const data = response["data"]
       setData(data);
     } catch (error) {
       console.error(error);

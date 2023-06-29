@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Pie } from '@ant-design/plots';
-import { getCategoryDistribution } from '@/services/ant-design-pro/data';
+import { getVisualizationData } from '@/services/ant-design-pro/data';
 
 const CategoryDistribution = () => {
 
@@ -8,8 +8,8 @@ const CategoryDistribution = () => {
 
   const fetchData = async () => {
     try {
-      const response = await getCategoryDistribution();
-      const data = response["category_distribution"]
+      const response = await getVisualizationData("categoryCounts");
+      const data = response["data"];
       setData(data);
     } catch (error) {
       console.error(error);

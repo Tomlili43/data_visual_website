@@ -1,22 +1,14 @@
 import React, { useState, useEffect } from 'react';
 import { Line } from '@ant-design/plots';
-import { getCategoryCounts } from '@/services/ant-design-pro/data';
+import { getVisualizationData } from '@/services/ant-design-pro/data';
 
 const CategoryCountByMonth = () => {
-/**
- * Data of format:
- * [{"date": "2015-02", "Count": 2315, "category": "Appliances "}, 
- * {"date": "2015-02", "Count": 10333, "category": "Arts, Crafts & Sewing "}, 
- * {"date": "2015-02", "Count": 161673, "category": "Automotive "},
- * ...]
- * Ordered by month and then by category, order should not matter
- */
 const [data, setData] = useState([]);
 
 const fetchData = async () => {
   try {
-    const response = await getCategoryCounts();
-    const data = response["unique_products_by_month"]
+    const response = await getVisualizationData("uniqueProductsByMonth");
+    const data = response["data"]
     setData(data);
   } catch (error) {
     console.error(error);
@@ -42,7 +34,7 @@ useEffect(() => {
   const config = {
     data,
     xField: 'date',
-    yField: 'Count',
+    yField: 'count',
     seriesField: 'category',
     yAxis: {
       label: {

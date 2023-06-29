@@ -24,20 +24,20 @@ const ModifiedCount = () => {
 
   const fetchData = async () => {
     try {
-      const responseDataMonth = (await getVisualizationData("modifiedCountDataMonth"))["data"];
+      const responseDataMonth = (await getVisualizationData("modifiedCountDataMonthPb"))["data"];
       setDataMonth(responseDataMonth);
-      const responseDataProduct = (await getVisualizationData("modifiedCountDataProduct"))["data"];
+      const responseDataProduct = (await getVisualizationData("modifiedCountDataProductPb"))["data"];
       setDataProduct(responseDataProduct);
-      const responseSeller = (await getVisualizationData("modifiedCountSeller"))["data"];
+      const responseSeller = (await getVisualizationData("modifiedCountSellerPb"))["data"];
       setSeller(responseSeller);
-      const responseSellerProduct = (await getVisualizationData("modifiedCountSellerProducts"))["data"];
+      const responseSellerProduct = (await getVisualizationData("modifiedCountSellerProductsPb"))["data"];
       setSellerProduct(responseSellerProduct);
-      const responseAggProductAverageAndSum = (await getVisualizationData("modifiedCountAggProductAverageAndSum"))["data"];
+      const responseAggProductAverageAndSum = (await getVisualizationData("modifiedCountAggProductAverageAndSumPb"))["data"];
       setAggProductAverageAndSum(responseAggProductAverageAndSum);
-      const responseAggSellerAverageAndSum = (await getVisualizationData("modifiedCountAggSellerAverageAndSum"))["data"];
+      const responseAggSellerAverageAndSum = (await getVisualizationData("modifiedCountAggSellerAverageAndSumPb"))["data"];
       setAggSellerAverageAndSum(responseAggSellerAverageAndSum);
 
-      const responseModifiedTimes = (await getVisualizationData("modifiedTimes"))["data"];
+      const responseModifiedTimes = (await getVisualizationData("modifiedTimesPb"))["data"];
       setDataMonthTime(responseModifiedTimes[2]["datetime"]);
       setDataProductTime(responseModifiedTimes[3]["datetime"]);
       setSellerTime(responseModifiedTimes[4]["datetime"]);
