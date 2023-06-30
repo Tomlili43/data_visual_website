@@ -32,7 +32,7 @@ export default [
   {
     path: '/visualizations1',
     name: 'Visualizations1',
-    icon: 'BarChartOutlined',
+    icon: 'PieChartOutlined',
     divider: true,
     routes: [
       {
@@ -78,12 +78,12 @@ export default [
   {
     path: '/visualizations2',
     name: 'Visualizations2',
-    icon: 'PieChartOutlined',
+    icon: 'FileSearchOutlined',
     divider: true,
     routes: [
       {
-        path: 'categoryCountByMonthDP',
-        name: 'categoryCountByMonthDP',
+        path: 'categoryCountByMonthDM',
+        name: 'categoryCountByMonthDM',
         component: './amazon_93/CategoryCountByMonthDM',
       },
           
@@ -105,6 +105,40 @@ export default [
         name: 'sellerSearch93',
         icon: 'FileSearchOutlined',
         component: './amazon_93/SellerSearch93',
+      },
+    ]
+  },
+
+  {
+    path: '/visualizations3',
+    name: 'Visualizations3',
+    icon: 'BarChartOutlined',
+    divider: true,
+    routes: [
+      {
+        path: 'categoryCountByMonthDM',
+        name: 'categoryCountByMonthDM',
+        component: './amazon_148/CategoryCountByMonthDM',
+      },
+          
+      {
+        path: 'modifiedCount',
+        name: 'modifiedCount',
+        component: './amazon_148/ModifiedCount',
+      },
+
+      {
+        path: 'productSearch148',
+        name: 'productSearch148',
+        icon: 'FileSearchOutlined',
+        component: './amazon_148/ProductSearch148',
+      },
+
+      {
+        path: 'sellerSearch148',
+        name: 'sellerSearch148',
+        icon: 'FileSearchOutlined',
+        component: './amazon_148/SellerSearch148',
       },
     ]
   },

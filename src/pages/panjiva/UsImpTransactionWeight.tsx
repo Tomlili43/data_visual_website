@@ -1,14 +1,14 @@
 import { Line } from '@ant-design/plots';
 import React, { useState, useEffect } from 'react';
-import { getUSImpTransactionWeight } from '@/services/ant-design-pro/data';
+import { getVisualizationData } from '@/services/ant-design-pro/data';
 
 const USImpTransactionWeight = () => {
   const [data, setData] = useState([]);
 
   const fetchData = async () => {
     try {
-      const response = await getUSImpTransactionWeight();
-      const data = response["us_transaction_weight"]
+      const response = await getVisualizationData("usTransactionWeight");
+      const data = response["data"]
       setData(data);
     } catch (error) {
       console.error(error);
